@@ -331,23 +331,23 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--/projects-->
 	<div class="banner_bottom proj">
 		<div class="wrap_view">
-			<h3 class="tittle-w3ls">Projects</h3>
+			<h3 class="tittle-w3ls">Nuestros proyectos</h3>
 			<div class="inner_sec">
 				<ul class="portfolio-categ filter">
 					<li class="port-filter all active">
-						<a href="#">All</a>
+						<a href="#">Todo</a>
 					</li>
 					<li class="cat-item-1">
-						<a href="#" title="Category 1">Category 1</a>
+						<a href="#" title="Category 1">Página 1</a>
 					</li>
 					<li class="cat-item-2">
-						<a href="#" title="Category 2">Category 2</a>
+						<a href="#" title="Category 2">Página 2</a>
 					</li>
 					<li class="cat-item-3">
-						<a href="#" title="Category 3">Category 3</a>
+						<a href="#" title="Category 3">Página 3</a>
 					</li>
 					<li class="cat-item-4">
-						<a href="#" title="Category 4">Category 4</a>
+						<a href="#" title="Category 4">Página 4</a>
 					</li>
 				</ul>
 
@@ -361,8 +361,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							
 									<img src="images/g1.jpg" class="img-responsive" alt="Conceit">
 									<div class="port-info">
-											<h5>View Project</h5>
-											<p>Add Some Description</p>
+											<h5>Agendas de papel</h5>
+											<p>Agendas artesanales hechas a mano con papel reciclado.</p>
 										</div>
 							</a>
 						</span>

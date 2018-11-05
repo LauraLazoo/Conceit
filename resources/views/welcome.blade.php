@@ -59,7 +59,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 						</ul>
 						<ul class="nav navbar-nav">
-							<li class="active"><a href="index.html">Home</a></li>
+							<li class="active"><a href="index.html">Inicio</a></li>
 							<li><a href="about.html">Nosotros</a></li>
 							<li><a href="portfolio.html">Portfolio</a></li>
 							<li><a href="contact.html">Contact</a></li>
@@ -285,22 +285,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--/what-->
 	<div class="works">
 		<div class="container">
-			<h3 class="tittle-w3ls cen">What we do</h3>
+			<h3 class="tittle-w3ls cen">QUE ES LO QUE HACEMOS</h3>
 			<div class="inner_sec_info_wthree_agile">
 				<div class="ser-first">
 					<div class="col-md-3 ser-first-grid text-center">
 						<span class="fa fa-shield" aria-hidden="true"></span>
-						<h3>Unique Design</h3>
+						<h3>UNICO DISEÑO</h3>
 						<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
 					</div>
 					<div class="col-md-3 ser-first-grid text-center">
 						<span class="fa fa-pencil" aria-hidden="true"></span>
-						<h3>Different Layout</h3>
+						<h3>DIFERENTE DISEÑO</h3>
 						<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
 					</div>
 					<div class="col-md-3 ser-first-grid text-center">
 						<span class="fa fa-star" aria-hidden="true"></span>
-						<h3>Portfolio Styles</h3>
+						<h3>ESTILOS PORTAFOLIO</h3>
 						<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
 					</div>
 					<div class="col-md-3 ser-first-grid text-center">

@@ -60,7 +60,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</ul>
 						<ul class="nav navbar-nav">
 							<li class="active"><a href="index.html">Inicio</a></li>
-							<li><a href="about.html">Nosotros</a></li>
+							<li><a href="{{ url('/nosotros') }}">Nosotros</a></li>
 							<li><a href="portfolio.html">Portfolio</a></li>
 							<li><a href="contact.html">Contact</a></li>
 							<li class="dropdown">
@@ -569,20 +569,21 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--/bottom-->
 	<div class="banner_bottom">
 		<div class="container">
-			<h3 class="tittle-w3ls">Let’s Change How We Manage Business
+			<h3 class="tittle-w3ls">NUESTRAS VENTAJAS
 			</h3>
 			<div class="inner_sec_info_wthree_agile">
 				<div class="help_full">
 
 					<div class="col-md-6 banner_bottom_left">
-						<h4>Entrepreneurs Get Their Act Together </h4>
-						<p>Pellentesque convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
-							pulvinar neque pharetra ac. Lorem Ipsum convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla
-							viverra pharetra sem, eget pulvinar neque pharetra ac.
-
-						</p>
+						<h4>GARANTÍA </h4>
+						<p>Todos Nuestro Productos Cuentan con Garantía de Marca, Nuevos y Origínales, Respaldadas por Las Mejores Marcas del Mercado Tecnológico.</p>
+							<h4>PRECIOS INSUPERABLES </h4>
+						<p>En Grupo Infotec Siempre Encontraras Los Mejores Precios, Ofertas, Promociones y Regalos. Todos los peruanos Merecemos el Mejor Producto al menor Precio.</p>
+							<h4>MEJOR ATENCIÓN </h4>
+						<p>Contamos Con Los Mejores Colaboradores Capacitados Motivados para Ofrecerle La Mejor Atención que Ud. se Merece. "Cuida de tus Empleados que ellos cuidaran de tus Clientes"</p>
+						
 						<div class="ab_button">
-							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More </a>
+							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Lee más </a>
 						</div>
 
 
@@ -600,7 +601,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--/testimonials-->
 	<div class="tesimonials">
 		<div class="container">
-			<h3 class="tittle-w3ls cen">Testimonials</h3>
+			<h3 class="tittle-w3ls cen">PROMOCIONES</h3>
 			<div class="inner_sec">
 				<div class="test_grid_sec">
 					<div class="col-md-offset-2 col-md-8">
@@ -624,9 +625,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 											</div>
 											<div class="col-sm-9 test_img_info">
-												<p>Maecenas quis neque libero. Class aptent taciti.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-													auctor nec lacus ut tempor. Mauris.</p>
-												<h6>Sara Lisbon</h6>
+												<p >PC Dell WorkStation Precision 3420 SFF Intel Core i7 6700 3.4 GHz, RAM 8GB, HDD 1TB , Video 2GB AMD FirePro W2100 , DVD, Win 10 Pro </p>
+												<h6>S/ 11,299.00</h6>
 											</div>
 										</div>
 									</blockquote>
@@ -639,9 +639,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 												<img src="images/t2.jpg" class="img-responsive" alt="">
 											</div>
 											<div class="col-sm-9 test_img_info">
-												<p>Lorem ipsum dolor sit amet. Class aptent taciti.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-													auctor nec lacus ut tempor. Mauris.</p>
-												<h6>Jane Wearne</h6>
+												<p>PC Todo En Uno HP 20-C200LA, Intel Celeron J3060 1.6GHz, RAM 4GB, HDD 1TB, Wi-FI, DVD, LED 19.5" HD+ (1600x900), Free</p>
+												<h6>S/ 1,099.00</h6>
 											</div>
 										</div>
 									</blockquote>
@@ -654,9 +653,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 												<img src="images/t3.jpg" class="img-responsive" alt="">
 											</div>
 											<div class="col-sm-9 test_img_info">
-												<p>Maecenas quis neque libero. Class aptent taciti.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-													auctor nec lacus ut tempor. Mauris.</p>
-												<h6>Alice Williams</h6>
+												<p>PC Dell OptiPlex 5050 Intel Core i5 6500 3.2 GHz(vPro), RAM 8GB, HDD 500GB, Video 2GB AMD R5-340, DVD, Win 10 Pro+Monitor DELL de 18.5"</p>
+												<h6>S/ 15,299.00</h6>
 											</div>
 										</div>
 									</blockquote>
@@ -674,7 +672,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!-- /newsletter-->
 	<div class="newsletter_w3ls_agileits">
 		<div class="col-sm-6 newsleft">
-			<h3>Sign up for Newsletter !</h3>
+			<h3>Regístrese para boletín!</h3>
 		</div>
 		<div class="col-sm-6 newsright">
 			<form action="#" method="post">
@@ -691,29 +689,29 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="footer">
 		<div class="footer_inner_info_w3ls_agileits">
 			<div class="col-md-3 footer-left">
-				<h2><a href="index.html"><i class="fa fa-clone" aria-hidden="true"></i> Conceit </a></h2>
-				<p>Lorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.</p>
+				<h2><a href="index.html"><i class="fa fa-clone" aria-hidden="true"></i> PC-ritas </a></h2>
+				<p>Visitenos  a todas nuestras redes  sociales </p>
 				<ul class="social-nav model-3d-0 footer-social social two">
 					<li>
-						<a href="#" class="facebook">
+						<a href="https://www.facebook.com/" class="facebook">
 							<div class="front"><i class="fa fa-facebook" aria-hidden="true"></i></div>
 							<div class="back"><i class="fa fa-facebook" aria-hidden="true"></i></div>
 						</a>
 					</li>
 					<li>
-						<a href="#" class="twitter">
+						<a href="https://twitter.com/login?lang=es" class="twitter">
 							<div class="front"><i class="fa fa-twitter" aria-hidden="true"></i></div>
 							<div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
 						</a>
 					</li>
 					<li>
-						<a href="#" class="instagram">
+						<a href="https://www.instagram.com/accounts/login/?hl=es-la" class="instagram">
 							<div class="front"><i class="fa fa-instagram" aria-hidden="true"></i></div>
 							<div class="back"><i class="fa fa-instagram" aria-hidden="true"></i></div>
 						</a>
 					</li>
 					<li>
-						<a href="#" class="pinterest">
+						<a href="https://www.pinterest.es/login/" class="pinterest">
 							<div class="front"><i class="fa fa-linkedin" aria-hidden="true"></i></div>
 							<div class="back"><i class="fa fa-linkedin" aria-hidden="true"></i></div>
 						</a>
@@ -725,27 +723,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="col-md-4 sign-gd">
 						<h4>Latest <span>Info</span> </h4>
 						<ul>
-							<li><a href="index.html">Home</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="404.html">Services</a></li>
-							<li><a href="signin.html">Signin</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a href="index.html">Inicio</a></li>
+							<li><a href="about.html">Acerca de</a></li>
+							<li><a href="404.html">Servicio</a></li>
+							<li><a href="signin.html">Registrarse</a></li>
+							<li><a href="contact.html">Contactanos</a></li>
 						</ul>
 					</div>
-					<div class="col-md-3 sign-gd flickr-post">
-						<h4>Our <span>Works</span></h4>
-						<ul>
-							<li><a href="single.html"><img src="images/g1.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g2.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g3.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g4.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g5.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g6.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g7.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g8.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/g4.jpg" alt=" " class="img-responsive" /></a></li>
-						</ul>
-					</div>
+				
 					<div class="col-md-5 sign-gd-two">
 						<h4>Contact <span>Information</span></h4>
 						<div class="address">
@@ -754,7 +739,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<i class="fa fa-phone" aria-hidden="true"></i>
 								</div>
 								<div class="address-right">
-									<h6>Phone Number</h6>
+									<h6>Número de teléfono</h6>
 									<p>+1 234 567 8901</p>
 								</div>
 								<div class="clearfix"> </div>
@@ -764,8 +749,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<i class="fa fa-envelope" aria-hidden="true"></i>
 								</div>
 								<div class="address-right">
-									<h6>Email Address</h6>
-									<p>Email :<a href="mailto:example@email.com"> mail@example.com</a></p>
+									<h6>Dirección de correo electrónico</h6>
+									<p>Email :<a href="Pc-ritas:example@email.com"> mail@example.com</a></p>
 								</div>
 								<div class="clearfix"> </div>
 							</div>
@@ -774,9 +759,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<i class="fa fa-map-marker" aria-hidden="true"></i>
 								</div>
 								<div class="address-right">
-									<h6>Location</h6>
-									<p>Broome St, NY 10002,California, USA.
-
+									<h6>Ubicación</h6>
+									<p> Pasaje San lorenzo N°280 San Carlos
+ 
 									</p>
 								</div>
 								<div class="clearfix"> </div>
@@ -788,7 +773,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 			</div>
 			<div class="clearfix"></div>
-			<p class="copy-right">&copy 2018 Conceit. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
+			<p class="copy-right">&Pc-ritas 2018 Pc-ritas. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
 		</div>
 	</div>
 	</div>

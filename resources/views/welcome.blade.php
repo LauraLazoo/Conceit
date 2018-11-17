@@ -9,7 +9,7 @@
 <html>
 
 <head>
-	<title>esta es mi web</title>
+	<title>PC-ritas</title>
 
 	<!--/tags -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -43,36 +43,24 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
 					    aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-					<div class="logo-w3layouts-agileits">
-						<h1> <a class="navbar-brand" href="index.html"><i class="fa fa-clone" aria-hidden="true"></i> Conceit <span class="desc">For your Business</span></a></h1>
-					</div>
-				</div>
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+               </button>
+			<div class="logo-w3layouts-agileits">
+				<h1><a class="navbar-brand" href="{{url('/')}}"><i class="fa fa-clone" aria-hidden="true"></i> Conceit <span class="desc">For your Business</span></a></h1>
+			</div>
+			</div>
 				<div id="navbar" class="navbar-collapse collapse">
 					<div class="nav_right_top">
-						<ul class="nav navbar-nav navbar-right">
-							<li><a class="request" href="contact.html">Send Request</a></li>
-
-						</ul>
-						<ul class="nav navbar-nav">
-							<li class="active"><a href="index.html">Inicio</a></li>
-							<li><a href="{{ url('/nosotros') }}">Nosotros</a></li>
-							<li><a href="portfolio.html">Portfolio</a></li>
-							<li><a href="contact.html">Contact</a></li>
-							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-								<ul class="dropdown-menu">
-									<li><a href="portfolio.html">Projects</a></li>
-									<li><a href="404.html">Services</a></li>
-
-
-								</ul>
-							</li>
-						</ul>
+                  
+                  <ul class="nav navbar-nav">
+                     <li class="active"><a href="{{ url('/')}}">Inicio</a></li>
+                     <li><a href="{{ url('nosotros') }}">Nosotros</a></li>
+                     <li><a href="{{ url('portafolio') }}">Portafolio</a></li>
+                     <li><a href="{{ url('contactanos') }}">Contactanos</a></li>
+                  </ul>
 					</div>
 				</div>
 				<!--/.nav-collapse -->
@@ -123,14 +111,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="item active">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>Build Effective Designs</h3>
-						<p>Solutions made easy</p>
+						<h3>Diseño efectivo</h3>
+						<p>Soluciones al instante</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a class="act" href="single.html">Read More</a>
+								<a class="act" href="single.html">Leer mas</a>
 							</div>
 							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">Portfolio</a>
+								<a href="portfolio.html" class="two scroll ">Portafolio</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -140,14 +128,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="item item2">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>Best Business Thinking</h3>
-						<p>You deserve the best</p>
+						<h3>Pensamiento empresarial</h3>
+						<p>Tus deseos son ordenes</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a class="act" href="single.html">Read More</a>
+								<a class="act" href="single.html">Leer mas</a>
 							</div>
 							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">Portfolio</a>
+								<a href="portfolio.html" class="two scroll ">Portafolio</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -157,14 +145,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="item item3">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>Build Effective Designs</h3>
-						<p>Solutions made easy</p>
+						<h3>Diseños efectivos</h3>
+						<p>Soluciones mas faciles</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a class="act" href="single.html">Read More</a>
+								<a class="act" href="single.html">Leer mas</a>
 							</div>
 							<div class="bnr-button">
-								<a href="portfolio.html" class="two scroll ">Portfolio</a>
+								<a href="portfolio.html" class="two scroll ">Portafolio</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -176,14 +164,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="container">
 					<div class="carousel-caption">
 
-						<h3>Best Business Thinking</h3>
-						<p>You deserve the best</p>
+						<h3>Pensamientos empresarales</h3>
+						<p>Para ti y tu empresa</p>
 						<div class="top-buttons">
 							<div class="bnr-button">
-								<a class="act" href="single.html">Read More</a>
+								<a class="act" href="single.html">Leer mas</a>
 							</div>
 							<div class="bnr-button">
-								<a href="#portfolio" class="two scroll ">Portfolio</a>
+								<a href="#portfolio" class="two scroll ">Portafolio</a>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -205,7 +193,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--/ab-->
 	<div class="banner_bottom">
 		<div class="container">
-			<h3 class="tittle-w3ls">About Us</h3>
+			<h3 class="tittle-w3ls">Acerca de nosotros</h3>
 			<div class="inner_sec_info_wthree_agile">
 				<div class="help_full">
 
@@ -213,11 +201,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<img src="images/ab.png" alt=" " class="img-responsive">
 					</div>
 					<div class="col-md-6 banner_bottom_left">
-						<h4>Working to build a better web design</h4>
-						<p>Pellentesque convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
-							pulvinar neque pharetra ac.</p>
-						<p>Lorem Ipsum convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
-							pulvinar neque pharetra ac.</p>
+						<h4>Trabajo en equipo</h4>
+						<p>Unidos siempre estaremos en alto al nivel nacional e internacional</p>
+						<p>Siempre unidos.</p>
 						<div class="ab_button">
 							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More </a>
 						</div>
@@ -235,8 +221,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>
 							</div>
 							<div class="col-xs-9 banner_bottom_grid_right">
-								<h4>Digital Solutions</h4>
-								<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+								<h4>Soluciones digitales</h4>
+								<p>Al alcance de tus manos.</p>
 
 							</div>
 							<div class="clearfix"> </div>
@@ -252,8 +238,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>
 							</div>
 							<div class="col-xs-9 banner_bottom_grid_right">
-								<h4>Live Website Builder</h4>
-								<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+								<h4>Constructor de sitios web</h4>
+								<p>Plantillas</p>
 
 							</div>
 							<div class="clearfix"> </div>
@@ -269,7 +255,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>
 							</div>
 							<div class="col-xs-9 banner_bottom_grid_right">
-								<h4>Creative Strategy</h4>
+								<h4>Estrategia creativa</h4>
 								<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
 
 							</div>

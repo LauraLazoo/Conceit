@@ -17,3 +17,9 @@ Route::get('/', function () {
 Route::get("nosotros", function(){
 	return view('nosotros');
 });
+Route::get("portafolio", function(){
+	return view('portafolio');
+});
+Route::get("contactanos", function(){
+	return view('contactanos');
+});

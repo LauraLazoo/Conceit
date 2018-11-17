@@ -1,2874 +1,1840 @@
-!DOCTYPE html>
-<html lang="es">
+DOCTYPE html>
+<html>
 
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Contáctanos | PC-ritas.com</title>
-	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/manifest.json">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="msapplication-TileImage" content="/mstile-144x144.png">
-<meta name="theme-color" content="#ffffff">
-<link href="https://fonts.googleapis.com/css?family=Play:400,700" rel="stylesheet">
-<link rel="stylesheet" href="https://www.mesajilhnos.com/cdn/v3/css/swiper.min.css">
-<link rel="stylesheet" href="https://www.mesajilhnos.com/cdn/v3/css/nanobots.css">
-<link rel="stylesheet" href="https://www.mesajilhnos.com/cdn/v3/css/main.css?v=1362533168">
-<script src="https://www.mesajilhnos.com/cdn/v3/js/modernizr-custom.min.js"></script>
+	<title>PC-ritas</title>
 
-<!-- Google / Inicio -->
-<meta name="description" content="Somos una tienda especializada en cómputo y accesorios. Compra online o visita nuestras tiendas de Lima, La Molina, San Isidro o Miraflores. Envíos a todo el Perú.">
-<meta name="keywords" content="Tienda de cómputo, tienda de computo, accesorios de cómputo, accesorios de computo, equipos de cómputo, equipos de computo, accesorios de computación, accesorios de computación, accesorios de computadora, venta de computadoras, venta de laptops, tienda especializada en cómputo, partes de computadora, cases, laptops, laptop, portatiles, laptop, PC, PC gamer, mouse, mouses, mousepads, disco duro interno, disco duro sólido, disco duro solido, impresoras, multifuncionales, sillas para gamers, silla gaming, memoria micro sd, tableta grafica, tableta gráfica, tableta digitalizadora, tableta Wacom, tableta Xp-pen, servidores, tintas, tóners, toner, toneres, comprar computadoras, comprar laptop," />
-<meta name="news_keywords" content="Tienda de cómputo, tienda de computo, accesorios de cómputo, accesorios de computo, equipos de cómputo, equipos de computo, accesorios de computación, accesorios de computación, accesorios de computadora, venta de computadoras, venta de laptops, tienda especializada en cómputo, partes de computadora, cases, laptops, laptop, portatiles, laptop, PC, PC gamer, mouse, mouses, mousepads, disco duro interno, disco duro sólido, disco duro solido, impresoras, multifuncionales, sillas para gamers, silla gaming, memoria micro sd, tableta grafica, tableta gráfica, tableta digitalizadora, tableta Wacom, tableta Xp-pen, servidores, tintas, tóners, toner, toneres, comprar computadoras, comprar laptop,"/>
-<meta name="language" content="es" />
-<meta name="robots" content="index,follow"/>
-<meta name="googlebot" content="index, follow" />
-<meta name="organization" content="Distribuidora Mesajil Hnos SAC" />
-<meta name="revisit-after" content="1 day" />
-<meta name="author" content="Mesajil Hnos">
-<meta name="copyright" content="&copy; www.mesajilhnos.com" />
-<meta name="origen" content="Mesajil Hnos" />
-<meta name="locality" content="Lima, Perú" />
-<meta name="distribution" content="global" />
-<link rel="image_src" href="https://www.mesajilhnos.com/cdn/v3/images/compartir.jpg" />
-<link rel="canonical" href="https://www.mesajilhnos.com/contactanos"/>
-<!-- Google / Fin -->
-<!-- Open Graph / Inicio -->
-<meta property="og:url" content="https://www.mesajilhnos.com/contactanos"/>
-<meta property="og:title" content="Contáctanos"/>
-<meta property="og:description" content="Somos una tienda especializada en cómputo y accesorios. Compra online o visita nuestras tiendas de Lima, La Molina, San Isidro o Miraflores. Envíos a todo el Perú."/>
-<meta property="og:site_name" content="Mesajil Hnos"/>
-<meta property="og:image" content="https://www.mesajilhnos.com/cdn/v3/images/compartir.jpg"/>
-<meta property="og:type" content="website"/>
-<meta property="og:locale" content="es_LA"/>
-<!-- Open Graph / Fin -->
+	<!--/tags -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Conceit Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+	<script type="application/x-javascript">
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<!--//tags -->
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/prettyPhoto.css" rel="stylesheet" type="text/css" />
+	<link href="css/font-awesome.css" rel="stylesheet">
+	<!-- //for bootstrap working -->
+	<link href="//fonts.googleapis.com/css?family=Raleway:100,100i,200,300,300i,400,400i,500,500i,600,600i,700,800" rel="stylesheet">
+	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700" rel="stylesheet">
 </head>
 
 <body>
-	<form action="" id="mesajil" method="post" name="mesajil">
-		<input type="hidden" id="proceso" name="proceso" value="">
-
-<input type="hidden" id="url_base" name="url_base" value="https://www.mesajilhnos.com/">
-<input type="hidden" id="url_origen" name="url_origen" value="/contactanos.php">
-<input type="hidden" id="url_cdn" name="url_cdn" value="https://www.mesajilhnos.com/cdn/v3/">
-<input type="hidden" id="url_carrito" name="url_carrito" value="/carrito-compras">
-
-<input type="hidden" id="sexo_registro" name="sexo_registro" value="">
-<input type="hidden" id="suscripcion_registro" name="suscripcion_registro" value="">
-
-<input type="hidden" id="codigo_cliente" name="codigo_cliente" value="">
-<input type="hidden" id="sexo_perfil" name="sexo_perfil" value="">
-<input type="hidden" id="suscripcion_perfil" name="suscripcion_perfil" value="">
-<input type="hidden" id="terminos_perfil" name="terminos_perfil" value="">
-
-<input type="hidden" id="codigo_relacionado" name="codigo_relacionado" value="">
-
-<input type="hidden" id="bien_reclamaciones" name="bien_reclamaciones" value="">
-<input type="hidden" id="reclamo_reclamaciones" name="reclamo_reclamaciones" value="">
-
-<input type="hidden" id="sexo_equipo_valor" name="sexo_equipo_valor" value="">
-
-<input type="hidden" id="local_pedido" name="local_pedido" value="">
-
-<input type="hidden" id="numero_orden" name="numero_orden" value="">
-
-<div class="black-overlay overlay1"></div>
-<div class="black-overlay overlay2"></div>
-<div class="black-overlay overlay3"></div>
-<div class="black-overlay overlay4"></div>
-<div class="black-overlay overlay5"></div>
-
-<header>
-			<div class="wrapper header-section flex middle">
-		<div class="main-menu"> <img src="https://www.mesajilhnos.com/cdn/v3/images/menu.png" width="33" alt="Menu">
-			<div class="subtitle hide-s">Categorías</div>
-			<div class="display-menu">
-				<ul class="links-desplegables">
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/48/audio-foto-y-video">
-							Audio, foto y video						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/48/audio-foto-y-video"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/17/35-Audio foto y video2.png" alt="Audio, foto y video"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/16511/memoria-micro-sd-xc-128gb-class-10-80mb-s-sdcs-128gb-kingston">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/02/12/319x167_C---018327.jpg" alt="MEMORIA Micro SD XC 128GB Class 10 80MB/S (SDCS/128GB) Kingston" title="MEMORIA Micro SD XC 128GB Class 10 80MB/S (SDCS/128GB) Kingston" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 018327</div>
-												<a href="https://www.mesajilhnos.com/producto/16511/memoria-micro-sd-xc-128gb-class-10-80mb-s-sdcs-128gb-kingston" class="nombre-producto">MEMORIA Micro SD XC 128GB Class 10 80MB/S (SDCS/128GB) Kingston</a>
-												<div class="stock">Stock: Consultar</div>
-																								<div class="precio">Precio: S/ 105.40</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk16511" id="chk16511" data-relacionado="16511">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="16511"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="16511"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/15950/parlante-hp-s3100-2-0-usb-v3y48aa-abl-blanco">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2017/08/31/319x167_C---07767.jpg" alt="PARLANTE HP S3100 2.0 USB (V3Y48AA#ABL) Blanco" title="PARLANTE HP S3100 2.0 USB (V3Y48AA#ABL) Blanco" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 017767</div>
-												<a href="https://www.mesajilhnos.com/producto/15950/parlante-hp-s3100-2-0-usb-v3y48aa-abl-blanco" class="nombre-producto">PARLANTE HP S3100 2.0 USB (V3Y48AA#ABL) Blanco</a>
-												<div class="stock">Stock: 13</div>
-																								<div class="precio">Precio: S/ 54.40</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk15950" id="chk15950" data-relacionado="15950">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="15950"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="15950"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/48/audio-foto-y-video" class="menu_categoria">Audio, foto y video</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/290/accesorio-para-fotografia">> Accesorio para Fotografía</a>
-											<ul>
-																								<li><a href="https://www.mesajilhnos.com/listados/97/memorias-sd-y-microsd">- Memorias SD y MicroSD</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/43/mochilas-maletines-bolsos-y-fundas-para-camaras">- Mochilas, maletines, bolsos y fundas para cámaras</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/42/tripode-para-camara-digital">- Trípode para cámara digital</a>
-												</li>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/288/audio">> Audio</a>
-											<ul>
-																								<li><a href="https://www.mesajilhnos.com/listados/35/audifonos">- Audífonos</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/104/audifonos-gaming">- Audifonos Gaming</a>
-												</li>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/289/camaras">> Camaras</a>
-											<ul>
-																								<li><a href="https://www.mesajilhnos.com/listados/41/camaras-de-vigilancia">- Cámaras de vigilancia</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/40/camaras-web">- Cámaras web</a>
-												</li>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/344/parlantes">> Parlantes</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/76/proyectores-y-ecrans">> Proyectores y ecrans</a>
-											<ul>
-																								<li><a href="https://www.mesajilhnos.com/listados/29/accesorios-y-cables">- Accesorios y cables</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/26/ecrans">- Ecrans</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/24/presentadores">- Presentadores</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/25/proyectores">- Proyectores</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/28/racks">- Racks</a>
-												</li>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/57/soluciones-para-puntos-de-venta">
-							Soluciones para Puntos de Venta						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/57/soluciones-para-puntos-de-venta"><img src="https://www.mesajilhnos.com/cdn/files/2018/09/28/ll7.jpg" alt="Soluciones para Puntos de Venta"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/17770/monitor-lg-led-19-5-20mk400h-b-1366-x-768-vga-hdmi">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/25/319x167_C2---019520.jpg" alt="MONITOR LG LED 19.5" 20MK400H-B 1366 x 768  VGA/HDMI" title="MONITOR LG LED 19.5" 20MK400H-B 1366 x 768  VGA/HDMI" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 019520</div>
-												<a href="https://www.mesajilhnos.com/producto/17770/monitor-lg-led-19-5-20mk400h-b-1366-x-768-vga-hdmi" class="nombre-producto">MONITOR LG LED 19.5" 20MK400H-B 1366 x 768  VGA/HDMI</a>
-												<div class="stock">Stock: Más de 20</div>
-																								<div class="precio">Precio: S/ 323.00</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk17770" id="chk17770" data-relacionado="17770">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="17770"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="17770"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/17496/pc-desktop-hp-prodesk-400-g4-core-i3-6100-4gb-500gb-sff-2ky21la-abm-w10h">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/02/19/319x167_C---019265.jpg" alt="PC Desktop HP Prodesk 400 G4 Core I3-6100 4GB/500GB SFF (2KY21LA#ABM) W10h" title="PC Desktop HP Prodesk 400 G4 Core I3-6100 4GB/500GB SFF (2KY21LA#ABM) W10h" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 019265</div>
-												<a href="https://www.mesajilhnos.com/producto/17496/pc-desktop-hp-prodesk-400-g4-core-i3-6100-4gb-500gb-sff-2ky21la-abm-w10h" class="nombre-producto">PC Desktop HP Prodesk 400 G4 Core I3-6100 4GB/500GB SFF (2KY21LA#ABM) W10h</a>
-												<div class="stock">Stock: Más de 20</div>
-																								<div class="precio">Precio: S/ 1,853.00</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk17496" id="chk17496" data-relacionado="17496">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="17496"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="17496"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/57/soluciones-para-puntos-de-venta" class="menu_categoria">Soluciones para Puntos de Venta</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/350/computadoras">> Computadoras</a>
-											<ul>
-																								<li><a href="https://www.mesajilhnos.com/listados/105/all-in-one">- All In One</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/106/desktop">- Desktop</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/107/laptop">- Laptop</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/108/mini-desktop">- Mini Desktop</a>
-												</li>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/349/impresoras">> Impresoras</a>
-											<ul>
-																								<li><a href="https://www.mesajilhnos.com/listados/114/impresora-de-tinta">- Impresora de Tinta</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/115/impresoras-termicas">- Impresoras Termicas</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/113/laser">- Laser</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/116/matricial">- Matricial</a>
-												</li>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/352/lector-de-cogido-de-barras">> Lector de Cogido de Barras</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/351/monitores">> Monitores</a>
-											<ul>
-																								<li><a href="https://www.mesajilhnos.com/listados/110/led">- Led</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/109/touchscreen">- TouchScreen</a>
-												</li>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/353/suministros">> Suministros</a>
-											<ul>
-																								<li><a href="https://www.mesajilhnos.com/listados/111/cintas">- Cintas</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/117/papel-bond">- Papel Bond</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/112/papeles-termicas">- Papeles térmicas</a>
-												</li>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/15/partes-piezas-para-tu-computadora">
-							Partes & Piezas para tu Computadora						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/15/partes-piezas-para-tu-computadora"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/18/arma-tu-pc.png" alt="Partes & Piezas para tu Computadora"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/16909/cooler-para-case-antryx-xtreme-flow-15-led-red-1200rpm">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/08/20/319x167_018724.jpg" alt="COOLER para case Antryx Xtreme Flow 15 Led  Red 1200rpm" title="COOLER para case Antryx Xtreme Flow 15 Led  Red 1200rpm" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 018724</div>
-												<a href="https://www.mesajilhnos.com/producto/16909/cooler-para-case-antryx-xtreme-flow-15-led-red-1200rpm" class="nombre-producto">COOLER para case Antryx Xtreme Flow 15 Led  Red 1200rpm</a>
-												<div class="stock">Stock: 3</div>
-																								<div class="precio">Precio: S/ 28.90</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk16909" id="chk16909" data-relacionado="16909">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="16909"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="16909"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/16491/kit-xtech-case-800watts-standar-teclado-mouse-audifono-microfono-parlantes-xt-gmr-s">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2017/08/23/319x167_C---018307.jpg" alt="Kit  XTECH CASE 800watts standar /Teclado/Mouse/Audifono Microfono/Parlantes (XT-GMR-S)" title="Kit  XTECH CASE 800watts standar /Teclado/Mouse/Audifono Microfono/Parlantes (XT-GMR-S)" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 018307</div>
-												<a href="https://www.mesajilhnos.com/producto/16491/kit-xtech-case-800watts-standar-teclado-mouse-audifono-microfono-parlantes-xt-gmr-s" class="nombre-producto">Kit  XTECH CASE 800watts standar /Teclado/Mouse/Audifono Microfono/Parlantes (XT-GMR-S)</a>
-												<div class="stock">Stock: 4</div>
-																								<div class="precio">Precio: S/ 306.00</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk16491" id="chk16491" data-relacionado="16491">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="16491"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="16491"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																						<div class="info-extra">
-												<div class="estado">
-													Popular												</div>
-																							</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/15/partes-piezas-para-tu-computadora" class="menu_categoria">Partes & Piezas para tu Computadora</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/180/cases">> Cases</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/348/cooler-para-case">> Cooler para Case</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/58/discos-duros-internos">> Discos duros internos</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/190/discos-duros-solidos">> Discos duros sólidos</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/181/fuentes">> Fuentes</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/214/grabadoras">> Grabadoras</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/107/memorias-ram">> Memorias RAM</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/64/placa-madre">> Placa Madre</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/270/procesadores-y-accesorios">> Procesadores y accesorios</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/66/tarjeta-de-sonido">> Tarjeta de Sonido</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/67/tarjeta-de-video">> Tarjeta de Video</a>
-											<ul>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/33/laptop-desktop-all-in-one">
-							Laptop - Desktop - All In One						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/33/laptop-desktop-all-in-one"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/18/computadoras.jpg" alt="Laptop - Desktop - All In One"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/18192/laptop-dell-inspiron-3579-gaming-3-core-i7-8750h-8gb-1tb-128ssd-v4gb-15-6-78gd0-w10">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/09/18/319x167_C_019880.jpg" alt="Laptop Dell Inspiron 3579 Gaming 3 Core i7-8750H 8GB/1TB+128SSD/V4GB/15.6" (78GD0) W10" title="Laptop Dell Inspiron 3579 Gaming 3 Core i7-8750H 8GB/1TB+128SSD/V4GB/15.6" (78GD0) W10" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 019880</div>
-												<a href="https://www.mesajilhnos.com/producto/18192/laptop-dell-inspiron-3579-gaming-3-core-i7-8750h-8gb-1tb-128ssd-v4gb-15-6-78gd0-w10" class="nombre-producto">Laptop Dell Inspiron 3579 Gaming 3 Core i7-8750H 8GB/1TB+128SSD/V4GB/15.6" (78GD0) W10</a>
-												<div class="stock">Stock: 9</div>
-																								<div class="precio">Precio: S/ 4,403.00</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk18192" id="chk18192" data-relacionado="18192">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="18192"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="18192"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/17735/pc-all-in-one-hp-27-r003la-intel-core-i7-7700t-16gb-3tb-v4gb-27-touch-hl40aa-abm-w10h">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/23/319x167_C2---019501.jpg" alt="PC All In One HP 27-R003LA Intel Core i7-7700T 16GB/3TB/V4GB/27" TOUCH (HL40AA#ABM) W10h" title="PC All In One HP 27-R003LA Intel Core i7-7700T 16GB/3TB/V4GB/27" TOUCH (HL40AA#ABM) W10h" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 019501</div>
-												<a href="https://www.mesajilhnos.com/producto/17735/pc-all-in-one-hp-27-r003la-intel-core-i7-7700t-16gb-3tb-v4gb-27-touch-hl40aa-abm-w10h" class="nombre-producto">PC All In One HP 27-R003LA Intel Core i7-7700T 16GB/3TB/V4GB/27" TOUCH (HL40AA#ABM) W10h</a>
-												<div class="stock">Stock: 1</div>
-																								<div class="precio">Precio: S/ 5,542.00</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk17735" id="chk17735" data-relacionado="17735">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="17735"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="17735"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/33/laptop-desktop-all-in-one" class="menu_categoria">Laptop - Desktop - All In One</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/154/all-in-one">> All-in-one </a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/30/desktops">> Desktops</a>
-											<ul>
-																								<li><a href="https://www.mesajilhnos.com/listados/5/desktops">- Desktops</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/6/mini-pc">- Mini Pc</a>
-												</li>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/267/laptops">> Laptops</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/284/laptops-para-gamers">> Laptops para gamers</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/266/monitores">> Monitores</a>
-											<ul>
-																								<li><a href="https://www.mesajilhnos.com/listados/98/accesorios-y-cables">- Accesorios y cables</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/1/monitores-led">- Monitores LED</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/4/racks-para-monitores">- Racks para monitores</a>
-												</li>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/56/monitores-televisores">
-							Monitores & televisores						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/56/monitores-televisores"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/18/monitores.jpg" alt="Monitores & televisores"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/18077/monitor-elo-et1509-15-touchscreen">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/08/09/319x167_C_019858.jpg" alt="MONITOR  ELO ET1509  15"  Touchscreen" title="MONITOR  ELO ET1509  15"  Touchscreen" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 019858</div>
-												<a href="https://www.mesajilhnos.com/producto/18077/monitor-elo-et1509-15-touchscreen" class="nombre-producto">MONITOR  ELO ET1509  15"  Touchscreen</a>
-												<div class="stock">Stock: 9</div>
-																								<div class="precio">Precio: S/ 1,173.00</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk18077" id="chk18077" data-relacionado="18077">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="18077"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="18077"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/12068/monitor-viewsonic-led-21-5-td2220-multitactil-touch-dvi-vga-vs14833">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2017/09/20/319x167_C---013924.jpg" alt="MONITOR ViewSonic LED 21.5" TD2220 Multitactil Touch DVI/VGA (VS14833)" title="MONITOR ViewSonic LED 21.5" TD2220 Multitactil Touch DVI/VGA (VS14833)" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 013924</div>
-												<a href="https://www.mesajilhnos.com/producto/12068/monitor-viewsonic-led-21-5-td2220-multitactil-touch-dvi-vga-vs14833" class="nombre-producto">MONITOR ViewSonic LED 21.5" TD2220 Multitactil Touch DVI/VGA (VS14833)</a>
-												<div class="stock">Stock: 5</div>
-																								<div class="precio">Precio: S/ 986.00</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk12068" id="chk12068" data-relacionado="12068">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="12068"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="12068"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/56/monitores-televisores" class="menu_categoria">Monitores & televisores</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/327/accesorios-y-cables">> Accesorios y cables</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/343/monitor-touchscreen">> Monitor TouchScreen</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/326/monitores-led">> Monitores LED</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/328/racks">> Racks</a>
-											<ul>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/35/zona-gamer">
-							Zona Gamer						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/35/zona-gamer"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/18/Banner--Menu-categoria-Zona-Gamer.jpg" alt="Zona Gamer"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/18318/case-nzxt-h700i-ninja-mid-tower-atx-ca-h700w-nj">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/10/11/319x167_C_020158.jpg" alt="CASE NZXT H700i  NINJA MID TOWER ATX CA-H700W-NJ" title="CASE NZXT H700i  NINJA MID TOWER ATX CA-H700W-NJ" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 020158</div>
-												<a href="https://www.mesajilhnos.com/producto/18318/case-nzxt-h700i-ninja-mid-tower-atx-ca-h700w-nj" class="nombre-producto">CASE NZXT H700i  NINJA MID TOWER ATX CA-H700W-NJ</a>
-												<div class="stock">Stock: 1</div>
-																								<div class="precio">Precio: S/ 972.40</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk18318" id="chk18318" data-relacionado="18318">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="18318"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="18318"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/18192/laptop-dell-inspiron-3579-gaming-3-core-i7-8750h-8gb-1tb-128ssd-v4gb-15-6-78gd0-w10">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/09/18/319x167_C_019880.jpg" alt="Laptop Dell Inspiron 3579 Gaming 3 Core i7-8750H 8GB/1TB+128SSD/V4GB/15.6" (78GD0) W10" title="Laptop Dell Inspiron 3579 Gaming 3 Core i7-8750H 8GB/1TB+128SSD/V4GB/15.6" (78GD0) W10" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 019880</div>
-												<a href="https://www.mesajilhnos.com/producto/18192/laptop-dell-inspiron-3579-gaming-3-core-i7-8750h-8gb-1tb-128ssd-v4gb-15-6-78gd0-w10" class="nombre-producto">Laptop Dell Inspiron 3579 Gaming 3 Core i7-8750H 8GB/1TB+128SSD/V4GB/15.6" (78GD0) W10</a>
-												<div class="stock">Stock: 9</div>
-																								<div class="precio">Precio: S/ 4,403.00</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk18192" id="chk18192" data-relacionado="18192">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="18192"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="18192"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/35/zona-gamer" class="menu_categoria">Zona Gamer</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/354/cases-para-gamer">> Cases para Gamer</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/258/combo-teclado-mouse">> Combo - Teclado + Mouse</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/187/headsets">> Headsets</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/276/laptops-para-gamers">> Laptops para gamers</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/245/mandos-consolas">> Mandos & Consolas</a>
-											<ul>
-																								<li><a href="https://www.mesajilhnos.com/listados/33/consolas">- Consolas</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/34/controles-y-accesorios">- Controles y accesorios</a>
-												</li>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/249/mochilas-y-maletines">> Mochilas y maletines </a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/336/monitores">> Monitores</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/219/mouses-y-mousepads">> Mouses y mousepads</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/347/parlante">> Parlante</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/305/sillas">> Sillas</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/156/teclado">> Teclado</a>
-											<ul>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/36/accesorios-de-computo">
-							Accesorios de Computo						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/36/accesorios-de-computo"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/18/accesorios-de-computo.jpg" alt="Accesorios de Computo"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/17334/adaptador-targus-multipuertos-ubs-c-a-hdmi-usb-3-0-aca929us">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/02/01/319x167_C---019143.jpg" alt="ADAPTADOR TARGUS Multipuertos UBS-C  a HDMI / USB 3.0 (ACA929US)" title="ADAPTADOR TARGUS Multipuertos UBS-C  a HDMI / USB 3.0 (ACA929US)" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 019143</div>
-												<a href="https://www.mesajilhnos.com/producto/17334/adaptador-targus-multipuertos-ubs-c-a-hdmi-usb-3-0-aca929us" class="nombre-producto">ADAPTADOR TARGUS Multipuertos UBS-C  a HDMI / USB 3.0 (ACA929US)</a>
-												<div class="stock">Stock: 4</div>
-																								<div class="precio">Precio: S/ 190.40</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk17334" id="chk17334" data-relacionado="17334">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="17334"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="17334"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/16099/memoria-usb-16gb-hp-flash-drive-v178b-turquesa-blanco">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2017/08/18/319x167_C---017916.jpg" alt="MEMORIA USB 16GB HP Flash Drive V178B Turquesa/Blanco" title="MEMORIA USB 16GB HP Flash Drive V178B Turquesa/Blanco" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 017916</div>
-												<a href="https://www.mesajilhnos.com/producto/16099/memoria-usb-16gb-hp-flash-drive-v178b-turquesa-blanco" class="nombre-producto">MEMORIA USB 16GB HP Flash Drive V178B Turquesa/Blanco</a>
-												<div class="stock">Stock: Más de 20</div>
-																								<div class="precio">Precio: S/ 28.90</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk16099" id="chk16099" data-relacionado="16099">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="16099"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="16099"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/36/accesorios-de-computo" class="menu_categoria">Accesorios de Computo</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/341/adaptadores">> Adaptadores</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/110/discos-duros-externos">> Discos duros externos</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/274/kits-de-limpieza">> Kits de limpieza</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/46/memorias-usb-3-0-y-2-0">> Memorias USB 3.0 y 2.0</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/271/mouses-y-mousepads">> Mouses y mousepads</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/199/teclados">> Teclados</a>
-											<ul>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/34/accesorios-para-laptops">
-							Accesorios para Laptops						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/34/accesorios-para-laptops"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/18/accesorio-para-laptops.jpg" alt="Accesorios para Laptops"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/17994/capturador-iblue-de-tv-usb-digital-tv-turner-sdu200">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/06/19/319x167_C2---019744.jpg" alt="CAPTURADOR iBLUE DE TV USB Digital TV turner (SDU200)" title="CAPTURADOR iBLUE DE TV USB Digital TV turner (SDU200)" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 019744</div>
-												<a href="https://www.mesajilhnos.com/producto/17994/capturador-iblue-de-tv-usb-digital-tv-turner-sdu200" class="nombre-producto">CAPTURADOR iBLUE DE TV USB Digital TV turner (SDU200)</a>
-												<div class="stock">Stock: Consultar</div>
-																								<div class="precio">Precio: S/ 61.20</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk17994" id="chk17994" data-relacionado="17994">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="17994"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="17994"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/17902/mochila-targus-newport-15-tsb945bt-negro">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/05/25/319x167_C2---019646.jpg" alt="MOCHILA Targus Newport 15" (TSB945BT) Negro" title="MOCHILA Targus Newport 15" (TSB945BT) Negro" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 019646</div>
-												<a href="https://www.mesajilhnos.com/producto/17902/mochila-targus-newport-15-tsb945bt-negro" class="nombre-producto">MOCHILA Targus Newport 15" (TSB945BT) Negro</a>
-												<div class="stock">Stock: 4</div>
-																								<div class="precio">Precio: S/ 176.80</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk17902" id="chk17902" data-relacionado="17902">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="17902"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="17902"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/34/accesorios-para-laptops" class="menu_categoria">Accesorios para Laptops</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/100/cable-de-seguridad">> Cable de seguridad</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/153/cargadores">> Cargadores</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/149/coolers">> Coolers</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/147/discos-duros-internos">> Discos duros internos</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/19/hub-y-mini-hub">> Hub y mini Hub</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/323/kit-de-limpieza">> Kit de Limpieza</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/146/memorias-ram">> Memorias RAM</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/318/mochilas-maletines-y-fundas">> Mochilas, maletines y fundas</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/307/mouses-y-mousepads">> Mouses y mousepads</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/311/protector-de-teclado">> Protector de teclado</a>
-											<ul>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/10/impresoras-y-suministros">
-							Impresoras y suministros						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/10/impresoras-y-suministros"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/18/Banner--Menu-categoria-impresora-y-suministros.jpg" alt="Impresoras y suministros"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/17101/cabezal-hp-f9j87a-744-magenta-yellow-designjet-z2600-z5600">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2017/12/28/319x167_C---018918.jpg" alt="CABEZAL HP F9J87A (744) MAGENTA / YELLOW Designjet Z2600/Z5600" title="CABEZAL HP F9J87A (744) MAGENTA / YELLOW Designjet Z2600/Z5600" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 018918</div>
-												<a href="https://www.mesajilhnos.com/producto/17101/cabezal-hp-f9j87a-744-magenta-yellow-designjet-z2600-z5600" class="nombre-producto">CABEZAL HP F9J87A (744) MAGENTA / YELLOW Designjet Z2600/Z5600</a>
-												<div class="stock">Stock: Consultar</div>
-																								<div class="precio">Precio: S/ 331.50</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk17101" id="chk17101" data-relacionado="17101">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="17101"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="17101"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/16707/toner-kyocera-tk-312-fs-2000d-12k-black">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/02/13/319x167_C---018519.jpg" alt="TONER KYOCERA TK-312 FS-2000D 12K Black" title="TONER KYOCERA TK-312 FS-2000D 12K Black" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 018519</div>
-												<a href="https://www.mesajilhnos.com/producto/16707/toner-kyocera-tk-312-fs-2000d-12k-black" class="nombre-producto">TONER KYOCERA TK-312 FS-2000D 12K Black</a>
-												<div class="stock">Stock: 1</div>
-																								<div class="precio">Precio: S/ 258.40</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk16707" id="chk16707" data-relacionado="16707">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="16707"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="16707"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/10/impresoras-y-suministros" class="menu_categoria">Impresoras y suministros</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/282/escaneres">> Escáneres</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/280/impresoras-y-multifuncionales">> Impresoras y multifuncionales</a>
-											<ul>
-																								<li><a href="https://www.mesajilhnos.com/listados/58/fotograficas">- Fotográficas</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/102/laserjet">- LaserJet</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/59/matriciales">- Matriciales</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/57/multifuncionales">- Multifuncionales</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/61/plotters">- Plotters</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/56/sistema-continuo">- Sistema Continuo</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/60/termicas">- Térmicas</a>
-												</li>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/281/papeles">> Papeles</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/279/tintas-y-toneres">> Tintas y tóneres</a>
-											<ul>
-																								<li><a href="https://www.mesajilhnos.com/listados/63/toneres">- Tóneres</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/62/tintas">- Tintas</a>
-												</li>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/53/unidades-de-almacenamiento">
-							Unidades de almacenamiento						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/53/unidades-de-almacenamiento"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/18/Banner--Menu-unidad-de-almacenmiento.jpg" alt="Unidades de almacenamiento"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/17301/disco-duro-de-2tb-externo-lacie-porsche-design-2-5-stfd2000406-2a69pd-570-usb-c-usb-3-0-rosado">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/01/10/319x167_C---019110.jpg" alt="Disco Duro de 2TB Externo Lacie Porsche Design 2.5" (STFD2000406)(2A69PD-570) USB-C/USB 3.0 Rosado" title="Disco Duro de 2TB Externo Lacie Porsche Design 2.5" (STFD2000406)(2A69PD-570) USB-C/USB 3.0 Rosado" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 019110</div>
-												<a href="https://www.mesajilhnos.com/producto/17301/disco-duro-de-2tb-externo-lacie-porsche-design-2-5-stfd2000406-2a69pd-570-usb-c-usb-3-0-rosado" class="nombre-producto">Disco Duro de 2TB Externo Lacie Porsche Design 2.5" (STFD2000406)(2A69PD-570) USB-C/USB 3.0 Rosado</a>
-												<div class="stock">Stock: 7</div>
-																								<div class="precio">Precio: S/ 459.00</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk17301" id="chk17301" data-relacionado="17301">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="17301"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="17301"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/17187/disco-duro-interno-solido-de-256gb-intel-ssdsc2kw256g8x1-2-5-sata">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2017/11/16/319x167_C---019003.jpg" alt="Disco Duro Interno Solido de 256GB INTEL (SSDSC2KW256G8X1) 2.5" Sata" title="Disco Duro Interno Solido de 256GB INTEL (SSDSC2KW256G8X1) 2.5" Sata" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 019003</div>
-												<a href="https://www.mesajilhnos.com/producto/17187/disco-duro-interno-solido-de-256gb-intel-ssdsc2kw256g8x1-2-5-sata" class="nombre-producto">Disco Duro Interno Solido de 256GB INTEL (SSDSC2KW256G8X1) 2.5" Sata</a>
-												<div class="stock">Stock: 8</div>
-																								<div class="precio">Precio: S/ 265.20</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk17187" id="chk17187" data-relacionado="17187">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="17187"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="17187"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/53/unidades-de-almacenamiento" class="menu_categoria">Unidades de almacenamiento</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/312/disco-duro-externos">> Disco Duro Externos</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/313/disco-duro-internos">> Disco Duro Internos</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/346/disco-duro-solido-m-2">> Disco Duro Solido M.2</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/316/disco-duro-solido-ssd-interno">> Disco Duro Solido SSD Interno</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/315/memorias-sd-y-microsd">> Memorias SD y MicroSD</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/314/memorias-usb-3-0-y-2-0">> Memorias USB 3.0 y 2.0</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/317/servidor-de-almacenamiento">> Servidor de Almacenamiento</a>
-											<ul>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/49/tablets-accesorio-para-celulares">
-							Tablets, Accesorio para Celulares						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/49/tablets-accesorio-para-celulares"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/17/36-Tablets.png" alt="Tablets, Accesorio para Celulares"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/18348/cargador-corriente-sony-01-puerto-usb-c-cable-micro-usb-cp-ad2">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/10/15/319x167_C_020179.jpg" alt="Cargador Corriente SONY 01 Puerto USB c/ Cable Micro USB (CP-AD2)" title="Cargador Corriente SONY 01 Puerto USB c/ Cable Micro USB (CP-AD2)" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 020179</div>
-												<a href="https://www.mesajilhnos.com/producto/18348/cargador-corriente-sony-01-puerto-usb-c-cable-micro-usb-cp-ad2" class="nombre-producto">Cargador Corriente SONY 01 Puerto USB c/ Cable Micro USB (CP-AD2)</a>
-												<div class="stock">Stock: 16</div>
-																								<div class="precio">Precio: S/ 30.60</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk18348" id="chk18348" data-relacionado="18348">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="18348"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="18348"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/17883/estuche-case-logic-para-tablet-7-qts-207">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/06/20/319x167_C2---019626.jpg" alt="Estuche Case Logic  para Tablet  7"  (QTS-207)" title="Estuche Case Logic  para Tablet  7"  (QTS-207)" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 019626</div>
-												<a href="https://www.mesajilhnos.com/producto/17883/estuche-case-logic-para-tablet-7-qts-207" class="nombre-producto">Estuche Case Logic  para Tablet  7"  (QTS-207)</a>
-												<div class="stock">Stock: 2</div>
-																								<div class="precio">Precio: S/ 42.50</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk17883" id="chk17883" data-relacionado="17883">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="17883"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="17883"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/49/tablets-accesorio-para-celulares" class="menu_categoria">Tablets, Accesorio para Celulares</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/294/accesorios">> Accesorios</a>
-											<ul>
-																								<li><a href="https://www.mesajilhnos.com/listados/83/cables-cargadores">- Cables & Cargadores</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/85/fundas">- Fundas</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/103/memorias-sd-micro-sd">- Memorias SD & Micro SD</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/80/parlantes">- Parlantes</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/87/selfie-stick">- Selfie Stick</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/82/soportes">- Soportes</a>
-												</li>
-																								<li><a href="https://www.mesajilhnos.com/listados/81/teclados">- Teclados</a>
-												</li>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/332/cargadores">> Cargadores</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/329/fundas">> Fundas</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/182/laminas-protectoras">> Láminas protectoras</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/334/powerbank-baterias-externas">> Powerbank (Baterías externas)</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/218/tablets">> Tablets</a>
-											<ul>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/42/tabletas-grafica">
-							Tabletas Grafica						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/42/tabletas-grafica"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/19/39-Tabletas-gráficas.png" alt="Tabletas Grafica"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/16651/tableta-wacom-cintiq-13hd-creative-pen-display-dtk1300">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2017/12/01/319x167_C---018463.jpg" alt="Tableta Wacom Cintiq 13HD Creative Pen display (DTK1300)" title="Tableta Wacom Cintiq 13HD Creative Pen display (DTK1300)" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 018463</div>
-												<a href="https://www.mesajilhnos.com/producto/16651/tableta-wacom-cintiq-13hd-creative-pen-display-dtk1300" class="nombre-producto">Tableta Wacom Cintiq 13HD Creative Pen display (DTK1300)</a>
-												<div class="stock">Stock: Consultar</div>
-																								<div class="precio">Precio: S/ 3,553.00</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk16651" id="chk16651" data-relacionado="16651">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="16651"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="16651"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/13085/wacom-wireless-accessory-kit-ack40401">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2017/09/01/319x167_C---014910.jpg" alt="Wacom Wireless Accessory Kit (ACK40401)" title="Wacom Wireless Accessory Kit (ACK40401)" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 014910</div>
-												<a href="https://www.mesajilhnos.com/producto/13085/wacom-wireless-accessory-kit-ack40401" class="nombre-producto">Wacom Wireless Accessory Kit (ACK40401)</a>
-												<div class="stock">Stock: 2</div>
-																								<div class="precio">Precio: S/ 176.80</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk13085" id="chk13085" data-relacionado="13085">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="13085"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="13085"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/42/tabletas-grafica" class="menu_categoria">Tabletas Grafica</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/254/accesorios">> Accesorios</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/299/monitores-interactivos">> Monitores interactivos</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/261/tabletas-graficas">> Tabletas gráficas</a>
-											<ul>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/52/servidores">
-							Servidores						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/52/servidores"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/18/38-Servidores.png" alt="Servidores"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/16886/servidor-lenovo-thinkserver-ts150-intel-xeon-e3-1245v6-70ua000wld">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/08/13/319x167_C_018701.jpg" alt="SERVIDOR LENOVO Thinkserver TS150 Intel Xeon E3-1245V6 (70UA000WLD)" title="SERVIDOR LENOVO Thinkserver TS150 Intel Xeon E3-1245V6 (70UA000WLD)" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 018701</div>
-												<a href="https://www.mesajilhnos.com/producto/16886/servidor-lenovo-thinkserver-ts150-intel-xeon-e3-1245v6-70ua000wld" class="nombre-producto">SERVIDOR LENOVO Thinkserver TS150 Intel Xeon E3-1245V6 (70UA000WLD)</a>
-												<div class="stock">Stock: 6</div>
-																								<div class="precio">Precio: S/ 3,298.00</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk16886" id="chk16886" data-relacionado="16886">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="16886"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="16886"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/9891/disco-duro-interno-ibm-450-gb-sas-15k-44w2239-para-serv-7328c2u">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/05/15/319x167_C2---011722.jpg" alt="Disco Duro interno  IBM 450.GB SAS 15K 44W2239 para serv. (7328C2U)" title="Disco Duro interno  IBM 450.GB SAS 15K 44W2239 para serv. (7328C2U)" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 011722</div>
-												<a href="https://www.mesajilhnos.com/producto/9891/disco-duro-interno-ibm-450-gb-sas-15k-44w2239-para-serv-7328c2u" class="nombre-producto">Disco Duro interno  IBM 450.GB SAS 15K 44W2239 para serv. (7328C2U)</a>
-												<div class="stock">Stock: 1</div>
-																								<div class="precio">Precio: S/ 1,241.00</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk9891" id="chk9891" data-relacionado="9891">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="9891"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="9891"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/52/servidores" class="menu_categoria">Servidores</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/309/partes-de-servidor">> Partes de servidor</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/308/servidores">> Servidores</a>
-											<ul>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/14/redes-y-conectividad">
-							Redes y conectividad						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/14/redes-y-conectividad"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/18/Banner--Menu-Redes-y-conectividad.jpg" alt="Redes y conectividad"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/16129/gabinete-de-pared-beaucoup-12ru-p-vidrio-abatible-i-1026-n-negro">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/07/17/319x167_C-017946.jpg" alt="GABINETE DE PARED BEAUCOUP 12RU P/VIDRIO ABATIBLE (I-1026-N) NEGRO" title="GABINETE DE PARED BEAUCOUP 12RU P/VIDRIO ABATIBLE (I-1026-N) NEGRO" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 017946</div>
-												<a href="https://www.mesajilhnos.com/producto/16129/gabinete-de-pared-beaucoup-12ru-p-vidrio-abatible-i-1026-n-negro" class="nombre-producto">GABINETE DE PARED BEAUCOUP 12RU P/VIDRIO ABATIBLE (I-1026-N) NEGRO</a>
-												<div class="stock">Stock: Consultar</div>
-																								<div class="precio">Precio: S/ 780.30</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk16129" id="chk16129" data-relacionado="16129">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="16129"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="16129"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/14569/disco-duro-de-4tb-interno-s-ata-3-western-digital-purple-wd40purx-purz-nvr">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2017/09/12/319x167_C---016395.jpg" alt="Disco Duro de 4TB Interno S.ata-3 Western Digital Purple (WD40PURX / PURZ) NVR" title="Disco Duro de 4TB Interno S.ata-3 Western Digital Purple (WD40PURX / PURZ) NVR" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 016395</div>
-												<a href="https://www.mesajilhnos.com/producto/14569/disco-duro-de-4tb-interno-s-ata-3-western-digital-purple-wd40purx-purz-nvr" class="nombre-producto">Disco Duro de 4TB Interno S.ata-3 Western Digital Purple (WD40PURX / PURZ) NVR</a>
-												<div class="stock">Stock: 12</div>
-																								<div class="precio">Precio: S/ 540.60</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk14569" id="chk14569" data-relacionado="14569">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="14569"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="14569"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/14/redes-y-conectividad" class="menu_categoria">Redes y conectividad</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/138/accesorios-para-cableado-estructurado">> Accesorios para cableado/estructurado</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/139/access-point">> Access Point</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/339/adaptador-bluetooth">> Adaptador Bluetooth</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/337/adaptador-de-red">> Adaptador de red</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/140/adaptador-wireless-usb">> Adaptador wireless USB</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/246/discos-duros-para-nvr">> Discos duros para NVR</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/35/extensor-inalambrico-powerline">> Extensor inalámbrico (Powerline)</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/293/gabinete-de-piso-y-de-pared">> Gabinete de piso y de pared</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/84/routers">> Routers</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/83/switches">> Switches</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/68/tarjeta-de-red">> Tarjeta de red</a>
-											<ul>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/54/proteccion-electrica">
-							Proteccion Electrica						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/54/proteccion-electrica"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/18/37-Protección-eléctrica.png" alt="Proteccion Electrica"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/15982/ups-apc-bx1100li-ms-1100va-550w-230v-avr">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/08/22/319x167_017799.jpg" alt="UPS APC BX1100LI-MS 1100VA 550W 230V AVR" title="UPS APC BX1100LI-MS 1100VA 550W 230V AVR" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 017799</div>
-												<a href="https://www.mesajilhnos.com/producto/15982/ups-apc-bx1100li-ms-1100va-550w-230v-avr" class="nombre-producto">UPS APC BX1100LI-MS 1100VA 550W 230V AVR</a>
-												<div class="stock">Stock: 2</div>
-																								<div class="precio">Precio: S/ 323.00</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk15982" id="chk15982" data-relacionado="15982">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="15982"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="15982"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/14374/supresor-de-pico-forza-fsp-06mn">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2017/12/15/319x167_C---016200.jpg" alt="SUPRESOR DE PICO FORZA FSP-06MN" title="SUPRESOR DE PICO FORZA FSP-06MN" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 016200</div>
-												<a href="https://www.mesajilhnos.com/producto/14374/supresor-de-pico-forza-fsp-06mn" class="nombre-producto">SUPRESOR DE PICO FORZA FSP-06MN</a>
-												<div class="stock">Stock: 3</div>
-																								<div class="precio">Precio: S/ 37.40</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk14374" id="chk14374" data-relacionado="14374">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="14374"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="14374"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/54/proteccion-electrica" class="menu_categoria">Proteccion Electrica</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/320/estabilizador">> Estabilizador</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/321/supresores-de-pico">> Supresores de Pico</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/319/ups">> UPS</a>
-											<ul>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/18/softwares">
-							Softwares						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/18/softwares"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/18/Banner--Menu-sofwares.jpg" alt="Softwares"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/15075/microsoft-windows-10-profesional-64-bits-espanol-1pk-fqc-08981-oem">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/08/28/319x167_C_016895.jpg" alt="Microsoft Windows 10 Profesional 64 Bits Español 1PK ( FQC-08981)OEM" title="Microsoft Windows 10 Profesional 64 Bits Español 1PK ( FQC-08981)OEM" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 016895</div>
-												<a href="https://www.mesajilhnos.com/producto/15075/microsoft-windows-10-profesional-64-bits-espanol-1pk-fqc-08981-oem" class="nombre-producto">Microsoft Windows 10 Profesional 64 Bits Español 1PK ( FQC-08981)OEM</a>
-												<div class="stock">Stock: Más de 20</div>
-																								<div class="precio">Precio: S/ 595.00</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk15075" id="chk15075" data-relacionado="15075">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="15075"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="15075"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/11595/microsoft-office-365-home-premium-espanol-suscripcion-1-ano-6gq-00790">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/08/28/319x167_C_013457.jpg" alt="Microsoft Office 365 Home Premium Español Suscripcion 1 Año (6GQ-00790)" title="Microsoft Office 365 Home Premium Español Suscripcion 1 Año (6GQ-00790)" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 013457</div>
-												<a href="https://www.mesajilhnos.com/producto/11595/microsoft-office-365-home-premium-espanol-suscripcion-1-ano-6gq-00790" class="nombre-producto">Microsoft Office 365 Home Premium Español Suscripcion 1 Año (6GQ-00790)</a>
-												<div class="stock">Stock: Más de 20</div>
-																								<div class="precio">Precio: S/ 210.80</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk11595" id="chk11595" data-relacionado="11595">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="11595"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="11595"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/18/softwares" class="menu_categoria">Softwares</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/80/antivirus">> Antivirus</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/82/office">> Office</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/81/sistemas-operativos">> Sistemas Operativos</a>
-											<ul>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-										<li>
-						<a href="https://www.mesajilhnos.com/subcategorias/55/muebles-de-oficina">
-							Muebles de Oficina						</a>
-						<div class="desplegable">
-							<div class="flex">
-								<div class="flex-x wrap gutter20">
-									<div class="main-image-link width1-1"><a href="https://www.mesajilhnos.com/subcategorias/55/muebles-de-oficina"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/19/40-Mueble-de-oficina.png" alt="Muebles de Oficina"></a>
-									</div>
-									<ul class="flex grid1-2 productos-lista">
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/17642/silla-giratoria-317305-negro">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/18/319x167_C2---019386.jpg" alt="Silla giratoria (317305) Negro" title="Silla giratoria (317305) Negro" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 019386</div>
-												<a href="https://www.mesajilhnos.com/producto/17642/silla-giratoria-317305-negro" class="nombre-producto">Silla giratoria (317305) Negro</a>
-												<div class="stock">Stock: Consultar</div>
-																								<div class="precio">Precio: S/ 85.00</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk17642" id="chk17642" data-relacionado="17642">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="17642"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="17642"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																				<li>
-											<a href="https://www.mesajilhnos.com/producto/17637/mini-escritorio-para-lapton-al-in-one-64x48x75-am100gen18-negro">
-												<div class="image"><img src="https://www.mesajilhnos.com/cdn/files/2018/04/18/319x167_C2---019381.jpg" alt="Mini Escritorio para lapton, Al in one, 64x48x75  (AM100GEN18) Negro" title="Mini Escritorio para lapton, Al in one, 64x48x75  (AM100GEN18) Negro" />
-												</div>
-											</a>
-											<div class="content">
-												<div class="codigo">Código: 019381</div>
-												<a href="https://www.mesajilhnos.com/producto/17637/mini-escritorio-para-lapton-al-in-one-64x48x75-am100gen18-negro" class="nombre-producto">Mini Escritorio para lapton, Al in one, 64x48x75  (AM100GEN18) Negro</a>
-												<div class="stock">Stock: 1</div>
-																								<div class="precio">Precio: S/ 85.00</div>
-																								<ul class="actions flex middle between_x">
-													<li>
-														<label class="checkbox comparar-producto">
-                              								<input type="checkbox" name="chk17637" id="chk17637" data-relacionado="17637">
-                              								<span class="check"></span>
-                              								<span> Comparar</span>
-                              							</label>
-													</li>
-													<li>
-														<button type="button" class="agregar-producto" data-relacionado="17637"><img src="https://www.mesajilhnos.com/cdn/v3/images/agregar-icono.png" alt=""></button>
-													</li>
-													<li>
-														<button type="button" class="favorito" data-relacionado="17637"><img src="https://www.mesajilhnos.com/cdn/v3/images/favoritos-icono.png" alt=""></button>
-													</li>
-												</ul>
-											</div>
-																					</li>
-																			</ul>
-								</div>
-								<div class="tleft gutter20 lista-links">
-									<h2><a href="https://www.mesajilhnos.com/subcategorias/55/muebles-de-oficina" class="menu_categoria">Muebles de Oficina</a></h2>
-									<ol>
-																				<li><a href="https://www.mesajilhnos.com/tipos/324/escritorio">> Escritorio</a>
-											<ul>
-																							</ul>
-										</li>
-																				<li><a href="https://www.mesajilhnos.com/tipos/325/sillas">> Sillas</a>
-											<ul>
-																							</ul>
-										</li>
-																			</ol>
-								</div>
-							</div>
-						</div>
-					</li>
-									</ul>
-				<ul class="links-directos">
-					<li><a href="/marcas">MARCAS</a>
-					</li>
-					<li><a href="/novedades">NOVEDADES</a>
-					</li>
-					<li><a href="/ofertas-semanales">OFERTAS SEMANALES</a>
-					</li>
-					<li><a href="/ofertas-especiales">OFERTAS ESPECIALES</a>
-					</li>
-					<li><a href="/los-mas-vendidos">LOS + VENDIDOS</a>
-					</li>
-					<!--
-					<li><a href="/exclusivo-online">EXCLUSIVO ONLINE</a>
-					</li>
-					-->
-				</ul>
+	<div class="top_header" id="home">
+		<!-- Fixed navbar -->
+		<nav class="navbar navbar-default navbar-fixed-top">
+			<div class="nav_top_fx_w3ls_agileinfo">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
+					    aria-controls="navbar">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+               </button>
+			<div class="logo-w3layouts-agileits">
+				<h1><a class="navbar-brand" href="{{url('/')}}"><i class="fa fa-clone" aria-hidden="true"></i> Conceit <span class="desc">For your Business</span></a></h1>
 			</div>
-		</div>
-		<div class="logo gutter20"> <a href="/"> <img src="https://www.mesajilhnos.com/cdn/v3/images/logo.png?v=2018" width="120" alt=""> </a> </div>
-		<div class="buscador gutter20 flex-x">
-			<input type="text" id="campo-buscador" name="campo-buscador" placeholder="Hola, Tecnolover, ¿Qué estás buscando?">
-			<div class="b-buscar">
-				<button type="button"><img src="https://www.mesajilhnos.com/cdn/v3/images/buscar-icon.png" width="25" alt=""></button>
 			</div>
-		</div>
-		<ul class="nav-usuario flex gutter20 flex-x-m right-m">
-			<li class="help-link"><a href="#" class="flex middle center"><img src="https://www.mesajilhnos.com/cdn/v3/images/ayuda-icon.png" width="13" alt=""></a>
-				<div class="help-display">
-					<ul>
-						<!--
-						<li>
-							<a href="/como-comprar" class="flex top">
-								<div class="image"><img src="https://www.mesajilhnos.com/cdn/v3/images/carrito-ayuda.png" width="28" alt="">
-								</div>
-								<div class="flex-x">
-									<h4>¿Cómo comprar?</h4>
-								</div>
-							</a>
-						</li>
-						<li>
-							<a href="/preguntas-frecuentes" class="flex top">
-								<div class="image"><img src="https://www.mesajilhnos.com/cdn/v3/images/ayuda-icon.png" width="13" alt="">
-								</div>
-								<div class="flex-x">
-									<h4>Preguntas frecuentes</h4>
-									<p>Resuelve todas tus dudas y compra con confianza.</p>
-								</div>
-							</a>
-						</li>
-						-->
-						<li>
-							<a href="/contactanos" class="flex top">
-								<div class="image"><img src="https://www.mesajilhnos.com/cdn/v3/images/contacto-ayuda.png" width="28" alt="">
-								</div>
-								<div class="flex-x">
-									<h4>Contáctanos</h4>
-									<p>Ingresa aquí para enviarnos tus comentarios, reclamos, felicitaciones o sugerencias.</p>
-								</div>
-							</a>
-						</li>
-						<li>
-							<a href="#" class="flex top">
-								<div class="image"><img src="https://www.mesajilhnos.com/cdn/v3/images/chat.png" width="30" alt="">
-								</div>
-								<div class="flex-x">
-									<h4>Chat online</h4>
-									<p>Conversa directamente y sin demoras con nuestra asesora de ventas online.</p>
-								</div>
-							</a>
-						</li>
-						<li>
-							<div class="flex middle">
-								<div class="image"><img src="https://www.mesajilhnos.com/cdn/v3/images/fonocompras-icon.png" width="27" alt="">
-								</div>
-								<div class="flex-x">
-									<h4>Fonocompras <br>
-                    (01) 717-5798<br>(01) 627-8726</h4>
-								</div>
-							</div>
-						</li>
-						<!--
-						<li>
-							<div class="flex middle">
-								<div class="image"><img src="https://www.mesajilhnos.com/cdn/v3/images/whatsapp-ayuda.png" width="28" alt="">
-								</div>
-								<div class="flex-x">
-									<h4>Whatsappéanos <br>
-                    000000000</h4>
-								</div>
-							</div>
-						</li>
-						-->
-						<li>
-							<div class="horario tcenter">Horario de atención online<br> Lunes a sábado de 9 am - 8 pm</div>
-						</li>
-					</ul>
+				<div id="navbar" class="navbar-collapse collapse">
+					<div class="nav_right_top">
+                  <ul class="nav navbar-nav navbar-right">
+                     <li><a class="request" href="contact.html">Send Request</a></li>
+                  </ul>
+                  <ul class="nav navbar-nav">
+                     <li class="active"><a href="{{ url('/')}}">Inicio</a></li>
+                     <li><a href="{{ url('nosotros') }}">Nosotros</a></li>
+                     <li><a href="{{ url('portafolio') }}">Portafolio</a></li>
+                     <li class="active"><a href="{{ url('contactanos') }}">Contactanos</a></li>
+                  </ul>
+					</div>
 				</div>
-			</li>
-			<li class="user-link">
-				<button type="button" class="flex middle center open-iniciar" data-overlay><img src="https://www.mesajilhnos.com/cdn/v3/images/usuario-icon.png" width="25" alt=""></button>
-				<div class="user-display">
-										<!--Si no se encuentra conectado-->
-					<ul>
-						<li><button data-modal="#iniciarsesion" data-overlay type="button" class="open-iniciar">Iniciar sesión</button>
-						</li>
-						<li>
-							<div>¿No tienes cuenta?</div>
-							<div><button data-modal="#iniciarsesion" data-overlay type="button" class="open-registrar">Regístrate aquí</button>
-							</div>
-						</li>
-					</ul>
-									</div>
-			</li>
-						<li class="car-link"><a class="carrito-link flex middle center gutter10" href="#"><img src="https://www.mesajilhnos.com/cdn/v3/images/carrito-icon.png" width="30" alt=""><span class="hide-l" id="resumen_carrito">0 Item(s)</span></a>
-				<div class="car-display">
-					<ul class="border-list">
-						<li class="flex"><strong>> Carrito de compras vacío</strong>
-						</li>
-					</ul>
-				</div>
-			</li>
-					</ul>
-	</div>
-	<div class="border-bottom">
-		<ul class="wrap wrapper flex middle extra-links between grid-gutter10 center-l">
-			<li><a href="/novedades">Novedades</a></li>
-			<li><a href="/ofertas-semanales">Ofertas Semanales</a></li>
-			<li><a href="/ofertas-especiales">Ofertas Especiales</a></li>
-			<li><a href="/los-mas-vendidos">Los + Vendidos</a></li>
-			<!--
-			<li class="hide-l"><a href="/exclusivo-online">Exclusivo Online</a></li>
-			<li class="hide-m"><a href="/puntos-mesajil-hnos">Puntos MH</a></li>
-			-->
-			<li><a href="/marcas-oficiales">Marcas Oficiales</a></li>
-			<li><a href="/nuestras-tiendas">Nuestras Tiendas</a></li>
-			<li><a href="/noticias">Noticias</a></li>
-			<li><a href="/contactanos">Contáctanos</a></li>
-			<!--
-			<li><a href="/blog" class="blog">Blog</a></li>
-			-->
-			<li>
-				<ul class="social flex center middle gutter10">
-										<li><a href="https://www.facebook.com/MesajilHermanos"><img src="https://www.mesajilhnos.com/cdn/v3/images/Facebook.png" width="30" alt=""></a>
-					</li>
-																				<li><a href="https://www.instagram.com/mesajilhnos/"><img src="https://www.mesajilhnos.com/cdn/v3/images/Instagram.png" width="30" alt=""></a>
-					</li>
-														</ul>
-			</li>
-		</ul>
-	</div>
-</header>		<section class="post-header">
-			
-		<div class="breadcrumbs">
-			<div class="wrapper">
-				<ul class="flex wrap gutter10">
-					<li>Estás en: </li>
-					<li><a href="/">Inicio</a></li>
-					<li> > </li>
-					<li>Compra con confianza</li>
-					<li> > </li>
-					<li>Contáctanos</li>
-				</ul>
+				<!--/.nav-collapse -->
 			</div>
-		</div>	
-				<div class="wrapper flex wrap">
-				<div class="sidebar-tabs gutter20 mt40">
-					<h1>Compra con confianza</h1>
-					<ul class="p10 list-block tab-item-list">
-						<li class="tab-link"><a href="/politicas-envio">Políticas de Envio</a>
-						</li>
-						<li class="tab-link"><a href="/politicas-garantia">Políticas de Garantia</a>
-						</li>
-						<li class="tab-link"><a href="/opciones-pago">Opciones de pago</a>
-						</li>
-						<li class="tab-link"><a href="/servicio-post-compra">Servicios Post Compra</a>
-						</li>
-						<!--
-						<li class="tab-link"><a href="/como-comprar">¿Cómo comprar?</a>
-						</li>
-						<li class="tab-link"><a href="/como-canjear-puntos-mesajil-hnos">¿Cómo canjear puntos MH?</a>
-						</li>
-						<li class="tab-link"><a href="/preguntas-frecuentes">Preguntas frecuentes</a>
-						</li>
-						<li class="tab-link"><a href="/terminos-condiciones">Términos y condiciones</a>
-						</li>
-						<li class="tab-link"><a href="/costo-envio-tiempo-entrega">Costo de envío y tiempo de entrega</a>
-						</li>
-						<li class="tab-link"><a href="/cambios-devoluciones">Cambios y devoluciones</a>
-						</li>
-						-->
-						<li class="tab-link active"><a href="#">Contáctanos</a>
-						</li>
-					</ul>
-					<!-- <div class="mt20"><img src="http://placehold.it/280x280" alt=""> </div> -->
-				</div>
-				<div class="flex-x gutter20">
-					<h2 class="mt40">Contáctanos</h2>
-					<div class="flex">
-						<div class="mr10 mt20"><img src="https://www.mesajilhnos.com/cdn/v3/images/contacto-ayuda.png" width="30" height="20" alt="">
-						</div>
-						<div class="flex-x">
-							<p>Para nosotros es un placer atenderte. Por eso, te ofrecemos diferentes medios para responder a cada una de tus dudas e inquietudes de la manera que más te convenga. Ingresa la información y pronto estaremos en contacto contigo.</p>
-							<div>
-								<div class="form-section">
-									<div class="flex wrap">
-										<div class="width1-1 mt20">
-											<div class="width1-3 width1-1-m">
-												<div><b>Motivo</b>
-												</div>
-												<select class="mt10" id="motivo" name="motivo">
-													<option value="0">[ Motivo ]</option>
-													<option value="RE">Reclamo</option>
-													<option value="SU">Sugerencia</option>
-													<option value="SP">Solicitud de producto</option>
-												</select>
-											</div>
-										</div>
-										<div class="width1-1 mt20">
-											<div class="width1-3 width1-1-m">
-												<div><b>Realizó su compra en:</b>
-												</div>
-												<select class="mt10" id="tienda" name="tienda">
-													<option value="0">[ Tienda ]</option>
-													<option value="TF">Tienda física</option>
-													<option value="TO">Tienda online</option>
-												</select>
-											</div>
-										</div>
-										<div class="width1-1 mt20">
-											<div class="width1-1 mt10">
-												<div class="width1-2 width1-1-m">
-													<input type="text" placeholder="Nombres *" name="nombres_contactanos" id="nombres_contactanos">
-												</div>
-											</div>
-											<div class="width1-1 mt10">
-												<div class="width1-2 width1-1-m">
-													<input type="text" placeholder="Apellidos *" name="apellidos_contactanos" id="apellidos_contactanos">
-												</div>
-											</div>
-											<div class="width1-1 mt10">
-												<div class="width1-2 width1-1-m">
-													<input type="text" placeholder="E-mail *" name="email_contactanos" id="email_contactanos">
-												</div>
-											</div>
-										</div>
-										<div class="width1-1 mt20">
-											<div class="width1-2 width1-1-m">
-												<div><b>Celular</b>
-												</div>
-												<input type="text" class="mt10" name="celular_contactanos" id="celular_contactanos">
-											</div>
-										</div>
-										<div class="width1-1 mt20">
-											<div><b>Mensaje</b>
-											</div>
-											<div class="mt10">
-												<textarea name="mensaje_contactanos" id="mensaje_contactanos" rows="5" placeholder="Mensaje *"></textarea>
-											</div>
-										</div>
-										<div class="mt20 width1-1"><span class="require"><b>* Campos requeridos</b></span>
-										</div>
-										<div class="mt20 width1-1">
-											<button type="button" class="black-button" id="bt_contactanos" name="bt_contactanos">Enviar</button>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<hr class="mt40">
-					<div class="mt40">
-						<h2>¿Necesitas una comunicación más rápida?</h2>
-						<div class="flex">
-							<div class="mr10 mt20"><img src="https://www.mesajilhnos.com/cdn/v3/images/chat.png" width="30" height="24" alt="">
-							</div>
-							<div class="flex-x">
-								<p>Conversa directamente y sin demoras con nuestra asesora de ventas online. Haz click <a href="#"><u>aquí.</u></a>
-								</p>
-							</div>
-						</div>
-					</div>
-					<hr class="mt40">
-					<div class="mt40">
-						<h2>Fonocompras</h2>
-						<div class="flex wrap">
-							<div class="width1-1">
-								<p>Conversa directamente y sin demoras con nuestra asesora de ventas online.</p>
-							</div>
-							<div class="mt20 flex middle"> <img src="https://www.mesajilhnos.com/cdn/v3/images/fonocompras-icon.png" width="45" height="45" alt="" class="mr10">
-								<div>
-									<div class="phone-number"><b>(01) 717-5798<br>(01) 627-8726</b></div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<hr class="mt40">
-					<div class="mt40">
-						<div class="horario-contacto"> Horario de atención online<br> Lunes a sábado de 9 am - 8 pm </div>
-					</div>
-				</div>
-			</div>
-			<!--
-<div class="tcenter oferta">
-    <div class="wrapper">
-      <h2>Estás a un clic de recibir las mejores ofertas</h2>
-      <div class="descripcion">Regístrate y benefíciate con nuestras novedades y ofertas antes que nadie.</div>
-      <div class="form-section">
-        <ul class="flex wrap grid1-1-l center grid-p10 p10">
-          <li>
-            <input name="nombre_subscripcion" type="text" id="nombre_subscripcion" placeholder="Nombre">
-          </li>
-          <li>
-            <input name="email_subscripcion" type="text" id="email_subscripcion" placeholder="Ingresa tu email">
-          </li>
-          <li>
-            <button type="button" class="form-button">Registrarme</button>
-          </li>
-        </ul>
-      </div>
-      <div class="legal">Al inscribirme, acepto las <a href="URL_POLITICAS"><u>Políticas de Privacidad</u></a> y los <a href="#"><u>Términos y Condiciones</u></a>.</div>
-    </div>
-  </div>
-  -->
-  <div class="pb50"></div>		</section>
-		<footer>
-	<div class="wrapper">
-		<ul class="flex wrap grid-gutter20 grid1-4 grid1-2-l grid1-1-m tcenter-m">
-			<li>
-				<h4>Sobre nosotros</h4>
-				<ol>
-					<!--
-					<li><a href="/quienes-somos">¿Quiénes somos?</a>
-					</li>
-					-->
-					<li><a href="/nuestras-tiendas">Nuestras tiendas</a>
-					</li>
-					<li><a href="/se-parte-del-equipo">Sé parte del equipo</a>
-					</li>
-				</ol>
-				<h4>Síguenos</h4>
-				<p>Conoce las últimas novedades y ofertas que tenemos para ti.</p>
-				<ul class="pt20 flex middle center-m">
-					<!--
-					<li><a href="#" class="blog">Blog</a>
-					</li>
-					-->
-					<li>
-						<ul class="social flex center middle gutter10">
-														<li><a href="https://www.facebook.com/MesajilHermanos"><img src="https://www.mesajilhnos.com/cdn/v3/images/Facebook.png" width="30" alt=""></a>
-							</li>
-																												<li><a href="https://www.instagram.com/mesajilhnos/"><img src="https://www.mesajilhnos.com/cdn/v3/images/Instagram.png" width="30" alt=""></a>
-							</li>
-																				</ul>
-					</li>
-				</ul>
-			</li>
-			<li>
-				<h4>Mi cuenta</h4>
-				<ol>
-										<li><a href="#" data-modal="#iniciarsesion" data-overlay class="open-iniciar">Iniciar sesión</a>
-					</li>
-					<li><a href="#" data-modal="#iniciarsesion" data-overlay class="open-iniciar">Olvidé mi contraseña</a>
-					</li>
-					<li><a href="#" data-modal="#iniciarsesion" data-overlay class="open-registrar">Registrarme</a>
-					</li>
-										<li><a href="http://facte.facilerp.com/dmh/" target="_blank">Facturación electrónica</a>
-					</li>
-				</ol>
-			</li>
-			<li>
-				<h4>Compra con confianza</h4>
-				<ol>
-					<!--
-					<li><a href="/como-comprar">¿Cómo comprar?</a>
-					</li>
-					<li><a href="/como-canjear-puntos-mesajil-hnos">¿Cómo canjear puntos MH?</a>
-					</li>
-					<li><a href="/preguntas-frecuentes">Preguntas Frecuentes</a>
-					</li>
-					<li><a href="/terminos-condiciones">Términos y condiciones</a>
-					</li>
-					<li><a href="/costo-envio-tiempo-entrega">Costo de envío y tiempo de entrega</a>
-					</li>
-					<li><a href="/cambios-devoluciones">Cambios y devoluciones</a>
-					</li>
-					-->
-					<li><a href="/politicas-envio">Políticas de Envio</a>
-					</li>
-					<li><a href="/politicas-garantia">Políticas de Garantia</a>
-					</li>
-					<li><a href="/opciones-pago">Opciones de pago</a>
-					</li>
-					<li><a href="/servicio-post-compra">Servicios Post Compra</a>
-					</li>
-					<li><a href="/contactanos">Contáctanos</a>
-					</li>
-				</ol>
-			</li>
-			<li>
-				<h4>Pagos 100% seguros</h4>
-				<div class="pt20">
-					<img src="https://www.mesajilhnos.com/cdn/v3/images/formas-pago.png" width="300" alt="Formas de pago, Visa, Mastercard, American Express y Diners Club.">
-				</div>
-				<div class="pt20">
-					<a href="/libro-reclamaciones"><img src="https://www.mesajilhnos.com/cdn/v3/images/reclamaciones.png" width="150" alt="Libro de reclamaciones"></a>
-				</div>
-			</li>
-		</ul>
+		</nav>
 	</div>
-	<div class="wrapper">
-		<div class="copy">© 2017 Mesajil Hnos | Todos los derechos reservados.</div>
-	</div>
-</footer>
+  <!-- banner -->
+  
+  <!DOCTYPE html>
+<html xml:lang="es" lang="es" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<head>
 
-<div class="comparar" style="display: none">
-	<div class="wrapper flex between middle">
-		<ul class="flex flex-x lista-comparar grid1-3">
-		</ul>
-		<div class="tcenter action">
-			<div class="n-items"></div>
-			<div><button type="button" class="link-comparar">Comparar</button>
-			</div>
-			<div><button type="button" class="link-borrar"><img src="https://www.mesajilhnos.com/cdn/v3/images/eliminar.png" width="15" alt=""><span>Borrar todos</span></button>
-			</div>
-		</div>
-	</div>
-</div>
+<script type="text/javascript" src="../../js/rlv.js"></script>
 
-<div class="overlay" style="display: none;"></div>
-<div id="iniciarsesion" class="container-modal modal" style="display: none">
-	<div class="mesajil-modal">
-		<div class="close">x</div>
-		<ul class="flex grid1-2 main-button-tab">
-			<li>
-				<button type="button" class="open-iniciar active">Iniciar sesión</button>
-			</li>
-			<li>
-				<button type="button" class="open-registrar">Registrarme</button>
-			</li>
-		</ul>
-		<div>
-			<div id="modal-iniciar" class="gutter50" style="display: none;">
-				<div class="mesajil-form">
-					<h2>Hola tecnolover.</h2>
-					<p>Ingresa a tu cuenta</p>
-					<div><input type="text" placeholder="Email *" name="email_login" id="email_login">
-					</div>
-					<div><input type="password" placeholder="Contraseña *" name="password_login" id="password_login">
-					</div>
-					<div class="mt10"><span class="require">* Campos requeridos</span>
-					</div>
-					<ul class="flex grid1-2 mt10 color-gray">
-						<li>
-						</li>
-						<li class="tright">
-							<div class="space5"><a class="space5" href="#" id="bt_olvide">Olvidé mi contraseña</a>
-							</div>
-						</li>
-					</ul>
-					<div>
-						<button class="submit-button mt20" type="button" id="bt_login" name="bt_login">Iniciar sesión</button>
-					</div>
-				</div>
-				<div style="display: none;">
-					<p>También puedes iniciar con:</p>
-					<ul class="flex grid1-2 middle">
-						<li><button class="facebook-button-register button-network" type="button"><i class="fa fa-facebook-f"></i> <span>Facebook</span></button>
-						</li>
-						<li><button class="google-button-register button-network" type="button"><i class="fa fa-google-plus"></i> <span>Google +</span></button>
-						</li>
-					</ul>
-				</div>
-			</div>
-			<div id="modal-registrar" class="gutter50" style="display: none;">
-				<div class="mesajil-form">
-					<h2>Bienvenid@ tecnolover.</h2>
-					<p>Ingresa tus datos para registrarte:</p>
-					<div><input type="text" placeholder="Nombres *" name="nombres_registro" id="nombres_registro">
-					</div>
-					<div><input type="text" placeholder="Apellidos *" name="apellidos_registro" id="apellidos_registro">
-					</div>
-					<div><input type="text" placeholder="Email *" name="email_registro" id="email_registro">
-					</div>
-					<div><input type="password" placeholder="Contraseña *" name="password_registro" id="password_registro">
-					</div>
-					<div><input type="password" placeholder="Confirmar contraseña *" name="confirmar_password_registro" id="confirmar_password_registro">
-					</div>
-					<div class="mt10"><span class="require">* Campos obligatorios</span>
-					</div>
-					<div class="flex middle mt20"><span class="mr30">Soy: </span>
-						<div class="form-field checkbox mr30"><label class="flex"><input type="radio" name="sexo" id="sexo" value="M"><div class="check"><i class="fa"><img src="https://www.mesajilhnos.com/cdn/v3/images/check-checkbox.png" width="9" alt=""></i></div><span>Hombre</span></label>
-						</div>
-						<div class="form-field checkbox"><label class="flex"><input type="radio" name="sexo" id="sexo" value="F"><div class="check"><i class="fa"><img src="https://www.mesajilhnos.com/cdn/v3/images/check-checkbox.png" width="9" alt=""></i></div><span>Mujer</span></label>
-						</div>
-					</div>
-					<div class="form-field checkbox"><label class="flex middle"><input type="checkbox" name="suscripcion" id="suscripcion" value="S"><div class="check"><i class="fa"><img src="https://www.mesajilhnos.com/cdn/v3/images/check-checkbox.png" width="9" alt=""></i></div><span>Quiero recibir ofertas exclusivas en mi email.</span></label>
-					</div>
-					<div>
-						<button class="submit-button mt20" type="button" id="bt_registro" name="bt_registro">Registrarme</button>
-					</div>
-					<div class="tcenter mt10 gutter10 links-externos" style="display: none;">Al inscribirme, acepto las <a href="#">Políticas de Privacidad</a> y los <a href="#">Términos y Condiciones.</a>
-					</div>
-				</div>
-				<div style="display: none;">
-					<p class="mb10">También puedes registrarte con:</p>
-					<ul class="flex grid1-2">
-						<li><button class="facebook-button-register button-network" type="button"><i class="fa fa-facebook-f"></i> <span>Facebook</span></button>
-						</li>
-						<li><button class="google-button-register button-network" type="button"><i class="fa fa-google-plus"></i> <span>Google +</span></button>
-						</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-
-<!--Modal Producto Agregado -->
-<div id="modal-carrito-add" class="container-modal modal" style="display: none">
-	<div class="mesajil-modal p20">
-		<div class="close">x</div>
-		<div class="tcenter">
-			<img src="https://www.mesajilhnos.com/cdn/v3/images/producto-agregado-icon.png" alt=""><span> Producto agregado</span>
-		</div>
-		<div>
-			<ul class="tcenter grid-p10">
-				<li><button class="black-button" type="button" id="bt_seguir_comprando_add" name="bt_seguir_comprando_add">Seguir comprando</button></li>
-				<li><a class="blue-button ver_carrito" href="#">Ver mi carrito</a></li>
-			</ul>
-		</div>
-	</div>
-</div>
-
-<!--Modal Producto Eliminado -->
-<div id="modal-carrito-remove" class="container-modal modal" style="display: none">
-	<div class="mesajil-modal p20">
-		<div class="close">x</div>
-		<div class="tcenter">
-			<img src="https://www.mesajilhnos.com/cdn/v3/images/producto-eliminado-icon.png" alt=""><span> Producto(s) eliminado(s) correctamente</span>
-		</div>
-		<div>
-			<ul class="tcenter grid-p10">
-				<li><button class="black-button" type="button" id="bt_seguir_comprando_remove" name="bt_seguir_comprando_remove">Seguir comprando</button></li>
-				<li><a class="blue-button ver_carrito" href="#">Ver mi carrito</a></li>
-			</ul>
-		</div>
-	</div>
-</div>		<script src="https://www.mesajilhnos.com/cdn/v3/js/jquery.min.js"></script>
-<script src="https://www.mesajilhnos.com/cdn/v3/js/swiper.min.js"></script>
-<script src="https://www.mesajilhnos.com/cdn/v3/js/jquery.dotdotdot.min.js"></script>
-<script src="https://www.mesajilhnos.com/cdn/v3/js/main.js?v=224699382"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
-<!-- <script src="https://www.mesajilhnos.com/cdn/v3/js/labs.js?v=207870986"></script> -->
-<script>
-$(document).ready(function () {
-	var ruta_base = window.location.pathname;
-	var parametros = window.location.search;
-	var temporal = "";
-
-	var longitud_url = ruta_base.length;
-
-	//initialize swiper when document ready  
-	dispositivo = deviceDetect();
-
-	if (dispositivo == "mobile") {
-		var mySwiper = new Swiper ('.swiper-container', {
-		  // Optional parameters
-	      	autoplay: {
-	        	delay: 10000,
-	        	disableOnInteraction: false,
-	      	},
-	      	loop: true,
-	      	pagination: false,
-	      	navigation: {
-	        	nextEl: '.next0',
-	        	prevEl: '.prev0',
-	      	},
-		}); 
-	} else {
-		var mySwiper = new Swiper ('.swiper-container', {
-		  // Optional parameters
-	      	autoplay: {
-	        	delay: 10000,
-	        	disableOnInteraction: false,
-	      	},
-	      	loop: true,
-	      	pagination: {
-	        	el: '.swiper-pagination',
-	        	clickable: true,
-	      	},
-	      	navigation: {
-	        	nextEl: '.next0',
-	        	prevEl: '.prev0',
-	      	},
-		}); 
-	}
-
-	/*
-	var mySwiper = new Swiper ('.swiper-container', {
-	  // Optional parameters
-      	autoplay: {
-        	delay: 10000,
-        	disableOnInteraction: false,
-      	},
-      	loop: true,
-      	pagination: {
-        	el: '.swiper-pagination',
-        	clickable: true,
-      	},
-      	navigation: {
-        	nextEl: '.next0',
-        	prevEl: '.prev0',
-      	},
-	}); 
-	*/
-
-	var myCarousel_hii = new Swiper ('.slide-hii', {
-	  // Optional parameters
-      	autoplay: {
-        	delay: 6000,
-        	disableOnInteraction: false,
-      	},
-		slidesPerView: 1,
-		breakpoints: {
-			1200: {
-				slidesPerView: 1
-			},
-			960: {
-				slidesPerView: 1
-			},
-			750: {
-				slidesPerView: 1
-			},
-			550: {
-				slidesPerView: 1
-			}
-		}
-	});
-
-	var myCarousel_hic = new Swiper ('.slide-hic', {
-	  // Optional parameters
-      	autoplay: {
-        	delay: 6000,
-        	disableOnInteraction: false,
-      	},
-		slidesPerView: 1,
-		breakpoints: {
-			1200: {
-				slidesPerView: 1
-			},
-			960: {
-				slidesPerView: 1
-			},
-			750: {
-				slidesPerView: 1
-			},
-			550: {
-				slidesPerView: 1
-			}
-		}
-	})
-
-	var myCarousel_hid = new Swiper ('.slide-hid', {
-	  // Optional parameters
-      	autoplay: {
-        	delay: 6000,
-        	disableOnInteraction: false,
-      	},
-		slidesPerView: 1,
-		breakpoints: {
-			1200: {
-				slidesPerView: 1
-			},
-			960: {
-				slidesPerView: 1
-			},
-			750: {
-				slidesPerView: 1
-			},
-			550: {
-				slidesPerView: 1
-			}
-		}
-	})		
-
-	var myCarousel1 = new Swiper ('.slide-novedades', {
-	  // Optional parameters
-      	autoplay: {
-        	delay: 5000,
-        	disableOnInteraction: false,
-      	},
-      	navigation: {
-        	nextEl: '.next1',
-        	prevEl: '.prev1',
-      	},
-		slidesPerView: 4,
-		breakpoints: {
-			1200: {
-				slidesPerView: 4
-			},
-			960: {
-				slidesPerView: 3
-			},
-			750: {
-				slidesPerView: 2
-			},
-			550: {
-				slidesPerView: 1
-			}
-		}
-	})
-
-	var myCarousel2 = new Swiper ('.slide-ofertas', {
-	  // Optional parameters
-      	autoplay: {
-        	delay: 5000,
-        	disableOnInteraction: false,
-      	},
-      	navigation: {
-        	nextEl: '.next2',
-        	prevEl: '.prev2',
-      	},
-		slidesPerView: 4,
-		breakpoints: {
-			1200: {
-				slidesPerView: 4
-			},
-			960: {
-				slidesPerView: 3
-			},
-			750: {
-				slidesPerView: 2
-			},
-			550: {
-				slidesPerView: 1
-			}
-		}
-	})
-
-	var myCarousel3 = new Swiper ('.slide-populares', {
-	  // Optional parameters
-      	autoplay: {
-        	delay: 5000,
-        	disableOnInteraction: false,
-      	},
-      	navigation: {
-        	nextEl: '.next3',
-        	prevEl: '.prev3',
-      	},
-		slidesPerView: 4,
-		breakpoints: {
-			1200: {
-				slidesPerView: 4
-			},
-			960: {
-				slidesPerView: 3
-			},
-			750: {
-				slidesPerView: 2
-			},
-			550: {
-				slidesPerView: 1
-			}
-		}
-	})
-
-	var myCarousel4 = new Swiper ('.slide-exclusivo', {
-	  // Optional parameters
-      	autoplay: {
-        	delay: 5000,
-        	disableOnInteraction: false,
-      	},
-      	navigation: {
-        	nextEl: '.next4',
-        	prevEl: '.prev4',
-      	},
-		slidesPerView: 4,
-		breakpoints: {
-			1200: {
-				slidesPerView: 4
-			},
-			960: {
-				slidesPerView: 3
-			},
-			750: {
-				slidesPerView: 2
-			},
-			550: {
-				slidesPerView: 1
-			}
-		}
-	})
-
-	var myCarousel2 = new Swiper ('.slide-relacionados', {
-	  // Optional parameters
-      	autoplay: {
-        	delay: 5000,
-        	disableOnInteraction: false,
-      	},
-      	navigation: {
-        	nextEl: '.next2',
-        	prevEl: '.prev2',
-      	},
-		slidesPerView: 4,
-		breakpoints: {
-			1200: {
-				slidesPerView: 4
-			},
-			960: {
-				slidesPerView: 3
-			},
-			750: {
-				slidesPerView: 2
-			},
-			550: {
-				slidesPerView: 1
-			}
-		}
-	})	
-
-	var myCarouselMarcas = new Swiper ('.swiper-carousel-marcas', {
-	  // Optional parameters
-      	autoplay: {
-        	delay: 5000,
-        	disableOnInteraction: false,
-      	},
-      	navigation: {
-        	nextEl: '.next5',
-        	prevEl: '.prev5',
-      	},
-		slidesPerView: 6,
-		breakpoints: {
-			1200: {
-				slidesPerView: 4
-			},
-			960: {
-				slidesPerView: 3
-			},
-			750: {
-				slidesPerView: 2
-			},
-			550: {
-				slidesPerView: 1
-			}
-		}
-	})
-
-	var myCarouselImages = new Swiper ('.carousel-images', {
-	  // Optional parameters
-      	autoplay: {
-        	delay: 5000,
-        	disableOnInteraction: false,
-      	},
-      	loop: true,
-      	navigation: {
-        	nextEl: '.next6',
-        	prevEl: '.prev6',
-      	},
-		slidesPerView: 4
-	});
-
-	myCarouselImages.on('slideChange', function () {
-		thumb_actual = $('.carousel-images .swiper-slide-active img').attr('src');
-		imagen_actual = thumb_actual.replace('62x62_','');
-
-		$("#image-holder img").attr('src', imagen_actual);
-	});
-
-	$(".favorito, .agregar-producto, .agregar-carrito").click(function(){
-	   $(this).toggleClass("checked"); 
-	});
-
-	$(".nombre-producto").dotdotdot();
-	$(".main-menu").hover(
-		/*, .help-link, .user-link, .car-link*/
-		function(){
-			if($(window).width() > 1250) {
-				$(".overlay1").addClass("active");
-			}
-	},
-		function(){
-			if($(window).width() > 1250) {
-				$(".overlay1").removeClass("active");
-			}
-	});
-
-	$(document).click(function(){
-		if($(window).width() < 1000) {
-			$(".display-menu, .help-display").fadeOut();
-		}
-	});
-
-	$(".main-menu").click(function(e){
-			if($(window).width() < 1000) {
-				$(".display-menu").fadeToggle();
-				e.stopPropagation();
-			}
-	});
-
-	$(".overlay4").click(function(e){
-		$(".car-display").fadeOut();
-		 $(".overlay4").toggleClass("active");
-		e.preventDefault();
-	});
-
-	$(".help-link").click(function(e){
-		/* if($(window).width() < 1000) { */
-			$(".car-display, .user-display").hide();
-			$(".help-display").fadeToggle();
-			$(this).find(">a").toggleClass("active");
-			$(".overlay3, .overlay4").removeClass("active");
-			$(".user-link, .carrito-link").removeClass("active");
-			$(".overlay2").toggleClass("active");  
-			e.stopPropagation();
-		/* } */
-	});
-
-	$(".overlay2").click(function(e){
-		$(".help-display").fadeOut();
-		 $(".overlay2").toggleClass("active");
-		e.preventDefault();
-	});
-
-	$(".user-link").click(function(e){
-		/* if($(window).width() < 1000) { */
-			$(".help-display, .car-display").hide();
-			$(".user-display").fadeToggle();
-			$(this).toggleClass("active");
-			$(".overlay2, .overlay4").removeClass("active");
-			$(".help-link >a, .carrito-link").removeClass("active");
-			$(".overlay3").toggleClass("active");  
-			e.stopPropagation();
-		/* } */	  
-	});
-
-	$(".overlay3").click(function(e){
-		$(".user-display").fadeOut();
-		$(".overlay3").toggleClass("active");
-		e.preventDefault();
-	});
-
-	$(".carrito-link").click(function(e){
-			/*if($(window).width() < 1000) {*/
-				$(".help-display, .user-display").hide();
-				$(".car-display").fadeToggle();
-				$(".carrito-link").toggleClass("active");
-				$(".overlay3, .overlay2").removeClass("active");
-				$(".help-link >a, .user-link").removeClass("active");
-				$(".overlay4").toggleClass("active");  
-				e.stopPropagation();
-			/*}*/
-			 
-	});
-	
-	$(".links-desplegables li").click(function(e){
-		if($(window).width() < 1000) {
-			$(this).find(".desplegable").fadeToggle();
-			e.stopPropagation();
-		}
-	});
-
-	$(".overlay5").click(function(e){
-		$(".overlay5").toggleClass("active");
-		$(".video-modal").fadeOut();
-		e.preventDefault();
-	});
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Contáctenos</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta name="description" content="Tienda especializada en Cómputo, venta de Laptops, Notebooks, Computadoras, Servidores, Periféricos, Accesorios, Software y mucho más. Soporte técnico especializado, asesoría, atención y envíos a todo el Perú." />
+<meta name="author" content="Magitech">
+<meta name="Designer" content="www.">
+<meta name="keywords" content="laptop, notebook, pc, computadora, servidor, proyector, impresora, periféricos" />
+<meta name="robots" content="NOODP,NOYDIR,INDEX,FOLLOW" />
+<meta name="google-site-verification" content="2wraVbHJ25gj0xjZzbN_GjZ6SQXTM_alDkSUmXVYeBE" />
+<link rel="alternate" href="https://www.magitech.pe/contacts" hreflang="es-pe" />
 
 
-	/* Star Rating */
-	$(".rating").each(function(){
-	   if($(this).is("[data-rate='1']")) {
-		   $(this).find('[data-star="1"]').addClass("fill1");
-	   } else if($(this).is("[data-rate='2']")) {
-		   $(this).find('[data-star="1"], [data-star="2"]').addClass("fill3");
-	   } else if($(this).is("[data-rate='3']")) {
-		   $(this).find('[data-star="1"], [data-star="2"], [data-star="3"]').addClass("fill3");
-	   } else if($(this).is("[data-rate='4']")) {
-		   $(this).find('[data-star="1"], [data-star="2"], [data-star="3"], [data-star="4"]').addClass("fill5");
-	   } else if($(this).is("[data-rate='5']")) {
-		   $(this).find('[data-star="1"], [data-star="2"], [data-star="3"], [data-star="4"], [data-star="5"]').addClass("fill5");
-	   }
-		
-		$(".able [data-star]").hover(function(){
-			var star = $(this),
-				prevStar = $(this).parents("li").prevAll().find("[data-star]"),
-				nextStar = $(this).parents("li").nextAll().find("[data-star]");
-			star.addClass("hover");
-			prevStar.addClass("hover");
-			nextStar.addClass("hover-next");
-		}, function() {
-			$("[data-star]").removeClass("hover hover-next");
-		});
-		$(".able [data-star]").click(function(){
-			var star = $(this),
-			prevStar = $(this).parents("li").prevAll().find("[data-star]"),
-			nextStar = $(this).parents("li").nextAll().find("[data-star]");
-			if (star.is("[data-star='1']")){
-				$(this).find("[data-star]").removeClass("fill1 fill3 fill5");
-				star.addClass("fill1");
-				prevStar.addClass("fill1");
-			} else if (star.is("[data-star='2']") || star.is("[data-star='3']")){
-				$(this).find("[data-star]").removeClass("fill1 fill3 fill5");
-				star.addClass("fill3");
-				prevStar.addClass("fill3");
-			} else if (star.is("[data-star='4']") || star.is("[data-star='5']")){
-				$(this).find("[data-star]").removeClass("fill1 fill3 fill5");
-				star.addClass("fill5");
-				prevStar.addClass("fill5");
-			}
-			nextStar.removeClass("fill1 fill3 fill5");         
-		});
-	});
-    
-	/* Porcentaje */
-	$(".percentages li").each(function(){
-		var percentValue = $(this).find("[data-percent]").attr("data-percent");
-		var percentBar = $(this).find(".advance");
-		percentBar.width(percentValue + "%");
-	});
-	
-	/* Mapas Locales */
-	$(".tiendas-content button").click(function(){	
-		datos = $(this).attr('data-url');	
-		$("#map").html(datos);
-	});
-});
-</script>	</form>
-	<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-33473788-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'https://www.magitech.pe/js/blank.html';
+    var BLANK_IMG = 'https://www.magitech.pe/js/spacer.gif';
+//]]>
 </script>
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/base/default/css/widgets.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/_shared/itemslider.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/_shared/generic-nav.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/brands/brands.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/ultra-slideshow/ultra-slideshow.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/_shared/accordion.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/ultra-megamenu/menu.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/ultra-megamenu/menu-accordion.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/ultra-megamenu/menu-dropdown.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/ultra-megamenu/menu-sidebar.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/ultra-megamenu/additional.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/mirasvit/searchautocomplete/default.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/base/default/css/mirasvit_searchindex.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/styles-infortis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/_shared/generic-cck.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/_shared/dropdown.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/_shared/itemgrid.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/_shared/tabs.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/_shared/icons.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/_shared/icons-font.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/icons-theme.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/icons-social.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/common.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/override-components.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/override-modules.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/override-theme.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/infortis/_shared/grid12.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/_config/design_default.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/_config/grid_default.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/_config/layout_default.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/override-config.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/custom.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/desc.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/print.css" media="print" />
+<script type="text/javascript" src="https://www.magitech.pe/media/js/fa439a02e80ba33fbd49f9cfdc3dc25b.1499847460.js"></script>
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="https://www.magitech.pe/media/js/b4d69f97e93d16886220c49e256cf376.1404718761.js"></script>
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/styles-ie7.css" media="all" />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="https://www.magitech.pe/skin/frontend/ultimo/default/css/styles-ie8.css" media="all" />
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.magitech.pe';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = [];
+//]]>
+</script>
+
+
+
+<style type="text/css">
+								</style><script type="text/javascript">//<![CDATA[
+        var Translator = new Translate({"HTML tags are not allowed":"No est\u00e1n permitidas las etiquetas HTML","Please select an option.":"Seleccione una opci\u00f3n.","This is a required field.":"Este es un campo obligatorio.","Please enter a valid number in this field.":"Ingrese un n\u00famero v\u00e1lido en este campo.","The value is not within the specified range.":"El valor no est\u00e1 dentro del rango permitido.","Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.":"En este campo s\u00f3lo se pueden escribir n\u00fameros. Evite los espacios en blanco u otros caracteres, como los puntos o las comas, por ejemplo.","Please use letters only (a-z or A-Z) in this field.":"Por favor, use s\u00f3lo letras (a-z o A-Z) en este campo.","Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Utilice s\u00f3lo letras (a-z), n\u00fameros (0-9) o guiones bajos (_) en este campo. El primer caracter debe ser una letra.","Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.":"Por favor, utilice solo letras (a-z o A-Z) o n\u00fameros (0-9) solo en este campo. No est\u00e1n permitidos los espacios u otros caracteres.","Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.":"Por favor, utilice solo letras (a-z o A-Z) o n\u00fameros (0-9) o espacios y # solo en este campo.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"Ingrese un n\u00famero de tel\u00e9fono v\u00e1lido. Por ejemplo: (123) 456-7890 o 123-456-7890.","Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.":"Por favor, introduzca un n\u00famero de fax v\u00e1lido. Por ejemplo (123) 456-7890 o 123-456-7890.","Please enter a valid date.":"Ingrese una fecha v\u00e1lida.","The From Date value should be less than or equal to the To Date value.":"El valor Desde la fecha debe ser inferior o igual al valor Hasta la fecha.","Please enter a valid email address. For example johndoe@domain.com.":"Ingrese una direcci\u00f3n de correo electr\u00f3nico v\u00e1lida. Por ejemplo: juanperez@dominio.com.","Please use only visible characters and spaces.":"Por favor, utilice solo caracteres visibles y espacios.","Please enter 6 or more characters. Leading or trailing spaces will be ignored.":"Introduzca 6 o m\u00e1s caracteres. Se ignorar\u00e1n los espacios antes o despu\u00e9s.","Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.":"Por favor, introduzca 7 o m\u00e1s caracteres. La contrase\u00f1a tiene que contener tanto caracteres num\u00e9ricos como alfab\u00e9ticos.","Please make sure your passwords match.":"Aseg\u00farese de que sus contrase\u00f1as coincidan.","Please enter a valid URL. Protocol is required (http:\/\/, https:\/\/ or ftp:\/\/)":"Por favor, introduzca una URL v\u00e1lida. Es necesario el protocolo (http:\/\/, https:\/\/ or ftp:\/\/)","Please enter a valid URL. For example http:\/\/www.example.com or www.example.com":"Por favor, introduzca una URL v\u00e1lida. Por ejemplo, http:\/\/www.example.com o www.example.com","Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel\/example-page\".":"Por favor, introduzca una Clave de URL v\u00e1lida. Por ejemplo  \"pagina-ejemplo\", \"pagina-ejemplo.html\" o \"otronivel\/pagina-ejemplo\"","Please enter a valid XML-identifier. For example something_1, block5, id-4.":"Por favor, introduzca un identificador-XML v\u00e1lido. Por ejemplo, algo_1, bloque5, id-4.","Please enter a valid social security number. For example 123-45-6789.":"Ingrese un n\u00famero de seguro social v\u00e1lido. Por ejemplo: 123-45-6789.","Please enter a valid zip code. For example 90602 or 90602-1234.":"Ingrese un c\u00f3digo postal v\u00e1lido. Por ejemplo: 90602 o 90602-1234.","Please enter a valid zip code.":"Ingrese un c\u00f3digo postal v\u00e1lido.","Please use this date format: dd\/mm\/yyyy. For example 17\/03\/2006 for the 17th of March, 2006.":"Utilice este formato de fecha: dd\/mm\/aaaa. Por ejemplo, 17\/03\/2006 para el 17 de marzo de 2006.","Please enter a valid $ amount. For example $100.00.":"Ingrese un monto v\u00e1lido en $. Por ejemplo: $100.00.","Please select one of the above options.":"Por favor, selecciona una de las opciones anteriores.","Please select one of the options.":"Seleccione una de las opciones.","Please select State\/Province.":"Por favor, selecciona Estado\/Provincia.","Please enter a number greater than 0 in this field.":"Ingrese un n\u00famero mayor que 0 en este campo.","Please enter a number 0 or greater in this field.":"Por favor, introduzca un n\u00famero 0 o superior en este campo.","Please enter a valid credit card number.":"Ingrese un n\u00famero de tarjeta de cr\u00e9dito v\u00e1lido.","Credit card number does not match credit card type.":"El n\u00famero de tarjeta de cr\u00e9dito no se ajusta al tipo de tarjeta de cr\u00e9dito.","Card type does not match credit card number.":"El tipo de tarjeta no se ajusta al n\u00famero de tarjeta de cr\u00e9dito.","Incorrect credit card expiration date.":"Fecha de caducidad de la tarjeta de cr\u00e9dito incorrecta","Please enter a valid credit card verification number.":"Introduzca un n\u00famero correcto de verificaci\u00f3n de tarjeta de cr\u00e9dito.","Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Por favor, utilice solamente letras (a-z o A-Z), n\u00fameros (0-9) o guion bajo (_) en este campo, el primer car\u00e1cter debe ser una letra.","Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%.":"Por favor, introduzca una longitud v\u00e1lida de CSS. Por ejemplo, 100px o 77pt o 20em o .5ex o 50%","Text length does not satisfy specified text range.":"La longitud del texto no satisface el rango de texto se\u00f1alado","Please enter a number lower than 100.":"Por favor, introduzca un n\u00famero menor que 100.","Please select a file":"Por favor seleccione un archivo","Please enter issue number or start date for switch\/solo card type.":"Por favor, introduzca un n\u00famero de emisi\u00f3n o fecha de inicio para el tipo de tarjeta switch\/solo.","Please wait, loading...":"Espera, por favor. Cargando....","This date is a required value.":"La fecha es un valor obligatorio.","Please enter a valid day (1-%d).":"Por favor, introduzca un d\u00eda v\u00e1lido (1-%d).","Please enter a valid month (1-12).":"Por favor, introduzca un mes v\u00e1lido (1-12).","Please enter a valid year (1900-%d).":"Por favor, introduzca un a\u00f1o v\u00e1lido (1900-%d).","Please enter a valid full date":"Por favor, introduzca una fecha v\u00e1lida completa","Please enter a valid date between %s and %s":"Por favor, introduzca una fecha v\u00e1lida entre %s y %s","Please enter a valid date equal to or greater than %s":"Por favor, introduzca una fecha v\u00e1lida igual o superior a %s","Please enter a valid date less than or equal to %s":"Por favor, introduzca una fecha v\u00e1lida menor o igual a %s","Complete":"Completo","Add Products":"A\u00f1adir productos","Please choose to register or to checkout as a guest":"Por favor, seleccione la opci\u00f3n de registrarse o la de tramitar el pedido como invitado","Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.":"Su pedido no puede completarse en este momento ya que no hay m\u00e9todos de env\u00edo disponibles. Realice los cambios necesarios en su direcci\u00f3n de env\u00edo.","Please specify payment method.":"Especifique el m\u00e9todo de pago.","Your order cannot be completed at this time as there is no payment methods available for it.":"Su pedido no se ha podido completar porque no hay ning\u00fan m\u00e9todo de pago disponible."});
+        //]]></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-87393073-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-87393073-1');
+</script>
+
+
+
+
+
+
+</head>
+
+<body class=" contacts-index-index " >
+
+<div id="root-wrapper">
+<div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>Puede que JavaScript esté deshabilitado en tu navegador.</strong><br />
+                    Tiene que activar el JavaScript del navegador para utilizar las funciones de este sitio web.                </p>
+            </div>
+        </div>
+    </noscript>
+    
+
+                      
+					<!-- Mobile logo -->
+				
+					<!-- Skip Links -->
+
+											<a href="#header-nav" class="skip-link skip-nav">
+							<span class="icon ic ic-menu"></span>
+							<span class="label">Menú</span>
+						</a>
+					
+											<a href="#header-search" class="skip-link skip-search">
+							<span class="icon ic ic-search"></span>
+							<span class="label">Búsqueda</span>
+						</a>
+					
+											<a href="#header-account" class="skip-link skip-account">
+							<span class="icon ic ic-user"></span>
+							<span class="label">Mi cuenta</span>
+						</a>
+					
+					
+					<!-- Mobile cart wrapper -->
+					<div id="mini-cart-wrapper-mobile"></div>
+
+					<!-- Left column -->
+					<div class="hp-block grid12-4">
+
+						
+						</div>
+
+					</div>
+
+					<!-- Central column -->
+					
+					<!-- Right column -->
+					<div class="hp-block user-menu clearer grid12-8" style="">
+
+													<div id="header-search" class="search-wrapper-p0  search-wrapper skip-content skip-content--style"><form id="search_mini_form" action="https://www.magitech.pe/catalogsearch/result/" method="get"
+    class="searchautocomplete UI-SEARCHAUTOCOMPLETE"
+    data-tip="Buscar por palabra clave, nombre, modelo, código, marca..."
+    data-url="//www.magitech.pe/searchautocomplete/ajax/get/"
+    data-minchars="3"
+    data-delay="500">
+
+    <div class="form-search">
+        <label for="search">Buscar:</label>
+
+        
+        <input id="search" type="text" autocomplete="off"  name="q" value="" class="input-text UI-SEARCH UI-NAV-INPUT" maxlength="128" />
+
+        <button type="submit" title="Búsqueda" class="button search-button"><span><span>Búsqueda</span></span></button>
+
+        <div class="searchautocomplete-loader UI-LOADER" style="display:none;"></div>
+        <div style="display:none" id="search_autocomplete" class="UI-PLACEHOLDER search-autocomplete searchautocomplete-placeholder"></div>
+    </div>
+</form>
+</div>
+						
+						<div class="line-break-after"></div>
+<!-- aca iba el mini cart-->
+                        <div class="llamenos" ><img src="https://www.magitech.pe//img/icono_telefono.png" class="iconotelefono" /></div>
+                        <div class="textotelefono">
+                            <span style="color: #fd9f00;">LLÁMANOS</span><br><span style="color: #ffffff;">(01) 332-5500</span></div>
+
+						
+												
+						
+						
+						
+												
+						
+						 <!-- end: top-links -->
+
+
+						
+						
+					</div> <!-- end: user-menu -->
+					
+				</div> <!-- end: v-grid-container -->
+
+			</div> <!-- end: inner-container -->
+		</div> <!-- end: header-primary -->
+	</div> <!-- end: header-primary-container -->
+
+	<div id="header-nav" class="nav-container sticky-container skip-content">
+		<div class="nav container clearer  show-bg">
+			<div class="inner-container">
+				
+	
+
+
+	
+	
+		<div class="mobnav-trigger-wrapper">
+			<a class="mobnav-trigger" href="#">
+				<span class="trigger-icon"><span class="line"></span><span class="line"></span><span class="line"></span></span>
+				<span>Menú</span>
+			</a>
+		</div>
+
+	
+
+
+	
+	<ul id="nav" class="nav-regular opt-fx-fade-inout opt-sb0">
+	
+							<li class="nav-item nav-item--home level0 level-top">
+				<a class="level-top" href="http://www.magitech.pe/"><span class="ic ic-home"></span></a>
+			</li>
+				
+							<li class="nav-item level0 nav-1 level-top first nav-item--parent mega parent"><a href="https://www.magitech.pe/laptops.html" class="level-top"><span>Laptops</span><span class="caret">&nbsp;</span></a><span class="opener"></span><div class="nav-panel--dropdown nav-panel" style="width:1100px;"><div class="nav-panel-inner"><div class="nav-block nav-block--top std grid-full"><div class="containermenulaptop">
+<div class="menupc01">
+<ul>
+<li class="titulomenu">CATEGOR&Iacute;AS</li>
+</ul>
+<ul class="menu-categorias">
+<li><a href="https://www.magitech.pe/laptops/casa-hogar.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/hogar.png" alt="" /></a> <a href="https://www.magitech.pe/laptops/casa-hogar.html">Para casa</a></li>
+<li><a href="https://www.magitech.pe/laptops/para-profesionales.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/profesional.png" alt="" /></a> <a href="https://www.magitech.pe/laptops/para-profesionales.html">Profesionales</a></li>
+<li><a href="https://www.magitech.pe/laptops/premium.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/premium.png" alt="" /></a> <a href="https://www.magitech.pe/laptops/premium.html">Premium</a></li>
+</ul>
+<ul>
+<li><a href="https://www.magitech.pe/laptops/gaming.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/gaming-laptops.png" alt="" /></a> <a href="https://www.magitech.pe/laptops/gaming.html">Gaming</a></li>
+<li><a href="https://www.magitech.pe/laptops/workstations.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/workstation-laptops.png" alt="" /></a> <a href="https://www.magitech.pe/laptops/workstations.html">Workstations</a></li>
+<li><a href="https://www.magitech.pe/laptops/corporativos.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/corporativo.png" alt="" /></a> <a href="https://www.magitech.pe/laptops/corporativos.html">Corporativo</a></li>
+</ul>
+</div>
+<div class="menupc02">
+<ul>
+<li class="titulomenu">FORMATO</li>
+</ul>
+<ul class="menu-formato">
+<li><a href="https://www.magitech.pe/laptops/formato/convencionales.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/torre.png" alt="" /></a> <a href="https://www.magitech.pe/laptops/formato/convencionales.html">Convencionales</a></li>
+<li><a href="https://www.magitech.pe/laptops/formato/convertibles.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/convertible-laptops.png" alt="" /></a> <a href="https://www.magitech.pe/laptops/formato/convertibles.html">2 en 1 convertibles</a></li>
+</ul>
+<ul>
+<li><a href="https://www.magitech.pe/laptops/formato/ultrabooks-livianas.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/ultrabook-laptops.png" alt="" /></a> <a href="https://www.magitech.pe/laptops/formato/ultrabooks-livianas.html">Ultrabook y Livianas</a></li>
+<li><a href="https://www.magitech.pe/laptops/formato/todo-laptops.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/todo.png" alt="" /></a> <a href="https://www.magitech.pe/laptops/formato/todo-laptops.html">Ver todo</a></li>
+</ul>
+</div>
+<div class="menupc03">
+<ul>
+<li class="titulomenu">TAMA&Ntilde;O DE PANTALLA</li>
+</ul>
+<ul class="tamanopantalla">
+<li><a href="https://www.magitech.pe/laptops/tamano-de-pantalla/menor-de-13.html">13.3" a menos</a></li>
+<li><a href="https://www.magitech.pe/laptops/tamano-de-pantalla/de-14.html">De 14"</a></li>
+<li><a href="https://www.magitech.pe/laptops/tamano-de-pantalla/de-15.html">De 15.6"</a></li>
+<li><a href="https://www.magitech.pe/laptops/tamano-de-pantalla/de-17-a-mas.html">De 17 a m&aacute;s</a></li>
+</ul>
+<ul>
+<li class="titulomenu">CARACTER&Iacute;STICAS ESPECIALES</li>
+</ul>
+<ul>
+<li class="dos"><a href="https://www.magitech.pe/laptops/caracteristicas-especiales/con-ssd.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/disco.png" alt="" /></a><a href="https://www.magitech.pe/laptops/caracteristicas-especiales/con-ssd.html">Disco SSD</a></li>
+<li class="dos"><a href="https://www.magitech.pe/laptops/caracteristicas-especiales/con-pantalla-tactil.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/tactil.png" alt="" /></a><a href="https://www.magitech.pe/laptops/caracteristicas-especiales/con-pantalla-tactil.html">Pantalla t&aacute;ctil</a></li>
+<li class="dos"><a href="https://www.magitech.pe/laptops/caracteristicas-especiales/video-dedicado.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/video.png" alt="" /></a><a href="https://www.magitech.pe/laptops/caracteristicas-especiales/video-dedicado.html">Video dedicado</a></li>
+<li class="dos"><a href="https://www.magitech.pe/laptops/caracteristicas-especiales/con-windows-10.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/windows.png" alt="" /></a><a href="https://www.magitech.pe/laptops/caracteristicas-especiales/con-windows-10.html">Windows Pro</a></li>
+</ul>
+</div>
+<div class="menupc04">
+<ul class="menu-remates">
+<li><a href="https://www.magitech.pe/laptops/remates-laptops.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/remates.png" alt="" /></a> <a href="https://www.magitech.pe/laptops/remates-laptops.html">Remates y Outlet</a></li>
+</ul>
+<ul>
+<li><a href="https://www.magitech.pe/laptops/novedades.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/novedades.png" alt="" /></a> <a href="https://www.magitech.pe/laptops/novedades.html">Novedades</a></li>
+</ul>
+</div>
+</div></div><div class="nav-block--center grid12-12"><ul class="level0 nav-submenu nav-submenu--mega dd-itemgrid dd-itemgrid-7col"><li class="nav-item level1 nav-1-1 first nav-item--only-subcategories parent"><a href="https://www.magitech.pe/laptops/marcas.html"><span>Marcas</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-1-1-1 first classic"><a href="https://www.magitech.pe/laptops/marcas/toshiba.html"><span>Toshiba</span></a></li><li class="nav-item level2 nav-1-1-2 classic"><a href="https://www.magitech.pe/laptops/marcas/hp.html"><span>HP</span></a></li><li class="nav-item level2 nav-1-1-3 classic"><a href="https://www.magitech.pe/laptops/marcas/lenovo.html"><span>Lenovo</span></a></li><li class="nav-item level2 nav-1-1-4 classic"><a href="https://www.magitech.pe/laptops/marcas/dell.html"><span>Dell</span></a></li><li class="nav-item level2 nav-1-1-5 classic"><a href="https://www.magitech.pe/laptops/marcas/asus.html"><span>Asus</span></a></li><li class="nav-item level2 nav-1-1-6 classic"><a href="https://www.magitech.pe/laptops/marcas/msi.html"><span>MSI</span></a></li><li class="nav-item level2 nav-1-1-7 classic"><a href="https://www.magitech.pe/laptops/marcas/samsung.html"><span>Samsung</span></a></li><li class="nav-item level2 nav-1-1-8 classic"><a href="https://www.magitech.pe/laptops/marcas/sony-vaio.html"><span>Sony Vaio</span></a></li><li class="nav-item level2 nav-1-1-9 classic"><a href="https://www.magitech.pe/laptops/marcas/acer.html"><span>Acer</span></a></li><li class="nav-item level2 nav-1-1-10 classic"><a href="https://www.magitech.pe/laptops/marcas/apple.html"><span>Apple</span></a></li><li class="nav-item level2 nav-1-1-11 classic"><a href="https://www.magitech.pe/laptops/marcas/todas-las-marcas.html"><span>Todas las marcas</span></a></li><li class="nav-item level2 nav-1-1-12 classic"><a href="https://www.magitech.pe/laptops/marcas/lg.html"><span>LG</span></a></li><li class="nav-item level2 nav-1-1-13 classic"><a href="https://www.magitech.pe/laptops/marcas/razer.html"><span>Razer</span></a></li><li class="nav-item level2 nav-1-1-14 classic"><a href="https://www.magitech.pe/laptops/marcas/microsoft.html"><span>Microsoft</span></a></li><li class="nav-item level2 nav-1-1-15 classic"><a href="https://www.magitech.pe/laptops/marcas/alienware.html"><span>Alienware</span></a></li><li class="nav-item level2 nav-1-1-16 last classic"><a href="https://www.magitech.pe/laptops/marcas/porsche-design.html"><span>Porsche Design</span></a></li></ul></li><li class="nav-item level1 nav-1-2"><div class="nav-block nav-block--top std"><p><a href="https://www.magitech.pe/laptops/hogar-oficina.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/portatiles/hogar-oficina.png" alt="" /></a></p></div><a href="https://www.magitech.pe/laptops/casa-hogar.html"><span>Para casa</span></a></li><li class="nav-item level1 nav-1-3"><div class="nav-block nav-block--top std"><a href="https://www.magitech.pe/laptops/workstations.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/portatiles/ws.png" alt="" /></a></div><a href="https://www.magitech.pe/laptops/workstations.html"><span>Workstations de alto rendimiento</span></a></li><li class="nav-item level1 nav-1-4"><div class="nav-block nav-block--top std"><a href="https://www.magitech.pe/laptops/tactil-convertibles.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/portatiles/touch.png" alt="" /></a></div><a href="https://www.magitech.pe/laptops/tactil-convertibles.html"><span>Táctil &amp; Convertibles</span></a></li><li class="nav-item level1 nav-1-5"><div class="nav-block nav-block--top std"><a href="https://www.magitech.pe/laptops/exclusivas.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/portatiles/exclusivas.png" alt="" /></a></div><a href="https://www.magitech.pe/laptops/exclusivas.html"><span>Exclusivas</span></a></li><li class="nav-item level1 nav-1-6"><div class="nav-block nav-block--top std"><a href="https://www.magitech.pe/laptops/arquitectura-ingenieria.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/portatiles/profesional.png" alt="" /></a></div><a href="https://www.magitech.pe/laptops/arquitectura-ingenieria.html"><span>Arquitectura e Ingeniería</span></a></li><li class="nav-item level1 nav-1-7"><div class="nav-block nav-block--top std"><a href="https://www.magitech.pe/laptops/gaming.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/portatiles/alto.png" alt="" /></a></div><a href="https://www.magitech.pe/laptops/gaming.html"><span>Gaming</span></a></li><li class="nav-item level1 nav-1-8"><div class="nav-block nav-block--top std"><a href="https://www.magitech.pe/laptops/corporativos.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/portatiles/corporativos.png" alt="" /></a></div><a href="https://www.magitech.pe/laptops/corporativos.html"><span>Corporativos</span></a></li><li class="nav-item level1 nav-1-9"><div class="nav-block nav-block--top std"><a href="https://www.magitech.pe/laptops/remates-laptops.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/portatiles/accesorios.png" alt="" /></a></div><a href="https://www.magitech.pe/laptops/remates-laptops.html"><span>Remates y Outlet</span></a></li><li class="nav-item level1 nav-1-10"><a href="https://www.magitech.pe/laptops/para-profesionales.html"><span>Para profesionales </span></a></li><li class="nav-item level1 nav-1-11"><a href="https://www.magitech.pe/laptops/con-video-dedicado.html"><span>Con video dedicado</span></a></li><li class="nav-item level1 nav-1-12"><a href="https://www.magitech.pe/laptops/novedades.html"><span>Novedades</span></a></li><li class="nav-item level1 nav-1-13 nav-item--only-subcategories parent"><a href="https://www.magitech.pe/laptops/formato.html"><span>Formato</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-1-13-17 first classic"><a href="https://www.magitech.pe/laptops/formato/convencionales.html"><span>Convencionales</span></a></li><li class="nav-item level2 nav-1-13-18 classic"><a href="https://www.magitech.pe/laptops/formato/convertibles.html"><span>Convertibles 2 en 1</span></a></li><li class="nav-item level2 nav-1-13-19 classic"><a href="https://www.magitech.pe/laptops/formato/ultrabooks-livianas.html"><span>Ultrabooks &amp; Livianas</span></a></li><li class="nav-item level2 nav-1-13-20 last classic"><a href="https://www.magitech.pe/laptops/formato/todo-laptops.html"><span>Todo laptops</span></a></li></ul></li><li class="nav-item level1 nav-1-14 nav-item--only-subcategories parent"><a href="https://www.magitech.pe/laptops/tamano-de-pantalla.html"><span>Tamaño de Pantalla</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-1-14-21 first classic"><a href="https://www.magitech.pe/laptops/tamano-de-pantalla/de-14.html"><span>De 14&quot;</span></a></li><li class="nav-item level2 nav-1-14-22 classic"><a href="https://www.magitech.pe/laptops/tamano-de-pantalla/de-15.html"><span>De 15.6&quot;</span></a></li><li class="nav-item level2 nav-1-14-23 classic"><a href="https://www.magitech.pe/laptops/tamano-de-pantalla/de-17-a-mas.html"><span>De 17&quot; a mas</span></a></li><li class="nav-item level2 nav-1-14-24 last classic"><a href="https://www.magitech.pe/laptops/tamano-de-pantalla/menor-de-13.html"><span>Menor de 13&quot;</span></a></li></ul></li><li class="nav-item level1 nav-1-15 nav-item--only-subcategories parent"><a href="https://www.magitech.pe/laptops/caracteristicas-especiales.html"><span>Características Especiales</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-1-15-25 first classic"><a href="https://www.magitech.pe/laptops/caracteristicas-especiales/con-ssd.html"><span>Con SSD</span></a></li><li class="nav-item level2 nav-1-15-26 classic"><a href="https://www.magitech.pe/laptops/caracteristicas-especiales/con-pantalla-tactil.html"><span>Con pantalla Táctil</span></a></li><li class="nav-item level2 nav-1-15-27 classic"><a href="https://www.magitech.pe/laptops/caracteristicas-especiales/video-dedicado.html"><span>Video dedicado</span></a></li><li class="nav-item level2 nav-1-15-28 last classic"><a href="https://www.magitech.pe/laptops/caracteristicas-especiales/con-windows-10.html"><span>Con Windows 10 Pro</span></a></li></ul></li><li class="nav-item level1 nav-1-16 last"><a href="https://www.magitech.pe/laptops/premium.html"><span>Premium</span></a></li></ul></div><div class="nav-block nav-block--bottom std grid-full"><div class="marcas menu-bottom-inline">
+<ul>
+<li><a href="https://www.magitech.pe/laptops/marcas/hp.html">HP</a></li>
+<li><a href="https://www.magitech.pe/laptops/marcas/lenovo.html">Lenovo</a></li>
+<li><a href="https://www.magitech.pe/laptops/marcas/dell.html">Dell</a></li>
+<li><a href="https://www.magitech.pe/laptops/marcas/asus.html">Asus</a></li>
+<li><a href="https://www.magitech.pe/laptops/marcas/acer.html">Acer</a></li>
+<li><a href="https://www.magitech.pe/laptops/marcas/msi.html">Msi</a></li>
+<li><a href="https://www.magitech.pe/laptops/marcas/toshiba.html">Toshiba</a></li>
+<li><a href="https://www.magitech.pe/laptops/marcas/todas-las-marcas.html">Todas las marcas</a></li>
+</ul>
+<ul>
+<li><a href="https://www.magitech.pe/laptops/marcas/razer.html">Razer</a></li>
+<li><a href="https://www.magitech.pe/laptops/marcas/alienware.html">Alienware</a></li>
+<li><a href="https://www.magitech.pe/laptops/marcas/microsoft.html">Microsoft</a></li>
+<li><a href="https://www.magitech.pe/laptops/marcas/samsung.html">Samsung</a></li>
+<li><a href="https://www.magitech.pe/laptops/marcas/porsche-design.html">Porsche Desing</a></li>
+<li><a href="https://www.magitech.pe/laptops/marcas/apple.html">Apple</a></li>
+<li><span style="color: #0075d9;"><a href="https://www.magitech.pe/laptops/marcas/toshiba.html"><span style="color: #EAEDF3;">Toshiba</span></a></span></li>
+<li><span style="color: #EAEDF3;"><a href="https://www.magitech.pe/laptops/marcas/todas-las-marcas.html"><span style="color: #EAEDF3;">Todas las marcas</span></a></span></li>
+</ul>
+</div></div></div></div></li><li class="nav-item level0 nav-2 level-top nav-item--parent mega parent"><a href="https://www.magitech.pe/computadoras.html" class="level-top"><span>PC´S</span><span class="caret">&nbsp;</span></a><span class="opener"></span><div class="nav-panel--dropdown nav-panel" style="width:1100px;"><div class="nav-panel-inner"><div class="nav-block nav-block--top std grid-full"><div class="containermenupc">
+<div class="menupc01">
+<ul>
+<li class="titulomenu">CATEGOR&iacute;AS</li>
+</ul>
+<ul class="menu-categorias">
+<li><a href="https://www.magitech.pe/computadoras/hogar-oficina.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/hogar.png" alt="" /></a> <a href="https://www.magitech.pe/computadoras/hogar-oficina.html">Para casa</a></li>
+<li><a href="https://www.magitech.pe/computadoras/profesionales.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/profesional.png" alt="" /></a> <a href="https://www.magitech.pe/computadoras/profesionales.html">Profesionales</a></li>
+<li><a href="https://www.magitech.pe/computadoras/premium-pc.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/premium.png" alt="" /></a><a href="https://www.magitech.pe/computadoras/premium-pc.html">Premium</a></li>
+</ul>
+<ul>
+<li><a href="https://www.magitech.pe/computadoras/pc-gamer.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/gaming.png" alt="" /></a> <a href="https://www.magitech.pe/computadoras/pc-gamer.html">Gaming</a></li>
+<li><a href="https://www.magitech.pe/computadoras/workstation-pc.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/workstation.png" alt="" /></a> <a href="https://www.magitech.pe/computadoras/workstation-pc.html">Workstations</a></li>
+<li><a href="https://www.magitech.pe/computadoras/corporativo-pc.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/corporativo.png" alt="" /> </a><a href="https://www.magitech.pe/computadoras/corporativo-pc.html">Corporativo</a></li>
+</ul>
+</div>
+<div class="menupc02">
+<ul>
+<li class="titulomenu">FORMATO</li>
+</ul>
+<ul class="menu-formato">
+<li><a href="https://www.magitech.pe/computadoras/formato/torre-mini-pc.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/torre.png" alt="" /></a> <a href="https://www.magitech.pe/computadoras/formato/torre-mini-pc.html">Convencionales</a></li>
+<li><a href="https://www.magitech.pe/computadoras/formato/todo-en-uno.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/todo-en-uno.png" alt="" /></a><a href="https://www.magitech.pe/computadoras/formato/todo-en-uno.html">PC Todo en uno</a></li>
+</ul>
+<ul>
+<li><a href="https://www.magitech.pe/computadoras/formato/pc-mini-micro.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/micro.png" alt="" /> </a><a href="https://www.magitech.pe/computadoras/formato/pc-mini-micro.html">PC micro</a></li>
+<li><a href="https://www.magitech.pe/computadoras/formato/todo-pc.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/todo.png" alt="" /> </a><a href="https://www.magitech.pe/computadoras/formato/todo-pc.html">Ver todo</a></li>
+</ul>
+</div>
+<div class="menupc03">
+<ul>
+<li class="titulomenu">RENDIMIENTO PC</li>
+</ul>
+<ul>
+<li><a href="https://www.magitech.pe/computadoras/rendimiento-pc/informatica-diaria.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/informatica.png" alt="" /></a> <a href="https://www.magitech.pe/computadoras/rendimiento-pc/informatica-diaria.html">Inform&aacute;tica diaria</a></li>
+<li><a href="https://www.magitech.pe/computadoras/rendimiento-pc/alto-rendimiento.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/alto-rendimiento.png" alt="" /></a> <a href="https://www.magitech.pe/computadoras/rendimiento-pc/alto-rendimiento.html">Alto rendimiento</a></li>
+<li><a href="https://www.magitech.pe/computadoras/rendimiento-pc/potencia-sin-limites.html"><img class="imgicomenu" src="https://www.magitech.pe/menu/sin-limites.png" alt="" /></a> <a href="https://www.magitech.pe/computadoras/rendimiento-pc/potencia-sin-limites.html">Sin l&iacute;mites</a></li>
+</ul>
+<ul>
+<li class="titulomenu">CARACTER&Iacute;STICAS ESPECIALES</li>
+</ul>
+<ul>
+<li class="dos"><a href="https://www.magitech.pe/computadoras/caracteristicas-especiales/disco-duro-ssd.html"> <img class="imgicomenu" src="https://www.magitech.pe/menu/disco.png" alt="" /></a> <a href="https://www.magitech.pe/computadoras/caracteristicas-especiales/disco-duro-ssd.html">Disco SSD</a></li>
+<li class="dos"><a href="https://www.magitech.pe/computadoras/caracteristicas-especiales/pantalla-tactil.html"> <img class="imgicomenu" src="https://www.magitech.pe/menu/tactil.png" alt="" /></a> <a href="https://www.magitech.pe/computadoras/caracteristicas-especiales/pantalla-tactil.html">Pantalla t&aacute;ctil</a></li>
+<li class="dos"><a href="https://www.magitech.pe/computadoras/caracteristicas-especiales/video-dedicado.html"> <img class="imgicomenu" src="https://www.magitech.pe/menu/video.png" alt="" /></a> <a href="https://www.magitech.pe/computadoras/caracteristicas-especiales/video-dedicado.html">Video Dedicado</a></li>
+<li class="dos"><a href="https://www.magitech.pe/computadoras/caracteristicas-especiales/windows-pro.html"> <img class="imgicomenu" src="https://www.magitech.pe/menu/windows.png" alt="" /></a> <a href="https://www.magitech.pe/computadoras/caracteristicas-especiales/windows-pro.html">Windows Pro</a></li>
+</ul>
+</div>
+<div class="menupc04">
+<ul class="menu-remates">
+<li><a href="https://www.magitech.pe/computadoras/remates-pc.html"> <img class="imgicomenu" src="https://www.magitech.pe/menu/remates.png" alt="" /></a><a href="https://www.magitech.pe/computadoras/remates-pc.html">Remates &amp; Outlet</a></li>
+</ul>
+<ul>
+<li><a href="https://www.magitech.pe/computadoras/novedades-pc.html"> <img class="imgicomenu" src="https://www.magitech.pe/menu/novedades.png" alt="" /></a> <a href="https://www.magitech.pe/computadoras/novedades-pc.html">Novedades</a></li>
+</ul>
+</div>
+</div></div><div class="nav-block--center grid12-12"><ul class="level0 nav-submenu nav-submenu--mega dd-itemgrid dd-itemgrid-7col"><li class="nav-item level1 nav-2-1 first nav-item--only-subcategories parent"><a href="https://www.magitech.pe/computadoras/marcas.html"><span>Marcas</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-2-1-1 first classic"><a href="https://www.magitech.pe/computadoras/marcas/asus.html"><span>Asus</span></a></li><li class="nav-item level2 nav-2-1-2 classic"><a href="https://www.magitech.pe/computadoras/marcas/apple.html"><span>Apple</span></a></li><li class="nav-item level2 nav-2-1-3 classic"><a href="https://www.magitech.pe/computadoras/marcas/acer.html"><span>Acer</span></a></li><li class="nav-item level2 nav-2-1-4 classic"><a href="https://www.magitech.pe/computadoras/marcas/dell.html"><span>Dell</span></a></li><li class="nav-item level2 nav-2-1-5 classic"><a href="https://www.magitech.pe/computadoras/marcas/hp.html"><span>HP</span></a></li><li class="nav-item level2 nav-2-1-6 classic"><a href="https://www.magitech.pe/computadoras/marcas/lenovo.html"><span>Lenovo</span></a></li><li class="nav-item level2 nav-2-1-7 classic"><a href="https://www.magitech.pe/computadoras/marcas/vizio.html"><span>Vizio</span></a></li><li class="nav-item level2 nav-2-1-8 classic"><a href="https://www.magitech.pe/computadoras/marcas/compatibles.html"><span>Compatibles</span></a></li><li class="nav-item level2 nav-2-1-9 classic"><a href="https://www.magitech.pe/computadoras/marcas/todas-las-marcas.html"><span>Todas las marcas</span></a></li><li class="nav-item level2 nav-2-1-10 last classic"><a href="https://www.magitech.pe/computadoras/marcas/toshiba.html"><span>Toshiba</span></a></li></ul></li><li class="nav-item level1 nav-2-2"><div class="nav-block nav-block--top std"><a href="https://www.magitech.pe/computadoras/hogar-oficina.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/pc/hogar-oficina.png" alt="" /></a></div><a href="https://www.magitech.pe/computadoras/hogar-oficina.html"><span>Hogar &amp; Oficina</span></a></li><li class="nav-item level1 nav-2-3"><div class="nav-block nav-block--top std"><a href="https://www.magitech.pe/computadoras/pc-compatibles.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/pc/compatibles.png" alt="" /></a></div><a href="https://www.magitech.pe/computadoras/pc-compatibles.html"><span>PC Compatibles</span></a></li><li class="nav-item level1 nav-2-4"><div class="nav-block nav-block--top std"><a href="https://www.magitech.pe/computadoras/pc-gamer.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/pc/gamer.png" alt="" /></a></div><a href="https://www.magitech.pe/computadoras/pc-gamer.html"><span>PC Gamer</span></a></li><li class="nav-item level1 nav-2-5"><a href="https://www.magitech.pe/computadoras/premium-pc.html"><span>Premium</span></a></li><li class="nav-item level1 nav-2-6"><div class="nav-block nav-block--top std"><p><a href="https://www.magitech.pe/computadoras/pc-gamer.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/pc/workstation.png" alt="" /></a></p></div><a href="https://www.magitech.pe/computadoras/workstation-pc.html"><span>Workstation</span></a></li><li class="nav-item level1 nav-2-7"><a href="https://www.magitech.pe/computadoras/corporativo-pc.html"><span>Corporativo</span></a></li><li class="nav-item level1 nav-2-8"><a href="https://www.magitech.pe/computadoras/novedades-pc.html"><span>Novedades</span></a></li><li class="nav-item level1 nav-2-9"><a href="https://www.magitech.pe/computadoras/remates-pc.html"><span>Remates - Outlet PC</span></a></li><li class="nav-item level1 nav-2-10 nav-item--only-subcategories parent"><a href="https://www.magitech.pe/computadoras/formato.html"><span>Formato</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-2-10-11 first classic"><a href="https://www.magitech.pe/computadoras/formato/torre-mini-pc.html"><span>Torre y mini</span></a></li><li class="nav-item level2 nav-2-10-12 classic"><a href="https://www.magitech.pe/computadoras/formato/todo-pc.html"><span>Todo PC</span></a></li><li class="nav-item level2 nav-2-10-13 classic"><a href="https://www.magitech.pe/computadoras/formato/pc-mini-micro.html"><span>PC Mini-micro</span></a></li><li class="nav-item level2 nav-2-10-14 last classic"><a href="https://www.magitech.pe/computadoras/formato/todo-en-uno.html"><span>Todo en uno</span></a></li></ul></li><li class="nav-item level1 nav-2-11 nav-item--only-subcategories parent"><a href="https://www.magitech.pe/computadoras/rendimiento-pc.html"><span>Rendimiento Pc</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-2-11-15 first classic"><a href="https://www.magitech.pe/computadoras/rendimiento-pc/informatica-diaria.html"><span>Informática diaria</span></a></li><li class="nav-item level2 nav-2-11-16 classic"><a href="https://www.magitech.pe/computadoras/rendimiento-pc/alto-rendimiento.html"><span>Alto rendimiento</span></a></li><li class="nav-item level2 nav-2-11-17 last classic"><a href="https://www.magitech.pe/computadoras/rendimiento-pc/potencia-sin-limites.html"><span>Potencia sin límites</span></a></li></ul></li><li class="nav-item level1 nav-2-12 nav-item--only-subcategories parent"><a href="https://www.magitech.pe/computadoras/caracteristicas-especiales.html"><span>Caracteristicas Especiales</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-2-12-18 first classic"><a href="https://www.magitech.pe/computadoras/caracteristicas-especiales/disco-duro-ssd.html"><span>Disco Duro SSD</span></a></li><li class="nav-item level2 nav-2-12-19 classic"><a href="https://www.magitech.pe/computadoras/caracteristicas-especiales/pantalla-tactil.html"><span>Pantalla táctil</span></a></li><li class="nav-item level2 nav-2-12-20 classic"><a href="https://www.magitech.pe/computadoras/caracteristicas-especiales/video-dedicado.html"><span>Video dedicado</span></a></li><li class="nav-item level2 nav-2-12-21 last classic"><a href="https://www.magitech.pe/computadoras/caracteristicas-especiales/windows-pro.html"><span>Windows Pro</span></a></li></ul></li><li class="nav-item level1 nav-2-13 last"><a href="https://www.magitech.pe/computadoras/profesionales.html"><span>Profesionales</span></a></li></ul></div><div class="nav-block nav-block--bottom std grid-full"><div class="marcas menu-bottom-inline">
+<ul>
+<li><a href="https://www.magitech.pe/computadoras/marcas/dell.html">Dell</a></li>
+<li><a href="https://www.magitech.pe/computadoras/marcas/hp.html">HP</a></li>
+<li><a href="https://www.magitech.pe/computadoras/marcas/lenovo.html">Lenovo</a></li>
+<li><a href="https://www.magitech.pe/computadoras/marcas/asus.html">Asus</a></li>
+<li><a href="https://www.magitech.pe/computadoras/marcas/acer.html">Acer</a></li>
+<li><a href="https://www.magitech.pe/computadoras.html?manufacturer=160">Msi</a></li>
+<li><a href="https://www.magitech.pe/computadoras/marcas/compatibles.html">Compatibles</a></li>
+<li><a href="https://www.magitech.pe/computadoras/marcas/todas-las-marcas.html">Todas las marcas</a></li>
+</ul>
+</div></div></div></div></li><li class="nav-item level0 nav-3 level-top nav-item--parent mega parent"><a href="https://www.magitech.pe/servidores.html" class="level-top"><span>Servidores</span><span class="caret">&nbsp;</span></a><span class="opener"></span><div class="nav-panel--dropdown nav-panel" style="width:480px;"><div class="nav-panel-inner"><div class="nav-block nav-block--left std grid12-4"><div class="marcas">
+<ul>
+<li><a href="https://www.magitech.pe/servidores/marcas/dell.html">Dell</a></li>
+<li><a href="https://www.magitech.pe/servidores/marcas/hp.html">HP</a></li>
+<li><a href="https://www.magitech.pe/servidores/marcas/ibm.html">IBM</a></li>
+<li><a href="https://www.magitech.pe/servidores/marcas/lenovo.html">Lenovo</a></li>
+<li><a href="https://www.magitech.pe/servidores/marcas/todas-las-marcas.html">Todas las marcas</a></li>
+<li><a href="https://www.magitech.pe/servidores/marcas/todas-las-marcas.html">Accesorios y/o componentes</a></li>
+</ul>
+</div></div><div class="nav-block--center grid12-8"><ul class="level0 nav-submenu nav-submenu--mega dd-itemgrid dd-itemgrid-2col"><li class="nav-item level1 nav-3-1 first nav-item--only-subcategories parent"><a href="https://www.magitech.pe/servidores/marcas.html"><span>Marcas</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-3-1-1 first classic"><a href="https://www.magitech.pe/servidores/marcas/dell.html"><span>Dell</span></a></li><li class="nav-item level2 nav-3-1-2 classic"><a href="https://www.magitech.pe/servidores/marcas/hp.html"><span>HP</span></a></li><li class="nav-item level2 nav-3-1-3 classic"><a href="https://www.magitech.pe/servidores/marcas/ibm.html"><span>IBM</span></a></li><li class="nav-item level2 nav-3-1-4 classic"><a href="https://www.magitech.pe/servidores/marcas/lenovo.html"><span>Lenovo</span></a></li><li class="nav-item level2 nav-3-1-5 last classic"><a href="https://www.magitech.pe/servidores/marcas/todas-las-marcas.html"><span>Todas las marcas</span></a></li></ul></li><li class="nav-item level1 nav-3-2"><div class="nav-block nav-block--top std"><a href="https://www.magitech.pe/servidores/servidor-en-torre.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/servidores/servidores-de-torre.png" alt="" /></a></div><a href="https://www.magitech.pe/servidores/servidor-en-torre.html"><span>Servidor en Torre</span></a></li><li class="nav-item level1 nav-3-3 last"><div class="nav-block nav-block--top std"><a href="https://www.magitech.pe/servidores/servidor-en-rack.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/servidores/servidores-de-rack.png" alt="" /></a></div><a href="https://www.magitech.pe/servidores/servidor-en-rack.html"><span>Servidor en Rack</span></a></li></ul></div></div></div></li><li class="nav-item level0 nav-4 level-top nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.magitech.pe/proyeccion.html" class="level-top"><span>Proyectores</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level0 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level1 nav-4-1 first classic"><a href="https://www.magitech.pe/proyeccion/proyectores.html"><span>Proyectores</span></a></li><li class="nav-item level1 nav-4-2 last classic"><a href="https://www.magitech.pe/proyeccion/accesorios.html"><span>Accesorios</span></a></li></ul></li><li class="nav-item level0 nav-5 level-top nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.magitech.pe/impresion.html" class="level-top"><span>Impresoras</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level0 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level1 nav-5-1 first classic"><a href="https://www.magitech.pe/impresion/impresoras-de-tinta.html"><span>Impresoras de Tinta</span></a></li><li class="nav-item level1 nav-5-2 classic"><a href="https://www.magitech.pe/impresion/multifuncionales-de-tinta.html"><span>Multifuncionales de Tinta</span></a></li><li class="nav-item level1 nav-5-3 classic"><a href="https://www.magitech.pe/impresion/impresoras-laser.html"><span>Impresoras Laser</span></a></li><li class="nav-item level1 nav-5-4 classic"><a href="https://www.magitech.pe/impresion/multifuncionales-laser.html"><span>Multifuncionales Laser</span></a></li><li class="nav-item level1 nav-5-5 classic"><a href="https://www.magitech.pe/impresion/impresora-de-etiquetas.html"><span>Impresora de Etiquetas</span></a></li><li class="nav-item level1 nav-5-6 classic"><a href="https://www.magitech.pe/impresion/plotters.html"><span>Plotters</span></a></li><li class="nav-item level1 nav-5-7 classic"><a href="https://www.magitech.pe/impresion/tintas-y-toners.html"><span>Tintas y Toners</span></a></li><li class="nav-item level1 nav-5-8 last classic"><a href="https://www.magitech.pe/impresion/impresoras-matriciales.html"><span>Impresoras Matriciales </span></a></li></ul></li><li class="nav-item level0 nav-6 level-top nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.magitech.pe/monitores.html" class="level-top"><span>Monitores</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level0 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level1 nav-6-1 first classic"><a href="https://www.magitech.pe/monitores/monitor-hasta-19.html"><span>Monitores hasta 19&quot;</span></a></li><li class="nav-item level1 nav-6-2 classic"><a href="https://www.magitech.pe/monitores/monitor-20-22.html"><span>Monitores de 20&quot; a 22&quot;</span></a></li><li class="nav-item level1 nav-6-3 classic"><a href="https://www.magitech.pe/monitores/monitor-23-25.html"><span>Monitores de 23&quot; a 25&quot;</span></a></li><li class="nav-item level1 nav-6-4 classic"><a href="https://www.magitech.pe/monitores/monitor-27-30.html"><span>Monitores de 27&quot; a 30&quot;</span></a></li><li class="nav-item level1 nav-6-5 classic"><a href="https://www.magitech.pe/monitores/monitor-32.html"><span>Monitores de 32&quot; a más</span></a></li><li class="nav-item level1 nav-6-6 classic"><a href="https://www.magitech.pe/monitores/monitor-gaming.html"><span>Monitores Gaming</span></a></li><li class="nav-item level1 nav-6-7 classic"><a href="https://www.magitech.pe/monitores/monitor-grafico.html"><span>Monitores diseño avanzado</span></a></li><li class="nav-item level1 nav-6-8 classic"><a href="https://www.magitech.pe/monitores/monitor-curvo.html"><span>Monitores curvo</span></a></li><li class="nav-item level1 nav-6-9 classic"><a href="https://www.magitech.pe/monitores/monitor-4k.html"><span>Monitores QHD &amp; 4K</span></a></li><li class="nav-item level1 nav-6-10 classic"><a href="https://www.magitech.pe/monitores/monitores-premium.html"><span>Monitores premium</span></a></li><li class="nav-item level1 nav-6-11 classic"><a href="https://www.magitech.pe/monitores/monitores-tv.html"><span>Monitores con TV y/o televisores</span></a></li><li class="nav-item level1 nav-6-12 last classic"><a href="https://www.magitech.pe/monitores/uso-comercial.html"><span>Monitores comercial - publicitario</span></a></li></ul></li><li class="nav-item level0 nav-7 level-top nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.magitech.pe/partes-perifericos.html" class="level-top"><span>Componentes &amp; Otros </span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level0 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level1 nav-7-1 first nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.magitech.pe/partes-perifericos/almacenamiento.html"><span>Almacenamiento</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level2 nav-7-1-1 first last nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.magitech.pe/partes-perifericos/almacenamiento/discos-duros-externos.html"><span>Discos Duros Externos</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level2 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level3 nav-7-1-1-1 first last classic"><a href="https://www.magitech.pe/partes-perifericos/almacenamiento/discos-duros-externos/portatiles.html"><span>Portatiles</span></a></li></ul></li></ul></li><li class="nav-item level1 nav-7-2 nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.magitech.pe/partes-perifericos/componentes-de-pc.html"><span>Componentes de PC</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level2 nav-7-2-2 first nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.magitech.pe/partes-perifericos/componentes-de-pc/procesadores.html"><span>Procesadores</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level2 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level3 nav-7-2-2-2 first classic"><a href="https://www.magitech.pe/partes-perifericos/componentes-de-pc/procesadores/intel.html"><span>Intel</span></a></li><li class="nav-item level3 nav-7-2-2-3 last classic"><a href="https://www.magitech.pe/partes-perifericos/componentes-de-pc/procesadores/amd.html"><span>AMD</span></a></li></ul></li><li class="nav-item level2 nav-7-2-3 nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.magitech.pe/partes-perifericos/componentes-de-pc/memorias-ram.html"><span>Memorias RAM</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level2 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level3 nav-7-2-3-4 first classic"><a href="https://www.magitech.pe/partes-perifericos/componentes-de-pc/memorias-ram/memorias-para-pc.html"><span>Memorias para PC </span></a></li><li class="nav-item level3 nav-7-2-3-5 classic"><a href="https://www.magitech.pe/partes-perifericos/componentes-de-pc/memorias-ram/memorias-para-laptop.html"><span>Memorias para Laptop</span></a></li><li class="nav-item level3 nav-7-2-3-6 last classic"><a href="https://www.magitech.pe/partes-perifericos/componentes-de-pc/memorias-ram/memorias-para-servidor.html"><span>Memorias para Servidor</span></a></li></ul></li><li class="nav-item level2 nav-7-2-4 nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.magitech.pe/partes-perifericos/componentes-de-pc/tarjetas-de-video.html"><span>Tarjetas de Video</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level2 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level3 nav-7-2-4-7 first classic"><a href="https://www.magitech.pe/partes-perifericos/componentes-de-pc/tarjetas-de-video/nvidia.html"><span>Nvidia</span></a></li><li class="nav-item level3 nav-7-2-4-8 last classic"><a href="https://www.magitech.pe/partes-perifericos/componentes-de-pc/tarjetas-de-video/amd.html"><span>AMD</span></a></li></ul></li><li class="nav-item level2 nav-7-2-5 classic"><a href="https://www.magitech.pe/partes-perifericos/componentes-de-pc/unidades-opticas.html"><span>Unidades Ópticas</span></a></li><li class="nav-item level2 nav-7-2-6 last classic"><a href="https://www.magitech.pe/partes-perifericos/componentes-de-pc/teclados-mouse.html"><span>Teclados &amp; Mouse</span></a></li></ul></li><li class="nav-item level1 nav-7-3 classic"><a href="https://www.magitech.pe/partes-perifericos/proteccion-electrica.html"><span>Protección Eléctrica</span></a></li><li class="nav-item level1 nav-7-4 classic"><a href="https://www.magitech.pe/partes-perifericos/tabletas-digitalizadoras.html"><span>Tabletas Digitalizadoras</span></a></li><li class="nav-item level1 nav-7-5 classic"><a href="https://www.magitech.pe/partes-perifericos/pantallas-letreros-comerciales.html"><span>Pantallas &amp; Letreros comerciales</span></a></li><li class="nav-item level1 nav-7-6 classic"><a href="https://www.magitech.pe/partes-perifericos/scanner.html"><span>Scanner</span></a></li><li class="nav-item level1 nav-7-7 nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.magitech.pe/partes-perifericos/accesorios-para-laptops.html"><span>Accesorios &amp; Componentes para Laptops</span><span class="caret">&nbsp;</span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level2 nav-7-7-7 first classic"><a href="https://www.magitech.pe/partes-perifericos/accesorios-para-laptops/mochilas-fundas.html"><span>Mochilas &amp; Maletines &amp; Fundas</span></a></li><li class="nav-item level2 nav-7-7-8 classic"><a href="https://www.magitech.pe/partes-perifericos/accesorios-para-laptops/baterias.html"><span>Cargadores &amp; Baterías</span></a></li><li class="nav-item level2 nav-7-7-9 classic"><a href="https://www.magitech.pe/partes-perifericos/accesorios-para-laptops/accesorios-para-laptops.html"><span>Accesorios para Laptops</span></a></li><li class="nav-item level2 nav-7-7-10 last classic"><a href="https://www.magitech.pe/partes-perifericos/accesorios-para-laptops/repuestos-laptops.html"><span>Repuestos para Laptops</span></a></li></ul></li><li class="nav-item level1 nav-7-8 classic"><a href="https://www.magitech.pe/partes-perifericos/conectividad-y-redes.html"><span>Conectividad y Redes</span></a></li><li class="nav-item level1 nav-7-9 classic"><a href="https://www.magitech.pe/partes-perifericos/drones.html"><span>Drones</span></a></li><li class="nav-item level1 nav-7-10 classic"><a href="https://www.magitech.pe/partes-perifericos/tablet.html"><span>Tablet</span></a></li><li class="nav-item level1 nav-7-11 last nav-item--parent mega nav-item--only-subcategories parent"><a href="https://www.magitech.pe/partes-perifericos/software.html"><span>Software</span><span class="caret">&nbsp;</span></a><span class="opener"></span><div class="nav-panel--dropdown nav-panel" style="width:320px;"><div class="nav-panel-inner"><div class="nav-block--center grid12-12"><ul class="level1 nav-submenu nav-submenu--mega dd-itemgrid dd-itemgrid-2col"><li class="nav-item level2 nav-7-11-11 first"><div class="nav-block nav-block--top std"><a href="https://www.magitech.pe/software/sistemas-operativos.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/software/so.png" alt="" /></a></div><a href="https://www.magitech.pe/partes-perifericos/software/sistemas-operativos.html"><span>Sistemas Operativos</span></a></li><li class="nav-item level2 nav-7-11-12"><div class="nav-block nav-block--top std"><a href="https://www.magitech.pe/software/antivirus.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/software/antivirus.png" alt="" /></a></div><a href="https://www.magitech.pe/partes-perifericos/software/antivirus.html"><span>Antivirus</span></a></li><li class="nav-item level2 nav-7-11-13 last"><div class="nav-block nav-block--top std"><a href="https://www.magitech.pe/software/microsoft-office.html"><img src="https://www.magitech.pe/media/wysiwyg/categorias/software/office.png" alt="" /></a></div><a href="https://www.magitech.pe/partes-perifericos/software/microsoft-office.html"><span>Microsoft Office</span></a></li></ul></div></div></div></li></ul></li><li class="nav-item level0 nav-8 level-top classic"><a href="https://www.magitech.pe/remates-outlet.html" class="level-top"><span>Remates - Outlet</span></a></li><li class="nav-item level0 nav-9 level-top classic"><a href="https://www.magitech.pe/ventas-a-empresas.html" class="level-top"><span>Ventas Empresas</span></a></li><li class="nav-item level0 nav-10 level-top last nav-item--parent mega nav-item--only-subcategories parent"><a href="https://www.magitech.pe/ventas-a-distribuidores.html" class="level-top"><span>Ventas a Distribuidores</span><span class="caret">&nbsp;</span></a><span class="opener"></span><div class="nav-panel--dropdown nav-panel" style="width:1100px;"><div class="nav-panel-inner"><div class="nav-block--center grid12-12"><ul class="level0 nav-submenu nav-submenu--mega dd-itemgrid dd-itemgrid-6col"><li class="nav-item level1 nav-10-1 first"><div class="nav-block nav-block--top std"><a href="https://www.magitech.pe/customer/account/login"><img src="https://www.magitech.pe/media/wysiwyg/assets/icono-web-04.jpg" alt="" /></a></div><a href="https://www.magitech.pe/customer/account/login"><span>Ingresa a tu cuenta</span></a></li><li class="nav-item level1 nav-10-2"><div class="nav-block nav-block--top std"><a href="http://www.magitech.pe/distribuidores"><img src="https://www.magitech.pe/media/wysiwyg/assets/icono-web-05.jpg" alt="" /></a></div><a href="http://www.magitech.pe/distribuidores"><span>Inscripción de distribuidores</span></a></li><li class="nav-item level1 nav-10-3"><div class="nav-block nav-block--top std"><a href="http://www.magitech.pe/lista-de-precios-magitech"><img src="https://www.magitech.pe/media/wysiwyg/assets/icono-web-01.jpg" alt="" /></a></div><a href="http://www.magitech.pe/lista-de-precios-magitech"><span>Descargar Listas de Precios</span></a></li><li class="nav-item level1 nav-10-4"><div class="nav-block nav-block--top std"><a href="http://www.magitech.pe/ofertas-distribuidores"><img src="https://www.magitech.pe/media/wysiwyg/assets/icono-web-06.jpg" alt="" /></a></div><a href="#" class="no-click"><span>Oferta de la semana</span></a></li><li class="nav-item level1 nav-10-5"><div class="nav-block nav-block--top std"><a href="http://www.magitech.pe/contacts"><img src="https://www.magitech.pe/media/wysiwyg/assets/icono-web-02.jpg" alt="" /></a></div><a href="http://www.magitech.pe/contacts"><span>Contáctenos</span></a></li><li class="nav-item level1 nav-10-6 last"><div class="nav-block nav-block--top std"><a href="http://www.magitech.pe/preguntas-frecuentes.html"><img src="https://www.magitech.pe/media/wysiwyg/assets/icono-web-03.jpg" alt="" /></a></div><a href="http://www.magitech.pe/preguntas-frecuentes.html"><span>Preguntas Frecuentes</span></a></li></ul></div></div></div></li>			
+						
+						
+	</ul>
+
+
+
+	
+	<script type="text/javascript">
+	//<![CDATA[
+
+
+
+		var MegaMenu = {
+
+			mobileMenuThreshold: 960			, bar: jQuery('#nav')
+			, panels: null
+			, mobnavTriggerWrapper: null
+			, itemSelector: 'li'
+			, panelSelector: '.nav-panel'
+			, openerSelector: '.opener'
+			, isTouchDevice: ('ontouchstart' in window) || (navigator.msMaxTouchPoints > 0)
+			, ddDelayIn: 100
+			, ddDelayOut: 200
+			, ddAnimationDurationIn: 100
+			, ddAnimationDurationOut: 300
+
+			, init : function()
+			{
+				MegaMenu.panels = MegaMenu.bar.find(MegaMenu.panelSelector);
+				MegaMenu.mobnavTriggerWrapper = jQuery('.mobnav-trigger-wrapper');
+			}
+
+			, initDualMode : function()
+			{
+				MegaMenu.init();
+				MegaMenu.bar.accordion(MegaMenu.panelSelector, MegaMenu.openerSelector, MegaMenu.itemSelector);
+				if (jQuery(window).width() >= MegaMenu.mobileMenuThreshold)
+				{
+					MegaMenu.cleanUpAfterMobileMenu(); //Required for IE8
+				}
+
+				enquire
+					.register('screen and (max-width: ' + (MegaMenu.mobileMenuThreshold - 1) + 'px)', {
+						match: MegaMenu.activateMobileMenu,
+						unmatch: MegaMenu.cleanUpAfterMobileMenu
+					})
+					.register('screen and (min-width: ' + MegaMenu.mobileMenuThreshold + 'px)', {
+						deferSetup: true,
+						setup: MegaMenu.cleanUpAfterMobileMenu,
+						match: MegaMenu.activateRegularMenu,
+						unmatch: MegaMenu.prepareMobileMenu
+					});
+			}
+
+			, initMobileMode : function()
+			{
+				MegaMenu.init();
+				MegaMenu.bar.accordion(MegaMenu.panelSelector, MegaMenu.openerSelector, MegaMenu.itemSelector);
+				MegaMenu.activateMobileMenu();
+			}
+
+			, activateMobileMenu : function()
+			{
+				MegaMenu.mobnavTriggerWrapper.show();
+				MegaMenu.bar.addClass('nav-mobile acco').removeClass('nav-regular');
+			}
+
+			, activateRegularMenu : function() //Default state
+			{
+				MegaMenu.bar.addClass('nav-regular').removeClass('nav-mobile acco');
+				MegaMenu.mobnavTriggerWrapper.hide();
+			}
+
+			, cleanUpAfterMobileMenu : function()
+			{
+								MegaMenu.panels.css('display', '');
+			}
+
+			, prepareMobileMenu : function()
+			{
+								MegaMenu.panels.hide();
+
+								MegaMenu.bar.find('.item-active').each( function() {
+					jQuery(this).children('.nav-panel').show();
+				});
+			}
+
+		}; //end: MegaMenu
+
+
+
+		
+					MegaMenu.initDualMode();
+		
+		//Toggle mobile menu
+		jQuery('a.mobnav-trigger').on('click', function(e) {
+			e.preventDefault();
+			if (jQuery(this).hasClass('active'))
+			{
+				MegaMenu.bar.removeClass('show');
+				jQuery(this).removeClass('active');
+			}
+			else
+			{
+				MegaMenu.bar.addClass('show');
+				jQuery(this).addClass('active');					
+			}
+		});
+
+	
+
+
+		
+		jQuery(function($) {
+
+			var menubar = MegaMenu.bar;
+
+						menubar.on('click', '.no-click', function(e) {
+				e.preventDefault();
+			});
+
+						menubar.on('mouseenter', 'li.parent.level0', function() {
+				
+				if (false === menubar.hasClass('nav-mobile'))
+				{
+					var item = $(this);
+					var dd = item.children('.nav-panel');
+
+					var itemPos = item.position();
+					var ddPos = { left: itemPos.left, top: itemPos.top + item.height() };
+					if (dd.hasClass('full-width')) { ddPos.left = 0; }
+
+															dd.removeClass('tmp-full-width');
+
+									var ddConOffset = 0;
+					var outermostCon = menubar;
+				
+					var outermostContainerWidth = outermostCon.width();
+					var ddOffset = ddConOffset + ddPos.left;
+					var ddWidth = dd.outerWidth();
+
+										if ((ddOffset + ddWidth) > outermostContainerWidth)
+					{
+												var diff = (ddOffset + ddWidth) - outermostContainerWidth;
+						var ddPosLeft_NEW = ddPos.left - diff;
+
+												var ddOffset_NEW = ddOffset - diff;
+
+												if (ddOffset_NEW < 0)
+						{
+														dd.addClass('tmp-full-width');
+							ddPos.left = 0;
+						}
+						else
+						{
+														ddPos.left = ddPosLeft_NEW;
+						}
+					}
+					
+					dd
+						.css({
+							'left' : ddPos.left + 'px',
+							'top'  : ddPos.top + 'px'
+						})
+						.stop(true, true).delay(MegaMenu.ddDelayIn).fadeIn(MegaMenu.ddAnimationDurationIn, "easeOutCubic");
+				}
+
+			}).on('mouseleave', 'li.parent.level0', function() {
+				
+				if (false === menubar.hasClass('nav-mobile'))
+				{
+					$(this).children(".nav-panel")
+					.stop(true, true).delay(MegaMenu.ddDelayOut).fadeOut(MegaMenu.ddAnimationDurationOut, "easeInCubic");
+				}
+
+			}); //end: menu top-level dropdowns
+
+		}); //end: on document ready
+
+		jQuery(window).on("load", function() {
+
+			var menubar = MegaMenu.bar;
+
+			if (MegaMenu.isTouchDevice)
+			{
+				menubar.on('click', 'a', function(e) {
+
+					link = jQuery(this);
+					if (!menubar.hasClass('nav-mobile') && link.parent().hasClass('nav-item--parent'))
+					{
+						if (!link.hasClass('ready'))
+						{
+							e.preventDefault();
+							menubar.find('.ready').removeClass('ready');
+							link.parents('li').children('a').addClass('ready');
+						}
+					}
+
+				}); //end: on click
+			} //end: if isTouchDevice
+
+		}); //end: on load
+
+	
+
+
+	//]]>
+	</script>
+
+			</div> <!-- end: inner-container -->
+		</div> <!-- end: nav -->
+	</div> <!-- end: nav-container -->
+
+    <div class="cinta" style="background-color: #fd8f03;">
+<p><span class="text1">&nbsp;<span>&nbsp;</span><span>&iexcl; CYBER MAGITECH !&nbsp; APROVECHE &Uacute;LTIMO D&Iacute;A&nbsp;</span></span>, 5% DE DESCUENTO ADICIONAL POR TODAS TUS COMPRAS ONLINE CON CUALQUIER MEDIO DE PAGO.</p>
+</div>
+
+</div> <!-- end: header-container3 -->
+</div> <!-- end: header-container2 -->
+</div> <!-- end: header-container -->
+
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+		
+		var SmartHeader = {
+
+			mobileHeaderThreshold : 770
+			, rootContainer : jQuery('.header-container')
+
+			, init : function()
+			{
+				enquire.register('(max-width: ' + (SmartHeader.mobileHeaderThreshold - 1) + 'px)', {
+					match: SmartHeader.moveElementsToMobilePosition,
+					unmatch: SmartHeader.moveElementsToRegularPosition
+				});
+			}
+
+			, activateMobileHeader : function()
+			{
+				SmartHeader.rootContainer.addClass('header-mobile').removeClass('header-regular');
+			}
+
+			, activateRegularHeader : function()
+			{
+				SmartHeader.rootContainer.addClass('header-regular').removeClass('header-mobile');
+			}
+
+			, moveElementsToMobilePosition : function()
+			{
+				SmartHeader.activateMobileHeader();
+
+				jQuery('#mini-cart-wrapper-mobile').prepend(jQuery('#mini-cart'));
+				jQuery('.skip-active').removeClass('skip-active');
+				
+				//Disable dropdowns
+				jQuery('#mini-cart').removeClass('dropdown');
+				jQuery('#mini-compare').removeClass('dropdown');
+
+				//Clean up after dropdowns: reset the "display" property
+				jQuery('#header-cart').css('display', '');
+				jQuery('#header-compare').css('display', '');
+
+			}
+
+			, moveElementsToRegularPosition : function()
+			{
+				SmartHeader.activateRegularHeader();
+
+				jQuery('#mini-cart-wrapper-regular').prepend(jQuery('#mini-cart'));
+				jQuery('.skip-active').removeClass('skip-active');
+
+				//Enable dropdowns
+				jQuery('#mini-cart').addClass('dropdown');
+				jQuery('#mini-compare').addClass('dropdown');
+			}
+
+		}; //end: SmartHeader
+
+		SmartHeader.init();
+
+		jQuery(function($) {
+
+			//Skip Links
+			var skipContents = $('.skip-content');
+			var skipLinks = $('.skip-link');
+
+			skipLinks.on('click', function (e) {
+				e.preventDefault();
+
+				var self = $(this);
+				var target = self.attr('href');
+
+				//Get target element
+				var elem = $(target);
+
+				//Check if stub is open
+				var isSkipContentOpen = elem.hasClass('skip-active') ? 1 : 0;
+
+				//Hide all stubs
+				skipLinks.removeClass('skip-active');
+				skipContents.removeClass('skip-active');
+
+				//Toggle stubs
+				if (isSkipContentOpen) {
+					self.removeClass('skip-active');
+				} else {
+					self.addClass('skip-active');
+					elem.addClass('skip-active');
+				}
+			});
+
+		}); //end: on document ready
+
+	
+
+
+		
+		jQuery(function($) {
+
+			var StickyHeader = {
+
+				stickyThreshold : 960 
+				, isSticky : false
+				, isSuspended : false
+				, headerContainer : $('.header-container')
+				, stickyContainer : $('.sticky-container')	//.nav-container
+				, stickyContainerOffsetTop : 55
+
+				, init : function()
+				{
+					StickyHeader.stickyContainerOffsetTop = 
+						StickyHeader.stickyContainer.offset().top + StickyHeader.stickyContainer.outerHeight();
+
+					StickyHeader.applySticky();
+					StickyHeader.hookToScroll();
+
+					if (StickyHeader.stickyThreshold > 0)
+					{
+						enquire.register('(max-width: ' + (StickyHeader.stickyThreshold - 1) + 'px)', {
+							match: StickyHeader.suspendSticky,
+							unmatch: StickyHeader.unsuspendSticky
+						});
+					}
+				}
+
+				, applySticky : function()
+				{
+					if (StickyHeader.isSuspended) return;
+
+					var viewportOffsetTop = $(window).scrollTop();
+					if (viewportOffsetTop > StickyHeader.stickyContainerOffsetTop)
+					{
+						if (!StickyHeader.isSticky)
+						{
+							StickyHeader.activateSticky();
+						}
+					}
+					else
+					{
+						if (StickyHeader.isSticky)
+						{
+							StickyHeader.deactivateSticky();
+						}
+					}
+				}
+
+				, activateSticky : function()
+				{
+					var height = StickyHeader.stickyContainer.outerHeight();
+					StickyHeader.headerContainer.css('padding-bottom', height); //Fill in the space of the removed container
+					//$('.page').css('padding-top', height); //Fill in the space of the removed container
+
+					StickyHeader.headerContainer.addClass('sticky-header');
+					StickyHeader.stickyContainer.css('margin-top', '-' + height + 'px').animate({'margin-top': '0'}, 200, 'easeOutCubic');
+					//StickyHeader.stickyContainer.css('opacity', '0').animate({'opacity': '1'}, 300, 'easeOutCubic');
+					StickyHeader.isSticky = true;
+				}
+
+				, deactivateSticky : function()
+				{
+					StickyHeader.headerContainer.css('padding-bottom', '');
+					//$('.page').css('padding-top', '');
+
+					StickyHeader.headerContainer.removeClass('sticky-header');
+					StickyHeader.isSticky = false;
+				}
+
+				, suspendSticky : function()
+				{
+					StickyHeader.isSuspended = true;
+					StickyHeader.deactivateSticky();
+				}
+
+				, unsuspendSticky : function()
+				{
+					StickyHeader.isSuspended = false;
+					StickyHeader.applySticky();
+				}
+
+				, hookToScroll : function()
+				{
+					$(window).on("scroll", StickyHeader.applySticky);
+				}
+
+				, hookToScrollDeferred : function()
+				{
+					var windowScrollTimeout;
+					$(window).on("scroll", function() {
+						clearTimeout(windowScrollTimeout);
+						windowScrollTimeout = setTimeout(function() {
+							StickyHeader.applySticky();
+						}, 50);
+					});
+				}
+
+			}; //end: StickyHeader
+
+			StickyHeader.init();
+
+		}); //end: on document ready
+
+	
+//]]>
+</script>
+        <div class="main-container col1-layout">
+            <div class="main-before-top-container"></div>
+            <div class="main container">
+                <div class="inner-container">
+                                        <div class="preface"></div>
+                    <div class="col-main">
+                                                <div id="messages_product_view"></div>
+<div class="page-title">
+    <h1>Contáctenos</h1>
+</div>
+<div class="grilla12-3 contactos">
+<form action="https://www.magitech.pe/contacts/index/post/" id="contactForm" method="post">
+    <div class="fieldset">
+        <h2 class="legend">Información de Contacto</h2>
+        <ul class="form-list">
+            <li class="fields">
+                <div class="field">
+                    <label for="name" class="required"><em>*</em>Nombre</label>
+                    <div class="input-box">
+                        <input name="name" id="name" title="Nombre" value="" class="input-text required-entry" type="text" />
+                    </div>
+                </div>
+                <div class="field">
+                    <label for="email" class="required"><em>*</em>Correo electrónico</label>
+                    <div class="input-box">
+                        <input name="email" id="email" title="Correo electrónico" value="" class="input-text required-entry validate-email" type="text" />
+                    </div>
+                </div>
+            </li>
+            <li>
+                <label for="telephone">Teléfono</label>
+                <div class="input-box">
+                    <input name="telephone" id="telephone" title="Teléfono" value="" class="input-text" type="text" />
+                </div>
+            </li>
+            <li class="wide">
+                <label for="comment" class="required"><em>*</em>Comentario</label>
+                <div class="input-box">
+                    <textarea name="comment" id="comment" title="Comentario" class="required-entry input-text" cols="5" rows="3"></textarea>
+                </div>
+            </li>
+        </ul>
+        <p class="required">* Campos Requeridos</p>
+    </div>
+    <div class="buttons-set">
+        <input type="text" name="hideit" id="hideit" value="" style="display:none !important;" />
+        <button type="submit" title="Enviar" class="button"><span><span>Enviar</span></span></button>
+    </div>
+</form>
+</div>
+<div class="grilla12-9">
+
+<div class="contacto-titulo">Contactos comerciales</div>
+
+<table class="tabla-contacto">
+    <thead>
+        <tr>
+            <th width="22%">Nombre</th>
+            <th width="23%">Cargo</th>
+            <th width="10%">Anexo</th>
+            <th width="25%">Email</th>
+            <th width="20%">Celulares</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Yvan Gonzales Solier</td>
+            <td>Ventas Corporativas</td>
+            <td>104</td>
+            <td>ygonzales@mt.com.pe</td>
+            <td>RPC: 998 129 633<br />RPM: 970 900 349</td>
+        </tr>
+        <tr>
+            <td>Jorge Gomez Francia</td>
+            <td>Distribuidores </td>
+            <td>107</td>
+            <td>Jorge.gomez@mt.pe</td>
+            <td>RPC: 946 342 428<br />RPM: 996 672 196</td>
+        </tr>
+        <tr>
+            <td>Sandra Rojas Rios</td>
+            <td>Ventas online</td>
+            <td>112</td>
+            <td>sandra.rojas@mt.pe</td>
+            <td>RPC: 981 214 285 <br/> RPM: 949797082</td>
+        </tr>
+        <tr>
+            <td>Adrian Alcantara</td>
+            <td>Ventas de Servidores & Redes</td>
+            <td>122 ó 124</td>
+            <td>aalcantara@mt.pe</td>
+            <td>RPC: 987769603</td>
+        </tr>
+        <tr>
+            <td>Christian Meza Garibay </td>
+            <td>Partes y Piezas</td>
+            <td>130</td>
+            <td>cmeza@mt.pe</td>
+            <td>RPC: 982 771 474</td>
+        </tr>
+        <tr>
+            <td>Milagros Martell</td>
+            <td>Servicio al Cliente & post-venta</td>
+            <td>116</td>
+            <td>mmartell@mt.com.pe</td>
+            <td>RPC: 981 343 962</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="contacto-titulo">Servicio T&eacute;cnico</div>
+
+<table class="tabla-contacto">
+    <thead>
+        <tr>
+            <th width="22%">Nombre</th>
+            <th width="23%">Cargo</th>
+            <th width="10%">Anexo</th>
+            <th width="25%">Email</th>
+            <th width="20%">Celulares</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Oscar P&aacute;ez</td>
+            <td>Gesti&oacute;n de Garant&iacute;as</td>
+            <td>122</td>
+            <td>oscar.paez@mt.pe</td>
+            <td>RPC: 998 372 227</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="contacto-titulo">Caja & Finanzas</div>
+
+<table class="tabla-contacto">
+    <thead>
+        <tr>
+            <th width="22%">Nombre</th>
+            <th width="23%">Cargo</th>
+            <th width="10%">Anexo</th>
+            <th width="25%">Email</th>
+            <th width="20%">Celulares</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Yolanda Gutierrez Rodríguez</td>
+            <td>Pagos y cobranzas</td>
+            <td>106</td>
+            <td>caja.arenales@mt.pe</td>
+            <td>RPC: 946 339 100</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="contacto-titulo">Almac&eacute;n y Despachos</div>
+
+<table class="tabla-contacto">
+    <thead>
+        <tr>
+            <th width="22%">Nombre</th>
+            <th width="23%">Cargo</th>
+            <th width="10%">Anexo</th>
+            <th width="25%">Email</th>
+            <th width="20%">Celulares</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Alfredo Vasquez</td>
+            <td>Almac&eacute;n</td>
+            <td>119</td>
+            <td>alfredo.vasquez@mt.pe</td>
+            <td>RPC: 946 341 359</td>
+        </tr>
+        <tr>
+            <td>Romulo Ordo&ntilde;ez</td>
+            <td>Despachos</td>
+            <td>123</td>
+            <td>romulo.rodriguez@mt.pe</td>
+            <td>RPC: 970 080 192</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+    var contactForm = new VarienForm('contactForm', true);
+//]]>
+</script>
+                    </div>
+                    <div class="postscript"></div>
+                </div>
+            </div>
+        </div>
+        
+<!--suppress ALL -->
+<div class="footer-container" id="footer">
+<div class="footer-container2">
+
+	<div class="footer-top-container section-container">
+    	
+        <div class="home-boletin">
+<div id="subscribe-form" class="clearer">
+    <form action="https://www.magitech.pe/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div>
+        	<label>Suscríbete al boletín para recibir ofertas y descuentos exclusivos</label>
+            <div class="input-box">
+                <input type="text" name="email" id="newsletter" title="Correo eletrónico" class="input-text required-entry validate-email" />
+                    <button type="submit" title="Suscribirse" class="button btn-checkout btn-inline" style="background-color: #0065c3">SUSCRIBIRME</button>
+            </div>
+        </div>
+    </form>
+</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    new Varien.searchForm('newsletter-validate-detail', 'newsletter', 'Correo eletrónico');
+//]]>
+</script>
+        
+    </div>
+
+
+
+	    
+        
+    <div class="footer-primary-container section-container">
+        <div class="footer-primary footer container">
+            <div class="inner-container">
+
+				                <div class="section clearer">
+					<div class=" grid12-3">	<div class="std"><div class="collapsible mobile-collapsible">
+
+	<h6 class="block-title heading">Servicio al Cliente</h6>
+	<div class="block-content">
+	
+		<ul>
+			<li><a href="https://www.magitech.pe/contacts">Contáctanos</a></li>
+			<li><a href="https://www.magitech.pe/terminos-y-condiciones.html">Términos y Condiciones</a></li>
+			<li><a href="https://www.magitech.pe/preguntas-frecuentes.html">Preguntas frecuentes</a></li>
+			<li><a href="https://www.magitech.pe/de-la-garantia.html">De la Garantia</a></li>
+			<li><a href="https://www.magitech.pe/cambios-y-devoluciones.html">Cambios y Devoluciones</a></li>
+			<li><a href="https://www.magitech.pe/medios-y-formas-de-pago.html">Medios y Formas de Pago</a></li>
+                        <li><a href="https://www.magitech.pe/despachos-y-formas-de-envio.html">Despachos y Formas de Envío</a></li>
+		</ul>
+
+	</div>
+
+</div></div></div><div class=" grid12-3">	<div class="std"><div class="collapsible mobile-collapsible">
+
+	<h6 class="block-title heading">Mi Cuenta</h6>
+	<div class="block-content">
+	
+		<ul>
+			<li><a href="https://www.magitech.pe/customer/account/login">Regístrate</a></li>
+			<li><a href="https://www.magitech.pe/distribuidores">Regístrate como distribuidor</a></li>
+			<li><a href="https://www.magitech.pe/customer/account">Actualiza tus datos</a></li>
+			<li><a href="https://www.magitech.pe/customer/account/forgotpassword">Cambiar contraseña</a></li>
+		</ul>
+
+	</div>
+
+</div></div></div><div class=" grid12-3">	<div class="std"><div class="collapsible mobile-collapsible">
+
+	<h6 class="block-title heading">Nosotros</h6>
+	<div class="block-content">
+	
+		<ul>
+			<li><a href="https://www.magitech.pe/quienes-somos.html">Quiénes somos</a></li>
+
+		</ul>
+		
+
+	</div>
+<br>
+	<div class="block-content">
+	
+		
+		<ul>
+			<li><a href="https://www.magitech.pe/libro-de-reclamaciones"><img src="https://www.magitech.pe/media/wysiwyg/assets/libro-re.png"  width= "130px" alt="" /></a></li>
+
+		</ul>
+
+	</div>
+
+</div></div></div><div class=" grid12-3">	<div class="std"><div class="collapsible mobile-collapsible">
+
+		<h6 class="block-title heading">Síguenos</h6>
+		<div class="block-content redes-sociales">
+                <ul>
+                        <li><a class="facebook" href="https://www.facebook.com/magitechcomputo" title="Síguenos en Facebook" target="_blank"><span class="ib ib-hover ic ic-lg ic-facebook"></span>&nbsp;&nbsp;Facebook</a></li>
+	                <li><a class="twitter" href="#" title="Síguenos en Twitter"><span class="ib ib-hover ic ic-lg ic-twitter"></span>&nbsp;&nbsp;Twitter</a></li>
+                        <li><a class="google" href="https://plus.google.com/+MagitechPeMT" title="Síguenos en Google+" target="_blank"><span class="ib ib-hover ic ic-lg ic-googleplus"></span>&nbsp;&nbsp;Google+</a></li>
+	                <!--<li><a class="linkedin" href="#" title="LinkedIn"><span class="ib ib-hover ic ic-lg ic-linkedin"></span>&nbsp;&nbsp;LinkedIn</a></li>-->
+                </ul>
+		</div>
+
+</div></div></div>                </div> <!-- end: footer-primary section -->
+                                
+                            
+            </div> <!-- end: inner-container -->
+        </div> <!-- end: footer-primary -->
+    </div>
+    
+    
+
+    
+        
+    
+    <div class="footer-secondary-container section-container">
+        <div class="footer-secondary footer container">
+            <div class="inner-container">
+            
+                                <div class="section clearer">
+					<div class=" grid12-12">	<div class="std"><div class="grid12-12 medios-pagos" style="text-align: center;">
+
+	<div style="display: inline-block; float: none;" class="f-blanco">
+		<span><img src="https://www.magitech.pe/skin/frontend/ultimo/default/images/payment/vpos.png" height="30px" /></span>
+		<span><img src="https://www.magitech.pe/skin/frontend/ultimo/default/images/payment/visa.png" height="30px" /></span>
+		<span><img src="https://www.magitech.pe/skin/frontend/ultimo/default/images/payment/verified-by-visa.png" height="30px" /></span>
+		<span><img src="https://www.magitech.pe/skin/frontend/ultimo/default/images/payment/mastercard.png" height="30px" /></span>
+		<span><img src="https://www.magitech.pe/skin/frontend/ultimo/default/images/payment/mastercard-securecode.png" height="30px" /></span>
+		<span><img src="https://www.magitech.pe/skin/frontend/ultimo/default/images/payment/amex.png" height="30px" /></span>
+	</div>
+
+</div></div></div>				</div> <!-- end: footer-secondary section -->
+                
+            </div> <!-- end: inner-container -->
+        </div> <!-- end: footer-secondary -->
+    </div>
+    
+    
+
+    
+    <div class="footer-bottom-container section-container">
+        <div class="footer-bottom footer container">
+            <div class="inner-container">
+
+                <div class="section clearer">
+                
+                	<div class="item item-left">
+                    	<p class="footer-copyright">&copy; 2014 Magic Techonologies - Magitech. Todos los Derechos Reservados.</p>
+                    </div>
+                    
+                                        
+                                        
+                    
+                </div> <!-- end: footer-bottom section -->
+
+            </div> <!-- end: inner-container -->
+        </div> <!-- end: footer-bottom -->
+    </div>
+    
+    <a id="scroll-to-top" class="ic ic-up" href="#top"></a>
+
+</div> <!-- end: footer-container2 -->
+</div> <!-- end: footer-container -->
+
+<div class="bar-fix-bottom">
+
+<div class="cookie-notice-container" id="cookvisible"><span id="cn-notice-text">Utilizamos cookies para mejorar la experiencia al usuario en nuestro sitio web. Si continúa navegando en este sitio, asumiremos que está de acuerdo.</span><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button wp-default cookiebutton" onclick="myJsFunc();">Estoy de acuerdo</a> </div>
+
+<a href="https://api.whatsapp.com/send?phone=51998129633" target="_blank">
+<div  class="whatsappme whatsappme--left whatsappme--show">
+
+			<div class="whatsappme__button">
+			<img src="../../../../img/what.png"/>
+			</div>
+					</div></a>
+
+	<div class="bar-inner">
+          <div class="bar-contenido oculto"> <a href="https://api.whatsapp.com/send?phone=51981214285" target="_blank"><img src="../../../../img/mobil.png"/> </a>  </div>
+        <div class="bar-contenido"><span class="bar-tienda"></span><span class="bar-txt"><strong>Tienda - Showroom</strong><br />Av. Arenales 659, Santa Beatriz, Lima</span></div>
+        <div class="bar-contenido"><span class="bar-telefono"></span><span class="bar-txt"><strong>Central - Ventas </strong><br />(01) 332-5500</span></div>
+        <div class="bar-contenido"><span class="bar-soporte"></span><span class="bar-txt"><strong>Soporte</strong><br />(01) 332-1115</span></div>
+        <div class="bar-contenido"><span class="bar-email"></span><span class="bar-txt"><strong>Email</strong><br />ventas@mt.pe</span></div>
+        <div class="bar-contenido">
+        	<div data-id="c55ed9de53" class="livechat_button">
+            	<a href="http://www.livechatinc.com/?partner=lc_1732361&amp;utm_source=chat_button"><span class="bar-chat"></span><span class="bar-txt"><strong>Necesitas ayuda</strong><br />Chatea con nosotros</span></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">		
+	jQuery(document).ready(function() {
+		jQuery("body *[data-toggle='tooltip']").tooltip();
+	});
+</script>
+
+
+                
+<script type="text/javascript">
+	//<![CDATA[
+
+		
+
+
+	jQuery(function($) {
+
+				$('.collapsible').each(function(index) {
+			$(this).prepend('<span class="opener"></span>');
+			if ($(this).hasClass('active'))
+			{
+				$(this).children('.block-content').css('display', 'block');
+			}
+			else
+			{
+				$(this).children('.block-content').css('display', 'none');
+			}			
+		});
+				$('.collapsible .opener').click(function() {
+			
+			var parent = $(this).parent();
+			if (parent.hasClass('active'))
+			{
+				$(this).siblings('.block-content').stop(true).slideUp(300, "easeOutCubic");
+				parent.removeClass('active');
+			}
+			else
+			{
+				$(this).siblings('.block-content').stop(true).slideDown(300, "easeOutCubic");
+				parent.addClass('active');
+			}
+			
+		});
+		
+		
+				var ddOpenTimeout;
+		var dMenuPosTimeout;
+		var DD_DELAY_IN = 200;
+		var DD_DELAY_OUT = 0;
+		var DD_ANIMATION_IN = 0;
+		var DD_ANIMATION_OUT = 0;
+
+		$('.clickable-dropdown > .dropdown-heading').click(function() {
+			$(this).parent().addClass('open');
+			$(this).parent().trigger('mouseenter');
+		});
+
+		//$('.dropdown-heading').on('click', function(e) {
+		$(document).on('click', '.dropdown-heading', function(e) {
+			e.preventDefault();
+		});
+
+		$(document).on('mouseenter', '.dropdown', function() {
+			
+			var ddToggle = $(this).children('.dropdown-heading');
+			var ddMenu = $(this).children('.dropdown-content');
+			var ddWrapper = ddMenu.parent(); 			
+						ddMenu.css("left", "");
+			ddMenu.css("right", "");
+			
+						if ($(this).hasClass('clickable-dropdown'))
+			{
+								if ($(this).hasClass('open'))
+				{
+					$(this).children('.dropdown-content').stop(true, true).delay(DD_DELAY_IN).fadeIn(DD_ANIMATION_IN, "easeOutCubic");
+				}
+			}
+			else
+			{
+								clearTimeout(ddOpenTimeout);
+				ddOpenTimeout = setTimeout(function() {
+					
+					ddWrapper.addClass('open');
+					
+				}, DD_DELAY_IN);
+				
+				//$(this).addClass('open');
+				$(this).children('.dropdown-content').stop(true, true).delay(DD_DELAY_IN).fadeIn(DD_ANIMATION_IN, "easeOutCubic");
+			}
+			
+						clearTimeout(dMenuPosTimeout);
+			dMenuPosTimeout = setTimeout(function() {
+
+				if (ddMenu.offset().left < 0)
+				{
+					var space = ddWrapper.offset().left; 					ddMenu.css("left", (-1)*space);
+					ddMenu.css("right", "auto");
+				}
+			
+			}, DD_DELAY_IN);
+
+		}).on('mouseleave', '.dropdown', function() {
+			
+			var ddMenu = $(this).children('.dropdown-content');
+			clearTimeout(ddOpenTimeout); 			ddMenu.stop(true, true).delay(DD_DELAY_OUT).fadeOut(DD_ANIMATION_OUT, "easeInCubic");
+			if (ddMenu.is(":hidden"))
+			{
+				ddMenu.hide();
+			}
+			$(this).removeClass('open');
+		});
+		
+		
+		
+							$(".main").addClass("show-bg");
+				
+		
+		
+				var windowScroll_t;
+		$(window).scroll(function(){
+			
+			clearTimeout(windowScroll_t);
+			windowScroll_t = setTimeout(function() {
+										
+				if ($(this).scrollTop() > 100)
+				{
+					$('#scroll-to-top').fadeIn();
+				}
+				else
+				{
+					$('#scroll-to-top').fadeOut();
+				}
+			
+			}, 500);
+			
+		});
+		
+		$('#scroll-to-top').click(function(){
+			$("html, body").animate({scrollTop: 0}, 600, "easeOutCubic");
+			return false;
+		});
+		
+		
+		
+						
+						$('.category-products-grid').on('mouseenter', '.item', function() {
+				$(this).find(".display-onhover").fadeIn(400, "easeOutCubic");
+			}).on('mouseleave', '.item', function() {
+				$(this).find(".display-onhover").stop(true).hide();
+			});
+		
+		
+
+
+				$('.products-grid, .products-list').on('mouseenter', '.item', function() {
+			$(this).find(".alt-img").fadeIn(400, "easeOutCubic");
+		}).on('mouseleave', '.item', function() {
+			$(this).find(".alt-img").stop(true).fadeOut(400, "easeOutCubic");
+		});
+
+
+
+				$('.fade-on-hover').on('mouseenter', function() {
+			$(this).animate({opacity: 0.75}, 300, 'easeInOutCubic');
+		}).on('mouseleave', function() {
+			$(this).stop(true).animate({opacity: 1}, 300, 'easeInOutCubic');
+		});
+
+
+
+				var dResize = {
+
+			winWidth : 0
+			, winHeight : 0
+			, windowResizeTimeout : null
+
+			, init : function()
+			{
+				dResize.winWidth = $(window).width();
+				dResize.winHeight = $(window).height();
+				dResize.windowResizeTimeout;
+
+				$(window).on('resize', function(e) {
+					clearTimeout(dResize.windowResizeTimeout);
+					dResize.windowResizeTimeout = setTimeout(function() {
+						dResize.onEventResize(e);
+					}, 50);
+				});
+			}
+
+			, onEventResize : function(e)
+			{
+				//Prevent from executing the code in IE when the window wasn't actually resized
+				var winNewWidth = $(window).width();
+				var winNewHeight = $(window).height();
+
+				//Code in this condition will be executed only if window was actually resized
+				if (dResize.winWidth != winNewWidth || dResize.winHeight != winNewHeight)
+				{
+					//Trigger deferred resize event
+					$(document).trigger("themeResize", e);
+
+					//Additional code executed on deferred resize
+					dResize.onEventDeferredResize();
+				}
+
+				//Update window size variables
+				dResize.winWidth = winNewWidth;
+				dResize.winHeight = winNewHeight;
+			}
+
+			, onEventDeferredResize : function() //Additional code, execute after window was actually resized
+			{
+				//Products grid: equal height of items
+				
+			}
+
+		}; //end: dResize
+
+		dResize.init();
+
+
+
+	}); //end: on document ready
+	
+	
+
+	jQuery(window).load(function(){
+		
+				
+	}); //end: jQuery(window).load(){...}
+
+
+
+	//]]>
+</script>
+<div class="global-site-notice notice-cookie" id="notice-cookie-block">
+    <div class="notice-inner">
+        <div class="notice-text"><p>Este sitio web requiere cookies para proporcionar todas sus características. Para obtener más información sobre qué datos están contenidos en las cookies, consulte nuestra   <a href="https://www.magitech.pe/cms/index/noCookies/">página de la Política de privacidad</a>. Para aceptar cookies de este sitio, haga clic en el botón Permitir a continuación.</p></div>
+        <div class="actions"><button class="button" onclick="allowSaveCookie()"><span><span>Permitir</span></span></button></div>
+    </div>
+</div>
+<script type="text/javascript">
+    /* <![CDATA[ */
+    function allowSaveCookie() {
+        Mage.Cookies.set('user_allowed_save_cookie', '{"1":1}', new Date(new Date().getTime() + 31536000 * 1000));
+        if (Mage.Cookies.get('user_allowed_save_cookie')) {
+            window.location.reload();
+        } else {
+            window.location.href = 'https://www.magitech.pe/cms/index/noCookies/';
+        }
+    }
+    $('notice-cookie-block').show();
+    /* ]]> */
+</script>
+
+
+    </div>
+</div>
+</div> <!-- end: root-wrapper -->
+<style type="text/css">
+.imgicomenu{
+	width: 50px;
+}
+.containermenupc, .containermenulaptop{
+	width: 100%;
+
+}
+.menupc01{
+	width: 30%;
+	display: inline-block;
+	border-right: 1px solid #ccc;
+vertical-align: top;
+
+}
+.menupc02{
+	width: 20%;
+	display: inline-block;
+	border-right: 1px solid #ccc;
+        vertical-align: top;
+
+}
+.menupc03{
+	width: 38%;
+	display: inline-block;
+	border-right: 1px solid #ccc;
+}
+.menupc04{
+	width: 10%;
+	display: inline-block;
+
+}
+
+ul.menu-categorias  li, ul.menu-formato  li , ul.menu-remates  li {
+padding-bottom:17px;
+}
+
+
+.containermenupc ul li a{
+	display: block;
+	text-align: center;
+        font-size:11px;
+}
+
+
+.containermenulaptop ul{
+	list-style: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 100%;
+}
+
+.containermenulaptop li{
+  float: left;
+  text-align: center;
+}
+.containermenulaptop li a{
+	display: block;
+	text-decoration: none;
+	font-size: 11px;
+}
+
+
+
+li.titulomenu{
+	TEXT-ALIGN: center;
+	width: 100% !important;
+	font-size: 12px;
+	font-weight: 700;
+}
+.menupc01 li{
+	width: 33.33%;
+	float: left;
+}
+
+.menupc02 li{
+	width: 50%;
+	float: left;
+}
+
+.menupc03 li{
+	width: 33.33%;
+	float: left;
+}
+.menupc03 li.dos{
+	width: 25%;
+	float: left;
+}
+.menupc04 li{
+	width: 100%;
+	float: left;
+}
+ul.tamanopantalla li {
+	width: 25%;
+
+}
+
+ul.tamanopantalla li a {
+	border: 1px solid #cccccc;
+	margin: 3px;
+	padding: 15px 8px;
+}
+.nav-2 .nav-block--center.grid12-12, .nav-1 .nav-block--center.grid12-12 {
+    display: none;
+}
+
+@media only screen and (max-width: 767px){
+
+.nav-2 .nav-block--center.grid12-12, .nav-1 .nav-block--center.grid12-12 {
+    display: block!important;
+}
+
+		}
+
+.formlibro input.input-text , .formlibro textarea.input-text {
+    display: block;
+    margin-bottom: 15px;
+    width: 300px;
+}
+.formlibro li {
+    list-style: none;
+}
+
+@media print {
+  @page { margin: 0; }
+  body { margin: 1.6cm; }
+}
+</style>
+<!-- SOCIOMANTIC Inicio de etiqueta de remarketing -->
+
+<script type="text/javascript">
+	(function(){
+		var s   = document.createElement('script');
+		var x   = document.getElementsByTagName('script')[0];
+		s.type  = 'text/javascript';
+		s.async = true;
+		s.src   = ('https:'==document.location.protocol?'https://':'http://')
+				+ 'us-sonar.sociomantic.com/js/2010-07-01/adpan/magitech-pe';
+		x.parentNode.insertBefore( s, x );
+	})();
+</script>
+
+<!-- SOCIOMANTIC Fin de etiqueta de remarketing -->
+
+</body>
+</html
+
+	<!-- /newsletter-->
+	<div class="newsletter_w3ls_agileits">
+		<div class="col-sm-6 newsleft">
+			<h3>Regístrese para boletín!</h3>
+		</div>
+		<div class="col-sm-6 newsright">
+			<form action="#" method="post">
+				<input type="email" placeholder="Enter your email..." name="email" required="">
+				<input type="submit" value="Submit">
+			</form>
+		</div>
+
+		<div class="clearfix"></div>
+	</div>
+	<!-- //newsletter-->
+
+	<!-- footer -->
+	<div class="footer">
+		<div class="footer_inner_info_w3ls_agileits">
+			<div class="col-md-3 footer-left">
+				<h2><a href="index.html"><i class="fa fa-clone" aria-hidden="true"></i> PC-ritas </a></h2>
+				<p>Visitenos  a todas nuestras redes  sociales </p>
+				<ul class="social-nav model-3d-0 footer-social social two">
+					<li>
+						<a href="https://www.facebook.com/" class="facebook">
+							<div class="front"><i class="fa fa-facebook" aria-hidden="true"></i></div>
+							<div class="back"><i class="fa fa-facebook" aria-hidden="true"></i></div>
+						</a>
+					</li>
+					<li>
+						<a href="https://twitter.com/login?lang=es" class="twitter">
+							<div class="front"><i class="fa fa-twitter" aria-hidden="true"></i></div>
+							<div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
+						</a>
+					</li>
+					<li>
+						<a href="https://www.instagram.com/accounts/login/?hl=es-la" class="instagram">
+							<div class="front"><i class="fa fa-instagram" aria-hidden="true"></i></div>
+							<div class="back"><i class="fa fa-instagram" aria-hidden="true"></i></div>
+						</a>
+					</li>
+					<li>
+						<a href="https://www.pinterest.es/login/" class="pinterest">
+							<div class="front"><i class="fa fa-linkedin" aria-hidden="true"></i></div>
+							<div class="back"><i class="fa fa-linkedin" aria-hidden="true"></i></div>
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="col-md-9 footer-right">
+				<div class="sign-grds">
+					<div class="col-md-4 sign-gd">
+						<h4>Latest <span>Info</span> </h4>
+						<ul>
+							<li><a href="index.html">Inicio</a></li>
+							<li><a href="about.html">Acerca de</a></li>
+							<li><a href="404.html">Servicio</a></li>
+							<li><a href="signin.html">Registrarse</a></li>
+							<li><a href="contact.html">Contactanos</a></li>
+						</ul>
+					</div>
+				
+					<div class="col-md-5 sign-gd-two">
+						<h4>Contact <span>Information</span></h4>
+						<div class="address">
+							<div class="address-grid">
+								<div class="address-left">
+									<i class="fa fa-phone" aria-hidden="true"></i>
+								</div>
+								<div class="address-right">
+									<h6>Número de teléfono</h6>
+									<p>+1 234 567 8901</p>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+							<div class="address-grid">
+								<div class="address-left">
+									<i class="fa fa-envelope" aria-hidden="true"></i>
+								</div>
+								<div class="address-right">
+									<h6>Dirección de correo electrónico</h6>
+									<p>Email :<a href="Pc-ritas:example@email.com"> mail@example.com</a></p>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+							<div class="address-grid">
+								<div class="address-left">
+									<i class="fa fa-map-marker" aria-hidden="true"></i>
+								</div>
+								<div class="address-right">
+									<h6>Ubicación</h6>
+									<p> Pasaje San lorenzo N°280 San Carlos
+ 
+									</p>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+						</div>
+					</div>
+
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+			<p class="copy-right">&Pc-ritas 2018 Pc-ritas. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
+		</div>
+	</div>
+	</div>
+	<!-- //footer -->
+	<script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.js"></script>
+	<script>
+		$('ul.dropdown-menu li').hover(function () {
+			$(this).find('.dropdown-menu').stop(true, true).delay(200).fadeIn(500);
+		}, function () {
+			$(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut(500);
+		});
+	</script>
+
+	<!-- js -->
+	<!-- Smooth-Scrolling-JavaScript -->
+	<script type="text/javascript" src="js/easing.js"></script>
+	<script type="text/javascript" src="js/move-top.js"></script>
+	<script type="text/javascript">
+		jQuery(document).ready(function ($) {
+			$(".scroll, .navbar li a, .footer li a").click(function (event) {
+				$('html,body').animate({
+					scrollTop: $(this.hash).offset().top
+				}, 1000);
+			});
+		});
+	</script>
+	<!-- //Smooth-Scrolling-JavaScript -->
+	<script type="text/javascript">
+		$(document).ready(function () {
+			/*
+									var defaults = {
+							  			containerID: 'toTop', // fading element id
+										containerHoverID: 'toTopHover', // fading element hover id
+										scrollSpeed: 1200,
+										easingType: 'linear' 
+							 		};
+									*/
+
+			$().UItoTop({
+				easingType: 'easeOutQuart'
+			});
+
+		});
+	</script>
+	<a href="#home" class="scroll" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+	<!-- jQuery-Photo-filter-lightbox-Gallery-plugin -->
+	<script type="text/javascript" src="js/jquery-1.7.2.js"></script>
+	<script src="js/jquery.quicksand.js" type="text/javascript"></script>
+	<script src="js/script.js" type="text/javascript"></script>
+	<script src="js/jquery.prettyPhoto.js" type="text/javascript"></script>
+	<!-- //jQuery-Photo-filter-lightbox-Gallery-plugin -->
+
 </body>
 
 </html>
